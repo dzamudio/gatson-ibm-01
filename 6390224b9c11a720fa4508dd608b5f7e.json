@@ -1,0 +1,9019 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4275,
+    "features": 10
+  },
+  "syntax": {
+    "tokens": [
+      {
+        "text": "Villepinte",
+        "part_of_speech": "ADJ",
+        "location": [
+          0,
+          10
+        ]
+      },
+      {
+        "text": "(",
+        "part_of_speech": "PUNCT",
+        "location": [
+          11,
+          12
+        ]
+      },
+      {
+        "text": "France",
+        "part_of_speech": "PROPN",
+        "location": [
+          12,
+          18
+        ]
+      },
+      {
+        "text": ")",
+        "part_of_speech": "PUNCT",
+        "location": [
+          18,
+          19
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          20,
+          23
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "Cambridge",
+        "part_of_speech": "PROPN",
+        "location": [
+          24,
+          33
+        ]
+      },
+      {
+        "text": "(",
+        "part_of_speech": "PUNCT",
+        "location": [
+          34,
+          35
+        ]
+      },
+      {
+        "text": "USA",
+        "part_of_speech": "PROPN",
+        "location": [
+          35,
+          38
+        ]
+      },
+      {
+        "text": ")",
+        "part_of_speech": "PUNCT",
+        "location": [
+          38,
+          39
+        ]
+      },
+      {
+        "text": "-",
+        "part_of_speech": "PUNCT",
+        "location": [
+          40,
+          41
+        ]
+      },
+      {
+        "text": "July",
+        "part_of_speech": "PROPN",
+        "location": [
+          42,
+          46
+        ],
+        "lemma": "July"
+      },
+      {
+        "text": "10",
+        "part_of_speech": "NUM",
+        "location": [
+          47,
+          49
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          49,
+          50
+        ]
+      },
+      {
+        "text": "2018",
+        "part_of_speech": "NUM",
+        "location": [
+          51,
+          55
+        ]
+      },
+      {
+        "text": "(",
+        "part_of_speech": "PUNCT",
+        "location": [
+          56,
+          57
+        ]
+      },
+      {
+        "text": "8:30",
+        "part_of_speech": "NUM",
+        "location": [
+          57,
+          61
+        ]
+      },
+      {
+        "text": "am",
+        "part_of_speech": "NOUN",
+        "location": [
+          62,
+          64
+        ]
+      },
+      {
+        "text": "CEST",
+        "part_of_speech": "PROPN",
+        "location": [
+          65,
+          69
+        ]
+      },
+      {
+        "text": ")",
+        "part_of_speech": "PUNCT",
+        "location": [
+          69,
+          70
+        ]
+      },
+      {
+        "text": "–",
+        "part_of_speech": "PUNCT",
+        "location": [
+          71,
+          72
+        ]
+      },
+      {
+        "text": "Guerbet",
+        "part_of_speech": "PROPN",
+        "location": [
+          73,
+          80
+        ]
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          81,
+          82
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "global",
+        "part_of_speech": "ADJ",
+        "location": [
+          83,
+          89
+        ],
+        "lemma": "global"
+      },
+      {
+        "text": "specialist",
+        "part_of_speech": "NOUN",
+        "location": [
+          90,
+          100
+        ],
+        "lemma": "specialist"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          101,
+          103
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "contrast",
+        "part_of_speech": "NOUN",
+        "location": [
+          104,
+          112
+        ],
+        "lemma": "contrast"
+      },
+      {
+        "text": "agents",
+        "part_of_speech": "NOUN",
+        "location": [
+          113,
+          119
+        ],
+        "lemma": "agent"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          120,
+          123
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "solutions",
+        "part_of_speech": "NOUN",
+        "location": [
+          124,
+          133
+        ],
+        "lemma": "solution"
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          134,
+          137
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "diagnostic",
+        "part_of_speech": "ADJ",
+        "location": [
+          138,
+          148
+        ],
+        "lemma": "diagnostic"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          149,
+          152
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "interventional",
+        "part_of_speech": "ADJ",
+        "location": [
+          153,
+          167
+        ]
+      },
+      {
+        "text": "medical",
+        "part_of_speech": "ADJ",
+        "location": [
+          168,
+          175
+        ],
+        "lemma": "medical"
+      },
+      {
+        "text": "imaging",
+        "part_of_speech": "NOUN",
+        "location": [
+          176,
+          183
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          183,
+          184
+        ]
+      },
+      {
+        "text": "today",
+        "part_of_speech": "NOUN",
+        "location": [
+          185,
+          190
+        ],
+        "lemma": "today"
+      },
+      {
+        "text": "announced",
+        "part_of_speech": "VERB",
+        "location": [
+          191,
+          200
+        ],
+        "lemma": "announce"
+      },
+      {
+        "text": "that",
+        "part_of_speech": "SCONJ",
+        "location": [
+          201,
+          205
+        ],
+        "lemma": "that"
+      },
+      {
+        "text": "it",
+        "part_of_speech": "PRON",
+        "location": [
+          206,
+          208
+        ],
+        "lemma": "it"
+      },
+      {
+        "text": "has",
+        "part_of_speech": "AUX",
+        "location": [
+          209,
+          212
+        ],
+        "lemma": "have"
+      },
+      {
+        "text": "signed",
+        "part_of_speech": "VERB",
+        "location": [
+          213,
+          219
+        ],
+        "lemma": "sign"
+      },
+      {
+        "text": "an",
+        "part_of_speech": "DET",
+        "location": [
+          220,
+          222
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "exclusive",
+        "part_of_speech": "ADJ",
+        "location": [
+          223,
+          232
+        ],
+        "lemma": "exclusive"
+      },
+      {
+        "text": "joint",
+        "part_of_speech": "ADJ",
+        "location": [
+          233,
+          238
+        ],
+        "lemma": "joint"
+      },
+      {
+        "text": "development",
+        "part_of_speech": "NOUN",
+        "location": [
+          239,
+          250
+        ],
+        "lemma": "development"
+      },
+      {
+        "text": "agreement",
+        "part_of_speech": "NOUN",
+        "location": [
+          251,
+          260
+        ],
+        "lemma": "agreement"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          261,
+          263
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "develop",
+        "part_of_speech": "VERB",
+        "location": [
+          264,
+          271
+        ],
+        "lemma": "develop"
+      },
+      {
+        "text": "an",
+        "part_of_speech": "DET",
+        "location": [
+          272,
+          274
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "artificial",
+        "part_of_speech": "ADJ",
+        "location": [
+          275,
+          285
+        ],
+        "lemma": "artificial"
+      },
+      {
+        "text": "intelligence",
+        "part_of_speech": "NOUN",
+        "location": [
+          286,
+          298
+        ],
+        "lemma": "intelligence"
+      },
+      {
+        "text": "(",
+        "part_of_speech": "PUNCT",
+        "location": [
+          299,
+          300
+        ]
+      },
+      {
+        "text": "AI",
+        "part_of_speech": "AUX",
+        "location": [
+          300,
+          302
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": ")",
+        "part_of_speech": "PUNCT",
+        "location": [
+          302,
+          303
+        ]
+      },
+      {
+        "text": "software",
+        "part_of_speech": "ADJ",
+        "location": [
+          304,
+          312
+        ],
+        "lemma": "software"
+      },
+      {
+        "text": "solution",
+        "part_of_speech": "NOUN",
+        "location": [
+          313,
+          321
+        ],
+        "lemma": "solution"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          322,
+          324
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "collaboration",
+        "part_of_speech": "NOUN",
+        "location": [
+          325,
+          338
+        ],
+        "lemma": "collaboration"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          339,
+          343
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          344,
+          347
+        ]
+      },
+      {
+        "text": "(",
+        "part_of_speech": "PUNCT",
+        "location": [
+          348,
+          349
+        ]
+      },
+      {
+        "text": "NYSE",
+        "part_of_speech": "PROPN",
+        "location": [
+          349,
+          353
+        ]
+      },
+      {
+        "text": ":",
+        "part_of_speech": "PUNCT",
+        "location": [
+          353,
+          354
+        ],
+        "lemma": ":"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          355,
+          358
+        ]
+      },
+      {
+        "text": ")",
+        "part_of_speech": "PUNCT",
+        "location": [
+          358,
+          359
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          360,
+          366
+        ]
+      },
+      {
+        "text": "Health",
+        "part_of_speech": "PROPN",
+        "location": [
+          367,
+          373
+        ],
+        "lemma": "Health"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          374,
+          376
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "support",
+        "part_of_speech": "VERB",
+        "location": [
+          377,
+          384
+        ],
+        "lemma": "support"
+      },
+      {
+        "text": "liver",
+        "part_of_speech": "NOUN",
+        "location": [
+          385,
+          390
+        ],
+        "lemma": "liver"
+      },
+      {
+        "text": "cancer",
+        "part_of_speech": "NOUN",
+        "location": [
+          391,
+          397
+        ],
+        "lemma": "cancer"
+      },
+      {
+        "text": "diagnostics",
+        "part_of_speech": "NOUN",
+        "location": [
+          398,
+          409
+        ],
+        "lemma": "diagnostic"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          410,
+          413
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "care",
+        "part_of_speech": "NOUN",
+        "location": [
+          414,
+          418
+        ],
+        "lemma": "care"
+      },
+      {
+        "text": "utilizing",
+        "part_of_speech": "VERB",
+        "location": [
+          419,
+          428
+        ],
+        "lemma": "utilize"
+      },
+      {
+        "text": "CT",
+        "part_of_speech": "NOUN",
+        "location": [
+          429,
+          431
+        ],
+        "lemma": "CT"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          432,
+          435
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "MRI",
+        "part_of_speech": "NOUN",
+        "location": [
+          436,
+          439
+        ],
+        "lemma": "MRI"
+      },
+      {
+        "text": "imaging",
+        "part_of_speech": "VERB",
+        "location": [
+          440,
+          447
+        ],
+        "lemma": "image"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          447,
+          448
+        ]
+      },
+      {
+        "text": "Through",
+        "part_of_speech": "ADP",
+        "location": [
+          449,
+          456
+        ],
+        "lemma": "through"
+      },
+      {
+        "text": "this",
+        "part_of_speech": "DET",
+        "location": [
+          457,
+          461
+        ],
+        "lemma": "this"
+      },
+      {
+        "text": "collaboration",
+        "part_of_speech": "NOUN",
+        "location": [
+          462,
+          475
+        ],
+        "lemma": "collaboration"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          475,
+          476
+        ]
+      },
+      {
+        "text": "Guerbet",
+        "part_of_speech": "PROPN",
+        "location": [
+          477,
+          484
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          485,
+          488
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          489,
+          492
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          493,
+          499
+        ]
+      },
+      {
+        "text": "Health",
+        "part_of_speech": "PROPN",
+        "location": [
+          500,
+          506
+        ],
+        "lemma": "Health"
+      },
+      {
+        "text": "plan",
+        "part_of_speech": "NOUN",
+        "location": [
+          507,
+          511
+        ],
+        "lemma": "plan"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "ADP",
+        "location": [
+          512,
+          514
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "co",
+        "part_of_speech": "X",
+        "location": [
+          515,
+          517
+        ],
+        "lemma": "co"
+      },
+      {
+        "text": "-",
+        "part_of_speech": "PUNCT",
+        "location": [
+          517,
+          518
+        ]
+      },
+      {
+        "text": "develop",
+        "part_of_speech": "VERB",
+        "location": [
+          518,
+          525
+        ],
+        "lemma": "develop"
+      },
+      {
+        "text": "innovative",
+        "part_of_speech": "ADJ",
+        "location": [
+          526,
+          536
+        ],
+        "lemma": "innovative"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          536,
+          537
+        ]
+      },
+      {
+        "text": "clinical",
+        "part_of_speech": "ADJ",
+        "location": [
+          538,
+          546
+        ],
+        "lemma": "clinical"
+      },
+      {
+        "text": "decision",
+        "part_of_speech": "NOUN",
+        "location": [
+          547,
+          555
+        ],
+        "lemma": "decision"
+      },
+      {
+        "text": "support",
+        "part_of_speech": "NOUN",
+        "location": [
+          556,
+          563
+        ],
+        "lemma": "support"
+      },
+      {
+        "text": "solutions",
+        "part_of_speech": "NOUN",
+        "location": [
+          564,
+          573
+        ],
+        "lemma": "solution"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          573,
+          574
+        ]
+      },
+      {
+        "text": "The",
+        "part_of_speech": "DET",
+        "location": [
+          575,
+          578
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "first",
+        "part_of_speech": "ADJ",
+        "location": [
+          579,
+          584
+        ],
+        "lemma": "first"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          584,
+          585
+        ]
+      },
+      {
+        "text": "called",
+        "part_of_speech": "VERB",
+        "location": [
+          586,
+          592
+        ],
+        "lemma": "call"
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          593,
+          599
+        ]
+      },
+      {
+        "text": "Imaging",
+        "part_of_speech": "PROPN",
+        "location": [
+          600,
+          607
+        ]
+      },
+      {
+        "text": "Care",
+        "part_of_speech": "PROPN",
+        "location": [
+          608,
+          612
+        ],
+        "lemma": "Care"
+      },
+      {
+        "text": "Advisor",
+        "part_of_speech": "PROPN",
+        "location": [
+          613,
+          620
+        ],
+        "lemma": "Adviser"
+      },
+      {
+        "text": "[",
+        "part_of_speech": "PUNCT",
+        "location": [
+          620,
+          621
+        ]
+      },
+      {
+        "text": "1",
+        "part_of_speech": "NUM",
+        "location": [
+          621,
+          622
+        ]
+      },
+      {
+        "text": "]",
+        "part_of_speech": "PUNCT",
+        "location": [
+          622,
+          623
+        ]
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          624,
+          627
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "Liver",
+        "part_of_speech": "PROPN",
+        "location": [
+          628,
+          633
+        ],
+        "lemma": "Liver"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          633,
+          634
+        ]
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          635,
+          637
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "planned",
+        "part_of_speech": "VERB",
+        "location": [
+          638,
+          645
+        ],
+        "lemma": "plan"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          646,
+          648
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "be",
+        "part_of_speech": "AUX",
+        "location": [
+          649,
+          651
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          652,
+          653
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "diagnostic",
+        "part_of_speech": "ADJ",
+        "location": [
+          654,
+          664
+        ],
+        "lemma": "diagnostic"
+      },
+      {
+        "text": "support",
+        "part_of_speech": "NOUN",
+        "location": [
+          665,
+          672
+        ],
+        "lemma": "support"
+      },
+      {
+        "text": "tool",
+        "part_of_speech": "NOUN",
+        "location": [
+          673,
+          677
+        ],
+        "lemma": "tool"
+      },
+      {
+        "text": "that",
+        "part_of_speech": "PRON",
+        "location": [
+          678,
+          682
+        ],
+        "lemma": "that"
+      },
+      {
+        "text": "will",
+        "part_of_speech": "AUX",
+        "location": [
+          683,
+          687
+        ],
+        "lemma": "will"
+      },
+      {
+        "text": "use",
+        "part_of_speech": "VERB",
+        "location": [
+          688,
+          691
+        ],
+        "lemma": "use"
+      },
+      {
+        "text": "artificial",
+        "part_of_speech": "ADJ",
+        "location": [
+          692,
+          702
+        ],
+        "lemma": "artificial"
+      },
+      {
+        "text": "intelligence",
+        "part_of_speech": "NOUN",
+        "location": [
+          703,
+          715
+        ],
+        "lemma": "intelligence"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          716,
+          718
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "automate",
+        "part_of_speech": "VERB",
+        "location": [
+          719,
+          727
+        ],
+        "lemma": "automate"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          728,
+          731
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "detection",
+        "part_of_speech": "NOUN",
+        "location": [
+          732,
+          741
+        ],
+        "lemma": "detection"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          741,
+          742
+        ]
+      },
+      {
+        "text": "staging",
+        "part_of_speech": "VERB",
+        "location": [
+          743,
+          750
+        ],
+        "lemma": "stage"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          750,
+          751
+        ]
+      },
+      {
+        "text": "tracking",
+        "part_of_speech": "NOUN",
+        "location": [
+          752,
+          760
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          760,
+          761
+        ]
+      },
+      {
+        "text": "monitoring",
+        "part_of_speech": "NOUN",
+        "location": [
+          762,
+          772
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          772,
+          773
+        ]
+      },
+      {
+        "text": "therapy",
+        "part_of_speech": "NOUN",
+        "location": [
+          774,
+          781
+        ],
+        "lemma": "therapy"
+      },
+      {
+        "text": "prediction",
+        "part_of_speech": "NOUN",
+        "location": [
+          782,
+          792
+        ],
+        "lemma": "prediction"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          793,
+          796
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "therapy",
+        "part_of_speech": "NOUN",
+        "location": [
+          797,
+          804
+        ],
+        "lemma": "therapy"
+      },
+      {
+        "text": "response",
+        "part_of_speech": "NOUN",
+        "location": [
+          805,
+          813
+        ],
+        "lemma": "response"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          814,
+          816
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "primary",
+        "part_of_speech": "ADJ",
+        "location": [
+          817,
+          824
+        ],
+        "lemma": "primary"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          825,
+          828
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "secondary",
+        "part_of_speech": "ADJ",
+        "location": [
+          829,
+          838
+        ],
+        "lemma": "secondary"
+      },
+      {
+        "text": "liver",
+        "part_of_speech": "NOUN",
+        "location": [
+          839,
+          844
+        ],
+        "lemma": "liver"
+      },
+      {
+        "text": "cancer",
+        "part_of_speech": "NOUN",
+        "location": [
+          845,
+          851
+        ],
+        "lemma": "cancer"
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          852,
+          855
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "clinicians",
+        "part_of_speech": "NOUN",
+        "location": [
+          856,
+          866
+        ],
+        "lemma": "clinician"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          866,
+          867
+        ]
+      },
+      {
+        "text": "The",
+        "part_of_speech": "DET",
+        "location": [
+          868,
+          871
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          872,
+          875
+        ]
+      },
+      {
+        "text": "Research",
+        "part_of_speech": "PROPN",
+        "location": [
+          876,
+          884
+        ],
+        "lemma": "Research"
+      },
+      {
+        "text": "team",
+        "part_of_speech": "NOUN",
+        "location": [
+          885,
+          889
+        ],
+        "lemma": "team"
+      },
+      {
+        "text": "will",
+        "part_of_speech": "AUX",
+        "location": [
+          890,
+          894
+        ],
+        "lemma": "will"
+      },
+      {
+        "text": "also",
+        "part_of_speech": "ADV",
+        "location": [
+          895,
+          899
+        ],
+        "lemma": "also"
+      },
+      {
+        "text": "work",
+        "part_of_speech": "VERB",
+        "location": [
+          900,
+          904
+        ],
+        "lemma": "work"
+      },
+      {
+        "text": "on",
+        "part_of_speech": "ADP",
+        "location": [
+          905,
+          907
+        ],
+        "lemma": "on"
+      },
+      {
+        "text": "development",
+        "part_of_speech": "NOUN",
+        "location": [
+          908,
+          919
+        ],
+        "lemma": "development"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          920,
+          922
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          923,
+          926
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "solutions",
+        "part_of_speech": "NOUN",
+        "location": [
+          927,
+          936
+        ],
+        "lemma": "solution"
+      },
+      {
+        "text": "leveraging",
+        "part_of_speech": "VERB",
+        "location": [
+          937,
+          947
+        ],
+        "lemma": "leverage"
+      },
+      {
+        "text": "prior",
+        "part_of_speech": "ADJ",
+        "location": [
+          948,
+          953
+        ],
+        "lemma": "prior"
+      },
+      {
+        "text": "research",
+        "part_of_speech": "NOUN",
+        "location": [
+          954,
+          962
+        ],
+        "lemma": "research"
+      },
+      {
+        "text": "innovations",
+        "part_of_speech": "NOUN",
+        "location": [
+          963,
+          974
+        ],
+        "lemma": "innovation"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          974,
+          975
+        ]
+      },
+      {
+        "text": "Liver",
+        "part_of_speech": "ADJ",
+        "location": [
+          976,
+          981
+        ],
+        "lemma": "liver"
+      },
+      {
+        "text": "cancer",
+        "part_of_speech": "NOUN",
+        "location": [
+          982,
+          988
+        ],
+        "lemma": "cancer"
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          989,
+          991
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          992,
+          995
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "second",
+        "part_of_speech": "ADJ",
+        "location": [
+          996,
+          1002
+        ],
+        "lemma": "second"
+      },
+      {
+        "text": "leading",
+        "part_of_speech": "NOUN",
+        "location": [
+          1003,
+          1010
+        ],
+        "lemma": "leading"
+      },
+      {
+        "text": "cause",
+        "part_of_speech": "NOUN",
+        "location": [
+          1011,
+          1016
+        ],
+        "lemma": "cause"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          1017,
+          1019
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "cancer",
+        "part_of_speech": "NOUN",
+        "location": [
+          1020,
+          1026
+        ],
+        "lemma": "cancer"
+      },
+      {
+        "text": "death",
+        "part_of_speech": "NOUN",
+        "location": [
+          1027,
+          1032
+        ],
+        "lemma": "death"
+      },
+      {
+        "text": "worldwide",
+        "part_of_speech": "ADV",
+        "location": [
+          1033,
+          1042
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1042,
+          1043
+        ]
+      },
+      {
+        "text": "[",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1043,
+          1044
+        ]
+      },
+      {
+        "text": "2",
+        "part_of_speech": "NUM",
+        "location": [
+          1044,
+          1045
+        ]
+      },
+      {
+        "text": "]",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1045,
+          1046
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          1047,
+          1050
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          1051,
+          1054
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "fastest",
+        "part_of_speech": "ADJ",
+        "location": [
+          1055,
+          1062
+        ],
+        "lemma": "fast"
+      },
+      {
+        "text": "growing",
+        "part_of_speech": "VERB",
+        "location": [
+          1063,
+          1070
+        ],
+        "lemma": "grow"
+      },
+      {
+        "text": "cause",
+        "part_of_speech": "NOUN",
+        "location": [
+          1071,
+          1076
+        ],
+        "lemma": "cause"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          1077,
+          1079
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "cancer",
+        "part_of_speech": "NOUN",
+        "location": [
+          1080,
+          1086
+        ],
+        "lemma": "cancer"
+      },
+      {
+        "text": "deaths",
+        "part_of_speech": "NOUN",
+        "location": [
+          1087,
+          1093
+        ],
+        "lemma": "death"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          1094,
+          1096
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          1097,
+          1100
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "United",
+        "part_of_speech": "PROPN",
+        "location": [
+          1101,
+          1107
+        ]
+      },
+      {
+        "text": "States",
+        "part_of_speech": "PROPN",
+        "location": [
+          1108,
+          1114
+        ],
+        "lemma": "State"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1114,
+          1115
+        ]
+      },
+      {
+        "text": "[",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1115,
+          1116
+        ]
+      },
+      {
+        "text": "3",
+        "part_of_speech": "X",
+        "location": [
+          1116,
+          1117
+        ]
+      },
+      {
+        "text": "]",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1117,
+          1118
+        ]
+      },
+      {
+        "text": "About",
+        "part_of_speech": "ADV",
+        "location": [
+          1119,
+          1124
+        ],
+        "lemma": "about"
+      },
+      {
+        "text": "83",
+        "part_of_speech": "NUM",
+        "location": [
+          1125,
+          1127
+        ]
+      },
+      {
+        "text": "percent",
+        "part_of_speech": "NOUN",
+        "location": [
+          1128,
+          1135
+        ],
+        "lemma": "percent"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          1136,
+          1138
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "primary",
+        "part_of_speech": "ADJ",
+        "location": [
+          1139,
+          1146
+        ],
+        "lemma": "primary"
+      },
+      {
+        "text": "liver",
+        "part_of_speech": "NOUN",
+        "location": [
+          1147,
+          1152
+        ],
+        "lemma": "liver"
+      },
+      {
+        "text": "cancer",
+        "part_of_speech": "NOUN",
+        "location": [
+          1153,
+          1159
+        ],
+        "lemma": "cancer"
+      },
+      {
+        "text": "cases",
+        "part_of_speech": "NOUN",
+        "location": [
+          1160,
+          1165
+        ],
+        "lemma": "case"
+      },
+      {
+        "text": "occur",
+        "part_of_speech": "VERB",
+        "location": [
+          1166,
+          1171
+        ],
+        "lemma": "occur"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "SCONJ",
+        "location": [
+          1172,
+          1174
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "developing",
+        "part_of_speech": "VERB",
+        "location": [
+          1175,
+          1185
+        ],
+        "lemma": "develop"
+      },
+      {
+        "text": "countries",
+        "part_of_speech": "NOUN",
+        "location": [
+          1186,
+          1195
+        ],
+        "lemma": "country"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1195,
+          1196
+        ]
+      },
+      {
+        "text": "[",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1196,
+          1197
+        ]
+      },
+      {
+        "text": "4",
+        "part_of_speech": "X",
+        "location": [
+          1197,
+          1198
+        ]
+      },
+      {
+        "text": "]",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1198,
+          1199
+        ]
+      },
+      {
+        "text": "The",
+        "part_of_speech": "DET",
+        "location": [
+          1200,
+          1203
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "liver",
+        "part_of_speech": "NOUN",
+        "location": [
+          1204,
+          1209
+        ],
+        "lemma": "liver"
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          1210,
+          1212
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "also",
+        "part_of_speech": "ADV",
+        "location": [
+          1213,
+          1217
+        ],
+        "lemma": "also"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          1218,
+          1219
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "common",
+        "part_of_speech": "ADJ",
+        "location": [
+          1220,
+          1226
+        ],
+        "lemma": "common"
+      },
+      {
+        "text": "site",
+        "part_of_speech": "NOUN",
+        "location": [
+          1227,
+          1231
+        ],
+        "lemma": "site"
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          1232,
+          1235
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "metastases",
+        "part_of_speech": "NOUN",
+        "location": [
+          1236,
+          1246
+        ],
+        "lemma": "metastasis"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1246,
+          1247
+        ]
+      },
+      {
+        "text": "particularly",
+        "part_of_speech": "ADV",
+        "location": [
+          1248,
+          1260
+        ],
+        "lemma": "particularly"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          1261,
+          1263
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          1264,
+          1267
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "case",
+        "part_of_speech": "NOUN",
+        "location": [
+          1268,
+          1272
+        ],
+        "lemma": "case"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          1273,
+          1275
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "digestive",
+        "part_of_speech": "ADJ",
+        "location": [
+          1276,
+          1285
+        ],
+        "lemma": "digestive"
+      },
+      {
+        "text": "cancers",
+        "part_of_speech": "NOUN",
+        "location": [
+          1286,
+          1293
+        ],
+        "lemma": "cancer"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1293,
+          1294
+        ]
+      },
+      {
+        "text": "in",
+        "part_of_speech": "SCONJ",
+        "location": [
+          1295,
+          1297
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "which",
+        "part_of_speech": "PRON",
+        "location": [
+          1298,
+          1303
+        ],
+        "lemma": "which"
+      },
+      {
+        "text": "nearly",
+        "part_of_speech": "ADV",
+        "location": [
+          1304,
+          1310
+        ],
+        "lemma": "nearly"
+      },
+      {
+        "text": "50",
+        "part_of_speech": "NUM",
+        "location": [
+          1311,
+          1313
+        ]
+      },
+      {
+        "text": "%",
+        "part_of_speech": "SYM",
+        "location": [
+          1313,
+          1314
+        ]
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          1315,
+          1317
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "patients",
+        "part_of_speech": "NOUN",
+        "location": [
+          1318,
+          1326
+        ],
+        "lemma": "patient"
+      },
+      {
+        "text": "develop",
+        "part_of_speech": "VERB",
+        "location": [
+          1327,
+          1334
+        ],
+        "lemma": "develop"
+      },
+      {
+        "text": "metastases",
+        "part_of_speech": "NOUN",
+        "location": [
+          1335,
+          1345
+        ],
+        "lemma": "metastasis"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1345,
+          1346
+        ]
+      },
+      {
+        "text": "[",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1346,
+          1347
+        ]
+      },
+      {
+        "text": "5",
+        "part_of_speech": "X",
+        "location": [
+          1347,
+          1348
+        ]
+      },
+      {
+        "text": "]",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1348,
+          1349
+        ]
+      },
+      {
+        "text": "The",
+        "part_of_speech": "DET",
+        "location": [
+          1350,
+          1353
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "hope",
+        "part_of_speech": "NOUN",
+        "location": [
+          1354,
+          1358
+        ],
+        "lemma": "hope"
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          1359,
+          1361
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "that",
+        "part_of_speech": "DET",
+        "location": [
+          1362,
+          1366
+        ],
+        "lemma": "that"
+      },
+      {
+        "text": "better",
+        "part_of_speech": "ADJ",
+        "location": [
+          1367,
+          1373
+        ],
+        "lemma": "good"
+      },
+      {
+        "text": "characterization",
+        "part_of_speech": "NOUN",
+        "location": [
+          1374,
+          1390
+        ],
+        "lemma": "characterization"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          1391,
+          1394
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "earlier",
+        "part_of_speech": "ADJ",
+        "location": [
+          1395,
+          1402
+        ],
+        "lemma": "early"
+      },
+      {
+        "text": "identification",
+        "part_of_speech": "NOUN",
+        "location": [
+          1403,
+          1417
+        ],
+        "lemma": "identification"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          1418,
+          1420
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "these",
+        "part_of_speech": "DET",
+        "location": [
+          1421,
+          1426
+        ],
+        "lemma": "this"
+      },
+      {
+        "text": "metastases",
+        "part_of_speech": "NOUN",
+        "location": [
+          1427,
+          1437
+        ],
+        "lemma": "metastasis"
+      },
+      {
+        "text": "may",
+        "part_of_speech": "AUX",
+        "location": [
+          1438,
+          1441
+        ],
+        "lemma": "may"
+      },
+      {
+        "text": "lead",
+        "part_of_speech": "VERB",
+        "location": [
+          1442,
+          1446
+        ],
+        "lemma": "lead"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "ADP",
+        "location": [
+          1447,
+          1449
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "an",
+        "part_of_speech": "DET",
+        "location": [
+          1450,
+          1452
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "improvement",
+        "part_of_speech": "NOUN",
+        "location": [
+          1453,
+          1464
+        ],
+        "lemma": "improvement"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          1465,
+          1467
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          1468,
+          1471
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "chances",
+        "part_of_speech": "NOUN",
+        "location": [
+          1472,
+          1479
+        ],
+        "lemma": "chance"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          1480,
+          1482
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "recovery",
+        "part_of_speech": "NOUN",
+        "location": [
+          1483,
+          1491
+        ],
+        "lemma": "recovery"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1491,
+          1492
+        ]
+      },
+      {
+        "text": "“",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1493,
+          1494
+        ]
+      },
+      {
+        "text": "Liver",
+        "part_of_speech": "ADJ",
+        "location": [
+          1494,
+          1499
+        ],
+        "lemma": "liver"
+      },
+      {
+        "text": "cancer",
+        "part_of_speech": "NOUN",
+        "location": [
+          1500,
+          1506
+        ],
+        "lemma": "cancer"
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          1507,
+          1509
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          1510,
+          1511
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "growing",
+        "part_of_speech": "ADJ",
+        "location": [
+          1512,
+          1519
+        ],
+        "lemma": "growing"
+      },
+      {
+        "text": "health",
+        "part_of_speech": "NOUN",
+        "location": [
+          1520,
+          1526
+        ],
+        "lemma": "health"
+      },
+      {
+        "text": "concern",
+        "part_of_speech": "NOUN",
+        "location": [
+          1527,
+          1534
+        ],
+        "lemma": "concern"
+      },
+      {
+        "text": "globally",
+        "part_of_speech": "ADV",
+        "location": [
+          1535,
+          1543
+        ],
+        "lemma": "globally"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1543,
+          1544
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          1545,
+          1548
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          1549,
+          1552
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "use",
+        "part_of_speech": "NOUN",
+        "location": [
+          1553,
+          1556
+        ],
+        "lemma": "use"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "SCONJ",
+        "location": [
+          1557,
+          1559
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "augmented",
+        "part_of_speech": "VERB",
+        "location": [
+          1560,
+          1569
+        ],
+        "lemma": "augment"
+      },
+      {
+        "text": "intelligence",
+        "part_of_speech": "NOUN",
+        "location": [
+          1570,
+          1582
+        ],
+        "lemma": "intelligence"
+      },
+      {
+        "text": "by",
+        "part_of_speech": "ADP",
+        "location": [
+          1583,
+          1585
+        ],
+        "lemma": "by"
+      },
+      {
+        "text": "medical",
+        "part_of_speech": "ADJ",
+        "location": [
+          1586,
+          1593
+        ],
+        "lemma": "medical"
+      },
+      {
+        "text": "imaging",
+        "part_of_speech": "NOUN",
+        "location": [
+          1594,
+          1601
+        ]
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          1602,
+          1604
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "well",
+        "part_of_speech": "ADV",
+        "location": [
+          1605,
+          1609
+        ],
+        "lemma": "well"
+      },
+      {
+        "text": "positioned",
+        "part_of_speech": "VERB",
+        "location": [
+          1610,
+          1620
+        ],
+        "lemma": "position"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          1621,
+          1623
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "help",
+        "part_of_speech": "VERB",
+        "location": [
+          1624,
+          1628
+        ],
+        "lemma": "help"
+      },
+      {
+        "text": "address",
+        "part_of_speech": "VERB",
+        "location": [
+          1629,
+          1636
+        ],
+        "lemma": "address"
+      },
+      {
+        "text": "it",
+        "part_of_speech": "PRON",
+        "location": [
+          1637,
+          1639
+        ],
+        "lemma": "it"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1639,
+          1640
+        ]
+      },
+      {
+        "text": "We",
+        "part_of_speech": "PRON",
+        "location": [
+          1641,
+          1643
+        ],
+        "lemma": "we"
+      },
+      {
+        "text": "are",
+        "part_of_speech": "AUX",
+        "location": [
+          1644,
+          1647
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "proud",
+        "part_of_speech": "ADJ",
+        "location": [
+          1648,
+          1653
+        ],
+        "lemma": "proud"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          1654,
+          1656
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "work",
+        "part_of_speech": "VERB",
+        "location": [
+          1657,
+          1661
+        ],
+        "lemma": "work"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          1662,
+          1666
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          1667,
+          1670
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          1671,
+          1677
+        ]
+      },
+      {
+        "text": "Health",
+        "part_of_speech": "PROPN",
+        "location": [
+          1678,
+          1684
+        ],
+        "lemma": "Health"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          1685,
+          1687
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "develop",
+        "part_of_speech": "VERB",
+        "location": [
+          1688,
+          1695
+        ],
+        "lemma": "develop"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          1696,
+          1697
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "solution",
+        "part_of_speech": "NOUN",
+        "location": [
+          1698,
+          1706
+        ],
+        "lemma": "solution"
+      },
+      {
+        "text": "dedicated",
+        "part_of_speech": "ADJ",
+        "location": [
+          1707,
+          1716
+        ]
+      },
+      {
+        "text": "to",
+        "part_of_speech": "ADP",
+        "location": [
+          1717,
+          1719
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "liver",
+        "part_of_speech": "ADJ",
+        "location": [
+          1720,
+          1725
+        ],
+        "lemma": "liver"
+      },
+      {
+        "text": "disease",
+        "part_of_speech": "NOUN",
+        "location": [
+          1726,
+          1733
+        ],
+        "lemma": "disease"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1733,
+          1734
+        ]
+      },
+      {
+        "text": "which",
+        "part_of_speech": "PRON",
+        "location": [
+          1735,
+          1740
+        ],
+        "lemma": "which"
+      },
+      {
+        "text": "could",
+        "part_of_speech": "AUX",
+        "location": [
+          1741,
+          1746
+        ],
+        "lemma": "can"
+      },
+      {
+        "text": "help",
+        "part_of_speech": "VERB",
+        "location": [
+          1747,
+          1751
+        ],
+        "lemma": "help"
+      },
+      {
+        "text": "make",
+        "part_of_speech": "VERB",
+        "location": [
+          1752,
+          1756
+        ],
+        "lemma": "make"
+      },
+      {
+        "text": "it",
+        "part_of_speech": "PRON",
+        "location": [
+          1757,
+          1759
+        ],
+        "lemma": "it"
+      },
+      {
+        "text": "possible",
+        "part_of_speech": "ADJ",
+        "location": [
+          1760,
+          1768
+        ],
+        "lemma": "possible"
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          1769,
+          1772
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "clinicians",
+        "part_of_speech": "NOUN",
+        "location": [
+          1773,
+          1783
+        ],
+        "lemma": "clinician"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          1784,
+          1786
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "make",
+        "part_of_speech": "VERB",
+        "location": [
+          1787,
+          1791
+        ],
+        "lemma": "make"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADV",
+        "location": [
+          1792,
+          1796
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "informed",
+        "part_of_speech": "ADJ",
+        "location": [
+          1797,
+          1805
+        ]
+      },
+      {
+        "text": "characterizations",
+        "part_of_speech": "NOUN",
+        "location": [
+          1806,
+          1823
+        ],
+        "lemma": "characterization"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          1824,
+          1826
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "tissue",
+        "part_of_speech": "NOUN",
+        "location": [
+          1827,
+          1833
+        ],
+        "lemma": "tissue"
+      },
+      {
+        "text": "without",
+        "part_of_speech": "ADP",
+        "location": [
+          1834,
+          1841
+        ],
+        "lemma": "without"
+      },
+      {
+        "text": "recourse",
+        "part_of_speech": "NOUN",
+        "location": [
+          1842,
+          1850
+        ],
+        "lemma": "recourse"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "ADP",
+        "location": [
+          1851,
+          1853
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "biopsy",
+        "part_of_speech": "NOUN",
+        "location": [
+          1854,
+          1860
+        ],
+        "lemma": "biopsy"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1860,
+          1861
+        ]
+      },
+      {
+        "text": "”",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1861,
+          1862
+        ]
+      },
+      {
+        "text": "said",
+        "part_of_speech": "VERB",
+        "location": [
+          1863,
+          1867
+        ],
+        "lemma": "say"
+      },
+      {
+        "text": "Yves",
+        "part_of_speech": "PROPN",
+        "location": [
+          1868,
+          1872
+        ]
+      },
+      {
+        "text": "L",
+        "part_of_speech": "PROPN",
+        "location": [
+          1873,
+          1874
+        ]
+      },
+      {
+        "text": "’",
+        "part_of_speech": "PART",
+        "location": [
+          1874,
+          1875
+        ]
+      },
+      {
+        "text": "Epine",
+        "part_of_speech": "PROPN",
+        "location": [
+          1875,
+          1880
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1880,
+          1881
+        ]
+      },
+      {
+        "text": "Guerbet",
+        "part_of_speech": "PROPN",
+        "location": [
+          1882,
+          1889
+        ]
+      },
+      {
+        "text": "’s",
+        "part_of_speech": "PART",
+        "location": [
+          1889,
+          1891
+        ],
+        "lemma": "’s"
+      },
+      {
+        "text": "CEO",
+        "part_of_speech": "NOUN",
+        "location": [
+          1892,
+          1895
+        ]
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1895,
+          1896
+        ]
+      },
+      {
+        "text": "Care",
+        "part_of_speech": "NOUN",
+        "location": [
+          1897,
+          1901
+        ],
+        "lemma": "care"
+      },
+      {
+        "text": "Advisor",
+        "part_of_speech": "NOUN",
+        "location": [
+          1902,
+          1909
+        ],
+        "lemma": "adviser"
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          1910,
+          1913
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "Liver",
+        "part_of_speech": "PROPN",
+        "location": [
+          1914,
+          1919
+        ],
+        "lemma": "Liver"
+      },
+      {
+        "text": "will",
+        "part_of_speech": "AUX",
+        "location": [
+          1920,
+          1924
+        ],
+        "lemma": "will"
+      },
+      {
+        "text": "be",
+        "part_of_speech": "AUX",
+        "location": [
+          1925,
+          1927
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "designed",
+        "part_of_speech": "VERB",
+        "location": [
+          1928,
+          1936
+        ],
+        "lemma": "design"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          1937,
+          1939
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "be",
+        "part_of_speech": "AUX",
+        "location": [
+          1940,
+          1942
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "compatible",
+        "part_of_speech": "ADJ",
+        "location": [
+          1943,
+          1953
+        ],
+        "lemma": "compatible"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          1954,
+          1958
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          1959,
+          1962
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "most",
+        "part_of_speech": "ADV",
+        "location": [
+          1963,
+          1967
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "common",
+        "part_of_speech": "ADJ",
+        "location": [
+          1968,
+          1974
+        ],
+        "lemma": "common"
+      },
+      {
+        "text": "PACS",
+        "part_of_speech": "PROPN",
+        "location": [
+          1975,
+          1979
+        ]
+      },
+      {
+        "text": "visualization",
+        "part_of_speech": "NOUN",
+        "location": [
+          1980,
+          1993
+        ],
+        "lemma": "visualization"
+      },
+      {
+        "text": "systems",
+        "part_of_speech": "NOUN",
+        "location": [
+          1994,
+          2001
+        ],
+        "lemma": "system"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2001,
+          2002
+        ]
+      },
+      {
+        "text": "making",
+        "part_of_speech": "VERB",
+        "location": [
+          2003,
+          2009
+        ],
+        "lemma": "make"
+      },
+      {
+        "text": "it",
+        "part_of_speech": "PRON",
+        "location": [
+          2010,
+          2012
+        ],
+        "lemma": "it"
+      },
+      {
+        "text": "easy",
+        "part_of_speech": "ADJ",
+        "location": [
+          2013,
+          2017
+        ],
+        "lemma": "easy"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          2018,
+          2020
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "be",
+        "part_of_speech": "AUX",
+        "location": [
+          2021,
+          2023
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "integrated",
+        "part_of_speech": "VERB",
+        "location": [
+          2024,
+          2034
+        ],
+        "lemma": "integrate"
+      },
+      {
+        "text": "directly",
+        "part_of_speech": "ADV",
+        "location": [
+          2035,
+          2043
+        ],
+        "lemma": "directly"
+      },
+      {
+        "text": "into",
+        "part_of_speech": "ADP",
+        "location": [
+          2044,
+          2048
+        ],
+        "lemma": "into"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          2049,
+          2052
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "workflows",
+        "part_of_speech": "NOUN",
+        "location": [
+          2053,
+          2062
+        ]
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          2063,
+          2065
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "healthcare",
+        "part_of_speech": "NOUN",
+        "location": [
+          2066,
+          2076
+        ],
+        "lemma": "healthcare"
+      },
+      {
+        "text": "professionals",
+        "part_of_speech": "NOUN",
+        "location": [
+          2077,
+          2090
+        ],
+        "lemma": "professional"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2090,
+          2091
+        ]
+      },
+      {
+        "text": "“",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2093,
+          2094
+        ]
+      },
+      {
+        "text": "Imaging",
+        "part_of_speech": "VERB",
+        "location": [
+          2094,
+          2101
+        ],
+        "lemma": "image"
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          2102,
+          2104
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          2105,
+          2106
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "critical",
+        "part_of_speech": "ADJ",
+        "location": [
+          2107,
+          2115
+        ],
+        "lemma": "critical"
+      },
+      {
+        "text": "area",
+        "part_of_speech": "NOUN",
+        "location": [
+          2116,
+          2120
+        ],
+        "lemma": "area"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          2121,
+          2123
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "healthcare",
+        "part_of_speech": "NOUN",
+        "location": [
+          2124,
+          2134
+        ],
+        "lemma": "healthcare"
+      },
+      {
+        "text": "where",
+        "part_of_speech": "ADV",
+        "location": [
+          2135,
+          2140
+        ],
+        "lemma": "where"
+      },
+      {
+        "text": "we",
+        "part_of_speech": "PRON",
+        "location": [
+          2141,
+          2143
+        ],
+        "lemma": "we"
+      },
+      {
+        "text": "believe",
+        "part_of_speech": "VERB",
+        "location": [
+          2144,
+          2151
+        ],
+        "lemma": "believe"
+      },
+      {
+        "text": "artificial",
+        "part_of_speech": "ADJ",
+        "location": [
+          2152,
+          2162
+        ],
+        "lemma": "artificial"
+      },
+      {
+        "text": "intelligence",
+        "part_of_speech": "NOUN",
+        "location": [
+          2163,
+          2175
+        ],
+        "lemma": "intelligence"
+      },
+      {
+        "text": "can",
+        "part_of_speech": "AUX",
+        "location": [
+          2176,
+          2179
+        ],
+        "lemma": "can"
+      },
+      {
+        "text": "be",
+        "part_of_speech": "AUX",
+        "location": [
+          2180,
+          2182
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "used",
+        "part_of_speech": "VERB",
+        "location": [
+          2183,
+          2187
+        ],
+        "lemma": "use"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          2188,
+          2190
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "expand",
+        "part_of_speech": "VERB",
+        "location": [
+          2191,
+          2197
+        ],
+        "lemma": "expand"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          2198,
+          2201
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "physician",
+        "part_of_speech": "NOUN",
+        "location": [
+          2202,
+          2211
+        ],
+        "lemma": "physician"
+      },
+      {
+        "text": "’s",
+        "part_of_speech": "PART",
+        "location": [
+          2211,
+          2213
+        ],
+        "lemma": "’s"
+      },
+      {
+        "text": "view",
+        "part_of_speech": "NOUN",
+        "location": [
+          2214,
+          2218
+        ],
+        "lemma": "view"
+      },
+      {
+        "text": "so",
+        "part_of_speech": "SCONJ",
+        "location": [
+          2219,
+          2221
+        ],
+        "lemma": "so"
+      },
+      {
+        "text": "they",
+        "part_of_speech": "PRON",
+        "location": [
+          2222,
+          2226
+        ],
+        "lemma": "they"
+      },
+      {
+        "text": "can",
+        "part_of_speech": "AUX",
+        "location": [
+          2227,
+          2230
+        ],
+        "lemma": "can"
+      },
+      {
+        "text": "be",
+        "part_of_speech": "AUX",
+        "location": [
+          2231,
+          2233
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADV",
+        "location": [
+          2234,
+          2238
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "informed",
+        "part_of_speech": "ADJ",
+        "location": [
+          2239,
+          2247
+        ]
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          2248,
+          2250
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "their",
+        "part_of_speech": "PRON",
+        "location": [
+          2251,
+          2256
+        ],
+        "lemma": "their"
+      },
+      {
+        "text": "diagnostic",
+        "part_of_speech": "ADJ",
+        "location": [
+          2257,
+          2267
+        ],
+        "lemma": "diagnostic"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          2268,
+          2271
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "treatment",
+        "part_of_speech": "NOUN",
+        "location": [
+          2272,
+          2281
+        ],
+        "lemma": "treatment"
+      },
+      {
+        "text": "decisions",
+        "part_of_speech": "NOUN",
+        "location": [
+          2282,
+          2291
+        ],
+        "lemma": "decision"
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          2292,
+          2295
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "their",
+        "part_of_speech": "PRON",
+        "location": [
+          2296,
+          2301
+        ],
+        "lemma": "their"
+      },
+      {
+        "text": "patients",
+        "part_of_speech": "NOUN",
+        "location": [
+          2302,
+          2310
+        ],
+        "lemma": "patient"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2310,
+          2311
+        ]
+      },
+      {
+        "text": "We",
+        "part_of_speech": "PRON",
+        "location": [
+          2312,
+          2314
+        ],
+        "lemma": "we"
+      },
+      {
+        "text": "are",
+        "part_of_speech": "AUX",
+        "location": [
+          2315,
+          2318
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "excited",
+        "part_of_speech": "ADJ",
+        "location": [
+          2319,
+          2326
+        ],
+        "lemma": "excited"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          2327,
+          2329
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "bring",
+        "part_of_speech": "VERB",
+        "location": [
+          2330,
+          2335
+        ],
+        "lemma": "bring"
+      },
+      {
+        "text": "together",
+        "part_of_speech": "ADV",
+        "location": [
+          2336,
+          2344
+        ],
+        "lemma": "together"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          2345,
+          2348
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "significant",
+        "part_of_speech": "ADJ",
+        "location": [
+          2349,
+          2360
+        ],
+        "lemma": "significant"
+      },
+      {
+        "text": "respective",
+        "part_of_speech": "ADJ",
+        "location": [
+          2361,
+          2371
+        ],
+        "lemma": "respective"
+      },
+      {
+        "text": "expertise",
+        "part_of_speech": "NOUN",
+        "location": [
+          2372,
+          2381
+        ],
+        "lemma": "expertise"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          2382,
+          2384
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          2385,
+          2388
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          2389,
+          2392
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "Guerbet",
+        "part_of_speech": "PROPN",
+        "location": [
+          2393,
+          2400
+        ]
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          2401,
+          2403
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "advance",
+        "part_of_speech": "VERB",
+        "location": [
+          2404,
+          2411
+        ],
+        "lemma": "advance"
+      },
+      {
+        "text": "innovation",
+        "part_of_speech": "NOUN",
+        "location": [
+          2412,
+          2422
+        ],
+        "lemma": "innovation"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          2423,
+          2425
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "this",
+        "part_of_speech": "DET",
+        "location": [
+          2426,
+          2430
+        ],
+        "lemma": "this"
+      },
+      {
+        "text": "important",
+        "part_of_speech": "ADJ",
+        "location": [
+          2431,
+          2440
+        ],
+        "lemma": "important"
+      },
+      {
+        "text": "field",
+        "part_of_speech": "NOUN",
+        "location": [
+          2441,
+          2446
+        ],
+        "lemma": "field"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2446,
+          2447
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          2448,
+          2451
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "ultimately",
+        "part_of_speech": "ADV",
+        "location": [
+          2452,
+          2462
+        ],
+        "lemma": "ultimately"
+      },
+      {
+        "text": "help",
+        "part_of_speech": "VERB",
+        "location": [
+          2463,
+          2467
+        ],
+        "lemma": "help"
+      },
+      {
+        "text": "combat",
+        "part_of_speech": "VERB",
+        "location": [
+          2468,
+          2474
+        ],
+        "lemma": "combat"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          2475,
+          2478
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "challenge",
+        "part_of_speech": "NOUN",
+        "location": [
+          2479,
+          2488
+        ],
+        "lemma": "challenge"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          2489,
+          2491
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "liver",
+        "part_of_speech": "ADJ",
+        "location": [
+          2492,
+          2497
+        ],
+        "lemma": "liver"
+      },
+      {
+        "text": "cancer",
+        "part_of_speech": "NOUN",
+        "location": [
+          2498,
+          2504
+        ],
+        "lemma": "cancer"
+      },
+      {
+        "text": "globally",
+        "part_of_speech": "ADV",
+        "location": [
+          2505,
+          2513
+        ],
+        "lemma": "globally"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2513,
+          2514
+        ]
+      },
+      {
+        "text": "”",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2514,
+          2515
+        ]
+      },
+      {
+        "text": "said",
+        "part_of_speech": "VERB",
+        "location": [
+          2516,
+          2520
+        ],
+        "lemma": "say"
+      },
+      {
+        "text": "Anne",
+        "part_of_speech": "PROPN",
+        "location": [
+          2521,
+          2525
+        ]
+      },
+      {
+        "text": "Le",
+        "part_of_speech": "PROPN",
+        "location": [
+          2526,
+          2528
+        ]
+      },
+      {
+        "text": "Grand",
+        "part_of_speech": "PROPN",
+        "location": [
+          2529,
+          2534
+        ],
+        "lemma": "Grand"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2534,
+          2535
+        ]
+      },
+      {
+        "text": "Vice",
+        "part_of_speech": "PROPN",
+        "location": [
+          2536,
+          2540
+        ],
+        "lemma": "Vice"
+      },
+      {
+        "text": "President",
+        "part_of_speech": "PROPN",
+        "location": [
+          2541,
+          2550
+        ],
+        "lemma": "President"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "SCONJ",
+        "location": [
+          2551,
+          2553
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "Imaging",
+        "part_of_speech": "VERB",
+        "location": [
+          2554,
+          2561
+        ],
+        "lemma": "image"
+      },
+      {
+        "text": "at",
+        "part_of_speech": "ADP",
+        "location": [
+          2562,
+          2564
+        ],
+        "lemma": "at"
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          2565,
+          2571
+        ]
+      },
+      {
+        "text": "Health",
+        "part_of_speech": "PROPN",
+        "location": [
+          2572,
+          2578
+        ],
+        "lemma": "Health"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2578,
+          2579
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          2580,
+          2586
+        ]
+      },
+      {
+        "text": "Imaging",
+        "part_of_speech": "PROPN",
+        "location": [
+          2587,
+          2594
+        ]
+      },
+      {
+        "text": "Care",
+        "part_of_speech": "PROPN",
+        "location": [
+          2595,
+          2599
+        ],
+        "lemma": "Care"
+      },
+      {
+        "text": "Advisor",
+        "part_of_speech": "PROPN",
+        "location": [
+          2600,
+          2607
+        ],
+        "lemma": "Adviser"
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          2608,
+          2611
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "Liver",
+        "part_of_speech": "PROPN",
+        "location": [
+          2612,
+          2617
+        ],
+        "lemma": "Liver"
+      },
+      {
+        "text": "will",
+        "part_of_speech": "AUX",
+        "location": [
+          2618,
+          2622
+        ],
+        "lemma": "will"
+      },
+      {
+        "text": "be",
+        "part_of_speech": "AUX",
+        "location": [
+          2623,
+          2625
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          2626,
+          2627
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "part",
+        "part_of_speech": "NOUN",
+        "location": [
+          2628,
+          2632
+        ],
+        "lemma": "part"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          2633,
+          2635
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          2636,
+          2637
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "family",
+        "part_of_speech": "NOUN",
+        "location": [
+          2638,
+          2644
+        ],
+        "lemma": "family"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          2645,
+          2647
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "decision",
+        "part_of_speech": "NOUN",
+        "location": [
+          2648,
+          2656
+        ],
+        "lemma": "decision"
+      },
+      {
+        "text": "support",
+        "part_of_speech": "NOUN",
+        "location": [
+          2657,
+          2664
+        ],
+        "lemma": "support"
+      },
+      {
+        "text": "tools",
+        "part_of_speech": "NOUN",
+        "location": [
+          2665,
+          2670
+        ],
+        "lemma": "tool"
+      },
+      {
+        "text": "powered",
+        "part_of_speech": "VERB",
+        "location": [
+          2671,
+          2678
+        ],
+        "lemma": "power"
+      },
+      {
+        "text": "by",
+        "part_of_speech": "ADP",
+        "location": [
+          2679,
+          2681
+        ],
+        "lemma": "by"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          2682,
+          2685
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          2686,
+          2692
+        ]
+      },
+      {
+        "text": "image",
+        "part_of_speech": "NOUN",
+        "location": [
+          2693,
+          2698
+        ],
+        "lemma": "image"
+      },
+      {
+        "text": "analytics",
+        "part_of_speech": "NOUN",
+        "location": [
+          2699,
+          2708
+        ],
+        "lemma": "analytics"
+      },
+      {
+        "text": "designed",
+        "part_of_speech": "VERB",
+        "location": [
+          2709,
+          2717
+        ],
+        "lemma": "design"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          2718,
+          2720
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "inform",
+        "part_of_speech": "VERB",
+        "location": [
+          2721,
+          2727
+        ],
+        "lemma": "inform"
+      },
+      {
+        "text": "radiologists",
+        "part_of_speech": "NOUN",
+        "location": [
+          2728,
+          2740
+        ],
+        "lemma": "radiologist"
+      },
+      {
+        "text": "’",
+        "part_of_speech": "PART",
+        "location": [
+          2740,
+          2741
+        ]
+      },
+      {
+        "text": "diagnostic",
+        "part_of_speech": "ADJ",
+        "location": [
+          2742,
+          2752
+        ],
+        "lemma": "diagnostic"
+      },
+      {
+        "text": "decisions",
+        "part_of_speech": "NOUN",
+        "location": [
+          2753,
+          2762
+        ],
+        "lemma": "decision"
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          2763,
+          2766
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "their",
+        "part_of_speech": "PRON",
+        "location": [
+          2767,
+          2772
+        ],
+        "lemma": "their"
+      },
+      {
+        "text": "patients",
+        "part_of_speech": "NOUN",
+        "location": [
+          2773,
+          2781
+        ],
+        "lemma": "patient"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2781,
+          2782
+        ]
+      },
+      {
+        "text": "These",
+        "part_of_speech": "DET",
+        "location": [
+          2783,
+          2788
+        ],
+        "lemma": "this"
+      },
+      {
+        "text": "offerings",
+        "part_of_speech": "NOUN",
+        "location": [
+          2789,
+          2798
+        ],
+        "lemma": "offering"
+      },
+      {
+        "text": "are",
+        "part_of_speech": "AUX",
+        "location": [
+          2799,
+          2802
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "being",
+        "part_of_speech": "AUX",
+        "location": [
+          2803,
+          2808
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "developed",
+        "part_of_speech": "VERB",
+        "location": [
+          2809,
+          2818
+        ],
+        "lemma": "develop"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          2819,
+          2823
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          2824,
+          2825
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "shared",
+        "part_of_speech": "VERB",
+        "location": [
+          2826,
+          2832
+        ],
+        "lemma": "share"
+      },
+      {
+        "text": "objective",
+        "part_of_speech": "NOUN",
+        "location": [
+          2833,
+          2842
+        ],
+        "lemma": "objective"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          2843,
+          2845
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "create",
+        "part_of_speech": "VERB",
+        "location": [
+          2846,
+          2852
+        ],
+        "lemma": "create"
+      },
+      {
+        "text": "insights",
+        "part_of_speech": "NOUN",
+        "location": [
+          2853,
+          2861
+        ],
+        "lemma": "insight"
+      },
+      {
+        "text": "derived",
+        "part_of_speech": "VERB",
+        "location": [
+          2862,
+          2869
+        ],
+        "lemma": "derive"
+      },
+      {
+        "text": "from",
+        "part_of_speech": "ADP",
+        "location": [
+          2870,
+          2874
+        ],
+        "lemma": "from"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          2875,
+          2878
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          2879,
+          2885
+        ]
+      },
+      {
+        "text": "image",
+        "part_of_speech": "NOUN",
+        "location": [
+          2886,
+          2891
+        ],
+        "lemma": "image"
+      },
+      {
+        "text": "analytics",
+        "part_of_speech": "NOUN",
+        "location": [
+          2892,
+          2901
+        ],
+        "lemma": "analytics"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          2902,
+          2904
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "help",
+        "part_of_speech": "VERB",
+        "location": [
+          2905,
+          2909
+        ],
+        "lemma": "help"
+      },
+      {
+        "text": "inform",
+        "part_of_speech": "VERB",
+        "location": [
+          2910,
+          2916
+        ],
+        "lemma": "inform"
+      },
+      {
+        "text": "clinical",
+        "part_of_speech": "ADJ",
+        "location": [
+          2917,
+          2925
+        ],
+        "lemma": "clinical"
+      },
+      {
+        "text": "decisions",
+        "part_of_speech": "NOUN",
+        "location": [
+          2926,
+          2935
+        ],
+        "lemma": "decision"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2935,
+          2936
+        ]
+      },
+      {
+        "text": "“",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2937,
+          2938
+        ]
+      },
+      {
+        "text": "We",
+        "part_of_speech": "PRON",
+        "location": [
+          2938,
+          2940
+        ],
+        "lemma": "we"
+      },
+      {
+        "text": "look",
+        "part_of_speech": "VERB",
+        "location": [
+          2941,
+          2945
+        ],
+        "lemma": "look"
+      },
+      {
+        "text": "forward",
+        "part_of_speech": "ADV",
+        "location": [
+          2946,
+          2953
+        ],
+        "lemma": "forward"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "SCONJ",
+        "location": [
+          2954,
+          2956
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "working",
+        "part_of_speech": "VERB",
+        "location": [
+          2957,
+          2964
+        ],
+        "lemma": "work"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          2965,
+          2969
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          2970,
+          2973
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          2974,
+          2980
+        ]
+      },
+      {
+        "text": "Health",
+        "part_of_speech": "PROPN",
+        "location": [
+          2981,
+          2987
+        ],
+        "lemma": "Health"
+      },
+      {
+        "text": "on",
+        "part_of_speech": "ADP",
+        "location": [
+          2988,
+          2990
+        ],
+        "lemma": "on"
+      },
+      {
+        "text": "Guerbet",
+        "part_of_speech": "PROPN",
+        "location": [
+          2991,
+          2998
+        ]
+      },
+      {
+        "text": "’s",
+        "part_of_speech": "PART",
+        "location": [
+          2998,
+          3000
+        ],
+        "lemma": "’s"
+      },
+      {
+        "text": "first",
+        "part_of_speech": "ADJ",
+        "location": [
+          3001,
+          3006
+        ],
+        "lemma": "first"
+      },
+      {
+        "text": "project",
+        "part_of_speech": "NOUN",
+        "location": [
+          3007,
+          3014
+        ],
+        "lemma": "project"
+      },
+      {
+        "text": "aimed",
+        "part_of_speech": "VERB",
+        "location": [
+          3015,
+          3020
+        ],
+        "lemma": "aim"
+      },
+      {
+        "text": "at",
+        "part_of_speech": "ADP",
+        "location": [
+          3021,
+          3023
+        ],
+        "lemma": "at"
+      },
+      {
+        "text": "better",
+        "part_of_speech": "ADJ",
+        "location": [
+          3024,
+          3030
+        ],
+        "lemma": "good"
+      },
+      {
+        "text": "assisting",
+        "part_of_speech": "VERB",
+        "location": [
+          3031,
+          3040
+        ],
+        "lemma": "assist"
+      },
+      {
+        "text": "radiologists",
+        "part_of_speech": "NOUN",
+        "location": [
+          3041,
+          3053
+        ],
+        "lemma": "radiologist"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "SCONJ",
+        "location": [
+          3054,
+          3058
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "augmented",
+        "part_of_speech": "VERB",
+        "location": [
+          3059,
+          3068
+        ],
+        "lemma": "augment"
+      },
+      {
+        "text": "intelligence",
+        "part_of_speech": "NOUN",
+        "location": [
+          3069,
+          3081
+        ],
+        "lemma": "intelligence"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3081,
+          3082
+        ]
+      },
+      {
+        "text": "This",
+        "part_of_speech": "PRON",
+        "location": [
+          3083,
+          3087
+        ],
+        "lemma": "this"
+      },
+      {
+        "text": "will",
+        "part_of_speech": "AUX",
+        "location": [
+          3088,
+          3092
+        ],
+        "lemma": "will"
+      },
+      {
+        "text": "help",
+        "part_of_speech": "VERB",
+        "location": [
+          3093,
+          3097
+        ],
+        "lemma": "help"
+      },
+      {
+        "text": "us",
+        "part_of_speech": "PRON",
+        "location": [
+          3098,
+          3100
+        ],
+        "lemma": "we"
+      },
+      {
+        "text": "grow",
+        "part_of_speech": "VERB",
+        "location": [
+          3101,
+          3105
+        ],
+        "lemma": "grow"
+      },
+      {
+        "text": "our",
+        "part_of_speech": "PRON",
+        "location": [
+          3106,
+          3109
+        ],
+        "lemma": "our"
+      },
+      {
+        "text": "capabilities",
+        "part_of_speech": "NOUN",
+        "location": [
+          3110,
+          3122
+        ],
+        "lemma": "capability"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "SCONJ",
+        "location": [
+          3123,
+          3125
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "AI",
+        "part_of_speech": "VERB",
+        "location": [
+          3126,
+          3128
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          3129,
+          3131
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "enable",
+        "part_of_speech": "VERB",
+        "location": [
+          3132,
+          3138
+        ],
+        "lemma": "enable"
+      },
+      {
+        "text": "innovative",
+        "part_of_speech": "ADJ",
+        "location": [
+          3139,
+          3149
+        ],
+        "lemma": "innovative"
+      },
+      {
+        "text": "solutions",
+        "part_of_speech": "NOUN",
+        "location": [
+          3150,
+          3159
+        ],
+        "lemma": "solution"
+      },
+      {
+        "text": "improving",
+        "part_of_speech": "VERB",
+        "location": [
+          3160,
+          3169
+        ],
+        "lemma": "improve"
+      },
+      {
+        "text": "care",
+        "part_of_speech": "NOUN",
+        "location": [
+          3170,
+          3174
+        ],
+        "lemma": "care"
+      },
+      {
+        "text": "pathways",
+        "part_of_speech": "NOUN",
+        "location": [
+          3175,
+          3183
+        ],
+        "lemma": "pathway"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3183,
+          3184
+        ]
+      },
+      {
+        "text": "”",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3184,
+          3185
+        ]
+      },
+      {
+        "text": "said",
+        "part_of_speech": "VERB",
+        "location": [
+          3186,
+          3190
+        ],
+        "lemma": "say"
+      },
+      {
+        "text": "François",
+        "part_of_speech": "PROPN",
+        "location": [
+          3191,
+          3199
+        ]
+      },
+      {
+        "text": "Nicolas",
+        "part_of_speech": "PROPN",
+        "location": [
+          3200,
+          3207
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3207,
+          3208
+        ]
+      },
+      {
+        "text": "Chief",
+        "part_of_speech": "PROPN",
+        "location": [
+          3209,
+          3214
+        ],
+        "lemma": "Chief"
+      },
+      {
+        "text": "Digital",
+        "part_of_speech": "PROPN",
+        "location": [
+          3215,
+          3222
+        ]
+      },
+      {
+        "text": "Officer",
+        "part_of_speech": "PROPN",
+        "location": [
+          3223,
+          3230
+        ],
+        "lemma": "Officer"
+      },
+      {
+        "text": "at",
+        "part_of_speech": "ADP",
+        "location": [
+          3231,
+          3233
+        ],
+        "lemma": "at"
+      },
+      {
+        "text": "Guerbet",
+        "part_of_speech": "PROPN",
+        "location": [
+          3234,
+          3241
+        ]
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3241,
+          3242
+        ]
+      },
+      {
+        "text": "Guerbet",
+        "part_of_speech": "PROPN",
+        "location": [
+          3243,
+          3250
+        ]
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          3251,
+          3253
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          3254,
+          3255
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "pioneer",
+        "part_of_speech": "NOUN",
+        "location": [
+          3256,
+          3263
+        ],
+        "lemma": "pioneer"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          3264,
+          3266
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          3267,
+          3270
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "contrast",
+        "part_of_speech": "NOUN",
+        "location": [
+          3271,
+          3279
+        ],
+        "lemma": "contrast"
+      },
+      {
+        "text": "-",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3279,
+          3280
+        ]
+      },
+      {
+        "text": "agent",
+        "part_of_speech": "NOUN",
+        "location": [
+          3280,
+          3285
+        ],
+        "lemma": "agent"
+      },
+      {
+        "text": "field",
+        "part_of_speech": "NOUN",
+        "location": [
+          3286,
+          3291
+        ],
+        "lemma": "field"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3291,
+          3292
+        ]
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          3293,
+          3297
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADJ",
+        "location": [
+          3298,
+          3302
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "than",
+        "part_of_speech": "ADP",
+        "location": [
+          3303,
+          3307
+        ],
+        "lemma": "than"
+      },
+      {
+        "text": "90",
+        "part_of_speech": "NUM",
+        "location": [
+          3308,
+          3310
+        ]
+      },
+      {
+        "text": "years",
+        "part_of_speech": "NOUN",
+        "location": [
+          3311,
+          3316
+        ],
+        "lemma": "year"
+      },
+      {
+        "text": "’",
+        "part_of_speech": "PART",
+        "location": [
+          3316,
+          3317
+        ]
+      },
+      {
+        "text": "experience",
+        "part_of_speech": "NOUN",
+        "location": [
+          3318,
+          3328
+        ],
+        "lemma": "experience"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3328,
+          3329
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          3330,
+          3333
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          3334,
+          3336
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          3337,
+          3338
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "leader",
+        "part_of_speech": "NOUN",
+        "location": [
+          3339,
+          3345
+        ],
+        "lemma": "leader"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          3346,
+          3348
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "medical",
+        "part_of_speech": "ADJ",
+        "location": [
+          3349,
+          3356
+        ],
+        "lemma": "medical"
+      },
+      {
+        "text": "imaging",
+        "part_of_speech": "VERB",
+        "location": [
+          3357,
+          3364
+        ],
+        "lemma": "image"
+      },
+      {
+        "text": "worldwide",
+        "part_of_speech": "ADV",
+        "location": [
+          3365,
+          3374
+        ]
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3374,
+          3375
+        ]
+      },
+      {
+        "text": "It",
+        "part_of_speech": "PRON",
+        "location": [
+          3376,
+          3378
+        ],
+        "lemma": "it"
+      },
+      {
+        "text": "offers",
+        "part_of_speech": "VERB",
+        "location": [
+          3379,
+          3385
+        ],
+        "lemma": "offer"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          3386,
+          3387
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "comprehensive",
+        "part_of_speech": "ADJ",
+        "location": [
+          3388,
+          3401
+        ],
+        "lemma": "comprehensive"
+      },
+      {
+        "text": "range",
+        "part_of_speech": "NOUN",
+        "location": [
+          3402,
+          3407
+        ],
+        "lemma": "range"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          3408,
+          3410
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "pharmaceutical",
+        "part_of_speech": "ADJ",
+        "location": [
+          3411,
+          3425
+        ],
+        "lemma": "pharmaceutic"
+      },
+      {
+        "text": "products",
+        "part_of_speech": "NOUN",
+        "location": [
+          3426,
+          3434
+        ],
+        "lemma": "product"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3434,
+          3435
+        ]
+      },
+      {
+        "text": "medical",
+        "part_of_speech": "ADJ",
+        "location": [
+          3436,
+          3443
+        ],
+        "lemma": "medical"
+      },
+      {
+        "text": "devices",
+        "part_of_speech": "NOUN",
+        "location": [
+          3444,
+          3451
+        ],
+        "lemma": "device"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          3452,
+          3455
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "services",
+        "part_of_speech": "NOUN",
+        "location": [
+          3456,
+          3464
+        ],
+        "lemma": "service"
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          3465,
+          3468
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "diagnostic",
+        "part_of_speech": "ADJ",
+        "location": [
+          3469,
+          3479
+        ],
+        "lemma": "diagnostic"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          3480,
+          3483
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "interventional",
+        "part_of_speech": "ADJ",
+        "location": [
+          3484,
+          3498
+        ]
+      },
+      {
+        "text": "imaging",
+        "part_of_speech": "NOUN",
+        "location": [
+          3499,
+          3506
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3506,
+          3507
+        ]
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          3508,
+          3510
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "improve",
+        "part_of_speech": "VERB",
+        "location": [
+          3511,
+          3518
+        ],
+        "lemma": "improve"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          3519,
+          3522
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "diagnosis",
+        "part_of_speech": "NOUN",
+        "location": [
+          3523,
+          3532
+        ],
+        "lemma": "diagnosis"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          3533,
+          3536
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "treatment",
+        "part_of_speech": "NOUN",
+        "location": [
+          3537,
+          3546
+        ],
+        "lemma": "treatment"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          3547,
+          3549
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "patients",
+        "part_of_speech": "NOUN",
+        "location": [
+          3550,
+          3558
+        ],
+        "lemma": "patient"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3558,
+          3559
+        ]
+      },
+      {
+        "text": "With",
+        "part_of_speech": "ADP",
+        "location": [
+          3560,
+          3564
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "8",
+        "part_of_speech": "NUM",
+        "location": [
+          3565,
+          3566
+        ]
+      },
+      {
+        "text": "%",
+        "part_of_speech": "SYM",
+        "location": [
+          3566,
+          3567
+        ]
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          3568,
+          3570
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "revenue",
+        "part_of_speech": "NOUN",
+        "location": [
+          3571,
+          3578
+        ],
+        "lemma": "revenue"
+      },
+      {
+        "text": "dedicated",
+        "part_of_speech": "ADJ",
+        "location": [
+          3579,
+          3588
+        ]
+      },
+      {
+        "text": "to",
+        "part_of_speech": "ADP",
+        "location": [
+          3589,
+          3591
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "R&D",
+        "part_of_speech": "PROPN",
+        "location": [
+          3592,
+          3595
+        ],
+        "lemma": "R&D"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          3596,
+          3599
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADJ",
+        "location": [
+          3600,
+          3604
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "than",
+        "part_of_speech": "ADP",
+        "location": [
+          3605,
+          3609
+        ],
+        "lemma": "than"
+      },
+      {
+        "text": "200",
+        "part_of_speech": "NUM",
+        "location": [
+          3610,
+          3613
+        ]
+      },
+      {
+        "text": "employees",
+        "part_of_speech": "NOUN",
+        "location": [
+          3614,
+          3623
+        ],
+        "lemma": "employee"
+      },
+      {
+        "text": "distributed",
+        "part_of_speech": "VERB",
+        "location": [
+          3624,
+          3635
+        ],
+        "lemma": "distribute"
+      },
+      {
+        "text": "amongst",
+        "part_of_speech": "ADP",
+        "location": [
+          3636,
+          3643
+        ],
+        "lemma": "amongst"
+      },
+      {
+        "text": "its",
+        "part_of_speech": "PRON",
+        "location": [
+          3644,
+          3647
+        ],
+        "lemma": "its"
+      },
+      {
+        "text": "centers",
+        "part_of_speech": "NOUN",
+        "location": [
+          3648,
+          3655
+        ],
+        "lemma": "center"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          3656,
+          3658
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "France",
+        "part_of_speech": "PROPN",
+        "location": [
+          3659,
+          3665
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3665,
+          3666
+        ]
+      },
+      {
+        "text": "Israel",
+        "part_of_speech": "PROPN",
+        "location": [
+          3667,
+          3673
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          3674,
+          3677
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          3678,
+          3681
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "United",
+        "part_of_speech": "PROPN",
+        "location": [
+          3682,
+          3688
+        ]
+      },
+      {
+        "text": "States",
+        "part_of_speech": "PROPN",
+        "location": [
+          3689,
+          3695
+        ],
+        "lemma": "State"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3695,
+          3696
+        ]
+      },
+      {
+        "text": "Guerbet",
+        "part_of_speech": "PROPN",
+        "location": [
+          3697,
+          3704
+        ]
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          3705,
+          3707
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          3708,
+          3709
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "substantial",
+        "part_of_speech": "ADJ",
+        "location": [
+          3710,
+          3721
+        ],
+        "lemma": "substantial"
+      },
+      {
+        "text": "investor",
+        "part_of_speech": "NOUN",
+        "location": [
+          3722,
+          3730
+        ],
+        "lemma": "investor"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          3731,
+          3733
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "research",
+        "part_of_speech": "NOUN",
+        "location": [
+          3734,
+          3742
+        ],
+        "lemma": "research"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          3743,
+          3746
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "innovation",
+        "part_of_speech": "NOUN",
+        "location": [
+          3747,
+          3757
+        ],
+        "lemma": "innovation"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3757,
+          3758
+        ]
+      },
+      {
+        "text": "Guerbet",
+        "part_of_speech": "PROPN",
+        "location": [
+          3759,
+          3766
+        ]
+      },
+      {
+        "text": "(",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3767,
+          3768
+        ]
+      },
+      {
+        "text": "GBT",
+        "part_of_speech": "PROPN",
+        "location": [
+          3768,
+          3771
+        ]
+      },
+      {
+        "text": ")",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3771,
+          3772
+        ]
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          3773,
+          3775
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "listed",
+        "part_of_speech": "VERB",
+        "location": [
+          3776,
+          3782
+        ],
+        "lemma": "list"
+      },
+      {
+        "text": "on",
+        "part_of_speech": "ADP",
+        "location": [
+          3783,
+          3785
+        ],
+        "lemma": "on"
+      },
+      {
+        "text": "Euronext",
+        "part_of_speech": "PROPN",
+        "location": [
+          3786,
+          3794
+        ]
+      },
+      {
+        "text": "Paris",
+        "part_of_speech": "PROPN",
+        "location": [
+          3795,
+          3800
+        ]
+      },
+      {
+        "text": "(",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3801,
+          3802
+        ]
+      },
+      {
+        "text": "segment",
+        "part_of_speech": "NOUN",
+        "location": [
+          3802,
+          3809
+        ],
+        "lemma": "segment"
+      },
+      {
+        "text": "B",
+        "part_of_speech": "NOUN",
+        "location": [
+          3810,
+          3811
+        ]
+      },
+      {
+        "text": "–",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3812,
+          3813
+        ]
+      },
+      {
+        "text": "mid",
+        "part_of_speech": "X",
+        "location": [
+          3814,
+          3817
+        ],
+        "lemma": "mid"
+      },
+      {
+        "text": "caps",
+        "part_of_speech": "NOUN",
+        "location": [
+          3818,
+          3822
+        ],
+        "lemma": "cap"
+      },
+      {
+        "text": ")",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3822,
+          3823
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          3824,
+          3827
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "generated",
+        "part_of_speech": "VERB",
+        "location": [
+          3828,
+          3837
+        ],
+        "lemma": "generate"
+      },
+      {
+        "text": "€",
+        "part_of_speech": "SYM",
+        "location": [
+          3838,
+          3839
+        ]
+      },
+      {
+        "text": "807",
+        "part_of_speech": "NUM",
+        "location": [
+          3839,
+          3842
+        ]
+      },
+      {
+        "text": "million",
+        "part_of_speech": "NUM",
+        "location": [
+          3843,
+          3850
+        ],
+        "lemma": "million"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          3851,
+          3853
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "revenue",
+        "part_of_speech": "NOUN",
+        "location": [
+          3854,
+          3861
+        ],
+        "lemma": "revenue"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          3862,
+          3864
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "2017",
+        "part_of_speech": "NUM",
+        "location": [
+          3865,
+          3869
+        ]
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3869,
+          3870
+        ]
+      },
+      {
+        "text": "For",
+        "part_of_speech": "ADP",
+        "location": [
+          3871,
+          3874
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADJ",
+        "location": [
+          3875,
+          3879
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "information",
+        "part_of_speech": "NOUN",
+        "location": [
+          3880,
+          3891
+        ],
+        "lemma": "information"
+      },
+      {
+        "text": "about",
+        "part_of_speech": "ADP",
+        "location": [
+          3892,
+          3897
+        ],
+        "lemma": "about"
+      },
+      {
+        "text": "Guerbet",
+        "part_of_speech": "PROPN",
+        "location": [
+          3898,
+          3905
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3905,
+          3906
+        ]
+      },
+      {
+        "text": "please",
+        "part_of_speech": "INTJ",
+        "location": [
+          3907,
+          3913
+        ]
+      },
+      {
+        "text": "visit",
+        "part_of_speech": "VERB",
+        "location": [
+          3914,
+          3919
+        ],
+        "lemma": "visit"
+      },
+      {
+        "text": "www.guerbet.com",
+        "part_of_speech": "X",
+        "location": [
+          3920,
+          3935
+        ]
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3935,
+          3936
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          3937,
+          3943
+        ]
+      },
+      {
+        "text": "Health",
+        "part_of_speech": "PROPN",
+        "location": [
+          3944,
+          3950
+        ],
+        "lemma": "Health"
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          3951,
+          3953
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          3954,
+          3955
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "business",
+        "part_of_speech": "NOUN",
+        "location": [
+          3956,
+          3964
+        ],
+        "lemma": "business"
+      },
+      {
+        "text": "unit",
+        "part_of_speech": "NOUN",
+        "location": [
+          3965,
+          3969
+        ],
+        "lemma": "unit"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          3970,
+          3972
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          3973,
+          3976
+        ]
+      },
+      {
+        "text": "that",
+        "part_of_speech": "PRON",
+        "location": [
+          3977,
+          3981
+        ],
+        "lemma": "that"
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          3982,
+          3984
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "dedicated",
+        "part_of_speech": "ADJ",
+        "location": [
+          3985,
+          3994
+        ]
+      },
+      {
+        "text": "to",
+        "part_of_speech": "ADP",
+        "location": [
+          3995,
+          3997
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          3998,
+          4001
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "development",
+        "part_of_speech": "NOUN",
+        "location": [
+          4002,
+          4013
+        ],
+        "lemma": "development"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          4014,
+          4017
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "implementation",
+        "part_of_speech": "NOUN",
+        "location": [
+          4018,
+          4032
+        ],
+        "lemma": "implementation"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          4033,
+          4035
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "AI",
+        "part_of_speech": "PROPN",
+        "location": [
+          4036,
+          4038
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          4039,
+          4042
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "data",
+        "part_of_speech": "NOUN",
+        "location": [
+          4043,
+          4047
+        ],
+        "lemma": "data"
+      },
+      {
+        "text": "-",
+        "part_of_speech": "PUNCT",
+        "location": [
+          4047,
+          4048
+        ]
+      },
+      {
+        "text": "driven",
+        "part_of_speech": "VERB",
+        "location": [
+          4048,
+          4054
+        ],
+        "lemma": "drive"
+      },
+      {
+        "text": "technologies",
+        "part_of_speech": "NOUN",
+        "location": [
+          4055,
+          4067
+        ],
+        "lemma": "technology"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          4068,
+          4070
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "advance",
+        "part_of_speech": "VERB",
+        "location": [
+          4071,
+          4078
+        ],
+        "lemma": "advance"
+      },
+      {
+        "text": "health",
+        "part_of_speech": "NOUN",
+        "location": [
+          4079,
+          4085
+        ],
+        "lemma": "health"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          4085,
+          4086
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          4087,
+          4093
+        ]
+      },
+      {
+        "text": "Health",
+        "part_of_speech": "PROPN",
+        "location": [
+          4094,
+          4100
+        ],
+        "lemma": "Health"
+      },
+      {
+        "text": "technologies",
+        "part_of_speech": "NOUN",
+        "location": [
+          4101,
+          4113
+        ],
+        "lemma": "technology"
+      },
+      {
+        "text": "are",
+        "part_of_speech": "AUX",
+        "location": [
+          4114,
+          4117
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "tackling",
+        "part_of_speech": "VERB",
+        "location": [
+          4118,
+          4126
+        ],
+        "lemma": "tackle"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          4127,
+          4128
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "wide",
+        "part_of_speech": "ADJ",
+        "location": [
+          4129,
+          4133
+        ],
+        "lemma": "wide"
+      },
+      {
+        "text": "range",
+        "part_of_speech": "NOUN",
+        "location": [
+          4134,
+          4139
+        ],
+        "lemma": "range"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          4140,
+          4142
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          4143,
+          4146
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "world",
+        "part_of_speech": "NOUN",
+        "location": [
+          4147,
+          4152
+        ],
+        "lemma": "world"
+      },
+      {
+        "text": "’s",
+        "part_of_speech": "PART",
+        "location": [
+          4152,
+          4154
+        ],
+        "lemma": "’s"
+      },
+      {
+        "text": "biggest",
+        "part_of_speech": "ADJ",
+        "location": [
+          4155,
+          4162
+        ],
+        "lemma": "big"
+      },
+      {
+        "text": "healthcare",
+        "part_of_speech": "NOUN",
+        "location": [
+          4163,
+          4173
+        ],
+        "lemma": "healthcare"
+      },
+      {
+        "text": "challenges",
+        "part_of_speech": "NOUN",
+        "location": [
+          4174,
+          4184
+        ],
+        "lemma": "challenge"
+      },
+      {
+        "text": "including",
+        "part_of_speech": "VERB",
+        "location": [
+          4185,
+          4194
+        ],
+        "lemma": "include"
+      },
+      {
+        "text": "cancer",
+        "part_of_speech": "NOUN",
+        "location": [
+          4195,
+          4201
+        ],
+        "lemma": "cancer"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          4201,
+          4202
+        ]
+      },
+      {
+        "text": "diabetes",
+        "part_of_speech": "NOUN",
+        "location": [
+          4203,
+          4211
+        ],
+        "lemma": "diabetes"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          4211,
+          4212
+        ]
+      },
+      {
+        "text": "drug",
+        "part_of_speech": "NOUN",
+        "location": [
+          4213,
+          4217
+        ],
+        "lemma": "drug"
+      },
+      {
+        "text": "discovery",
+        "part_of_speech": "NOUN",
+        "location": [
+          4218,
+          4227
+        ],
+        "lemma": "discovery"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          4228,
+          4231
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADJ",
+        "location": [
+          4232,
+          4236
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          4236,
+          4237
+        ]
+      },
+      {
+        "text": "Learn",
+        "part_of_speech": "VERB",
+        "location": [
+          4238,
+          4243
+        ],
+        "lemma": "learn"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADJ",
+        "location": [
+          4244,
+          4248
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "at",
+        "part_of_speech": "ADP",
+        "location": [
+          4249,
+          4251
+        ],
+        "lemma": "at"
+      },
+      {
+        "text": "ibm.com",
+        "part_of_speech": "X",
+        "location": [
+          4252,
+          4259
+        ]
+      },
+      {
+        "text": "/",
+        "part_of_speech": "PUNCT",
+        "location": [
+          4259,
+          4260
+        ]
+      },
+      {
+        "text": "watson",
+        "part_of_speech": "NOUN",
+        "location": [
+          4260,
+          4266
+        ]
+      },
+      {
+        "text": "/",
+        "part_of_speech": "PUNCT",
+        "location": [
+          4266,
+          4267
+        ]
+      },
+      {
+        "text": "health",
+        "part_of_speech": "NOUN",
+        "location": [
+          4267,
+          4273
+        ],
+        "lemma": "health"
+      }
+    ],
+    "sentences": [
+      {
+        "text": "Villepinte (France) and Cambridge (USA) - July 10, 2018 (8:30 am CEST) – Guerbet a global specialist in contrast agents and solutions for diagnostic and interventional medical imaging, today announced that it has signed an exclusive joint development agreement to develop an artificial intelligence (AI) software solution in collaboration with IBM (NYSE: IBM) Watson Health to support liver cancer diagnostics and care utilizing CT and MRI imaging.",
+        "location": [
+          0,
+          448
+        ]
+      },
+      {
+        "text": "Through this collaboration, Guerbet and IBM Watson Health plan to co-develop innovative, clinical decision support solutions.",
+        "location": [
+          449,
+          574
+        ]
+      },
+      {
+        "text": "The first, called Watson Imaging Care Advisor[1] for Liver, is planned to be a diagnostic support tool that will use artificial intelligence to automate the detection, staging, tracking, monitoring, therapy prediction and therapy response of primary and secondary liver cancer for clinicians.",
+        "location": [
+          575,
+          867
+        ]
+      },
+      {
+        "text": "The IBM Research team will also work on development of the solutions leveraging prior research innovations.",
+        "location": [
+          868,
+          975
+        ]
+      },
+      {
+        "text": "Liver cancer is the second leading cause of cancer death worldwide,[2] and the fastest growing cause of cancer deaths in the United States.",
+        "location": [
+          976,
+          1115
+        ]
+      },
+      {
+        "text": "[3] About 83 percent of primary liver cancer cases occur in developing countries.",
+        "location": [
+          1115,
+          1196
+        ]
+      },
+      {
+        "text": "[4] The liver is also a common site for metastases, particularly in the case of digestive cancers, in which nearly 50% of patients develop metastases.",
+        "location": [
+          1196,
+          1346
+        ]
+      },
+      {
+        "text": "[5] The hope is that better characterization and earlier identification of these metastases may lead to an improvement in the chances of recovery.",
+        "location": [
+          1346,
+          1492
+        ]
+      },
+      {
+        "text": "“Liver cancer is a growing health concern globally, and the use of augmented intelligence by medical imaging is well positioned to help address it.",
+        "location": [
+          1493,
+          1640
+        ]
+      },
+      {
+        "text": "We are proud to work with IBM Watson Health to develop a solution dedicated to liver disease, which could help make it possible for clinicians to make more informed characterizations of tissue without recourse to biopsy,” said Yves L’Epine, Guerbet’s CEO.",
+        "location": [
+          1641,
+          1896
+        ]
+      },
+      {
+        "text": "Care Advisor for Liver will be designed to be compatible with the most common PACS visualization systems, making it easy to be integrated directly into the workflows of healthcare professionals.",
+        "location": [
+          1897,
+          2091
+        ]
+      },
+      {
+        "text": "“Imaging is a critical area of healthcare where we believe artificial intelligence can be used to expand the physician’s view so they can be more informed in their diagnostic and treatment decisions for their patients.",
+        "location": [
+          2093,
+          2311
+        ]
+      },
+      {
+        "text": "We are excited to bring together the significant respective expertise of IBM and Guerbet to advance innovation in this important field, and ultimately help combat the challenge of liver cancer globally,” said Anne Le Grand, Vice President of Imaging at Watson Health.",
+        "location": [
+          2312,
+          2579
+        ]
+      },
+      {
+        "text": "Watson Imaging Care Advisor for Liver will be a part of a family of decision support tools powered by IBM Watson image analytics designed to inform radiologists’ diagnostic decisions for their patients.",
+        "location": [
+          2580,
+          2782
+        ]
+      },
+      {
+        "text": "These offerings are being developed with a shared objective to create insights derived from IBM Watson image analytics to help inform clinical decisions.",
+        "location": [
+          2783,
+          2936
+        ]
+      },
+      {
+        "text": "“We look forward to working with IBM Watson Health on Guerbet’s first project aimed at better assisting radiologists with augmented intelligence.",
+        "location": [
+          2937,
+          3082
+        ]
+      },
+      {
+        "text": "This will help us grow our capabilities in AI to enable innovative solutions improving care pathways.",
+        "location": [
+          3083,
+          3184
+        ]
+      },
+      {
+        "text": "” said François Nicolas, Chief Digital Officer at Guerbet.",
+        "location": [
+          3184,
+          3242
+        ]
+      },
+      {
+        "text": "Guerbet is a pioneer in the contrast-agent field, with more than 90 years’ experience, and is a leader in medical imaging worldwide.",
+        "location": [
+          3243,
+          3375
+        ]
+      },
+      {
+        "text": "It offers a comprehensive range of pharmaceutical products, medical devices and services for diagnostic and interventional imaging, to improve the diagnosis and treatment of patients.",
+        "location": [
+          3376,
+          3559
+        ]
+      },
+      {
+        "text": "With 8% of revenue dedicated to R&D and more than 200 employees distributed amongst its centers in France, Israel and the United States, Guerbet is a substantial investor in research and innovation.",
+        "location": [
+          3560,
+          3758
+        ]
+      },
+      {
+        "text": "Guerbet (GBT) is listed on Euronext Paris (segment B – mid caps) and generated €807 million in revenue in 2017.",
+        "location": [
+          3759,
+          3870
+        ]
+      },
+      {
+        "text": "For more information about Guerbet, please visit www.guerbet.com.",
+        "location": [
+          3871,
+          3936
+        ]
+      },
+      {
+        "text": "Watson Health is a business unit of IBM that is dedicated to the development and implementation of AI and data-driven technologies to advance health.",
+        "location": [
+          3937,
+          4086
+        ]
+      },
+      {
+        "text": "Watson Health technologies are tackling a wide range of the world’s biggest healthcare challenges including cancer, diabetes, drug discovery and more.",
+        "location": [
+          4087,
+          4237
+        ]
+      },
+      {
+        "text": "Learn more at ibm.com/watson/health",
+        "location": [
+          4238,
+          4273
+        ]
+      }
+    ]
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.690499,
+      "label": "positive"
+    }
+  },
+  "semantic_roles": [
+    {
+      "subject": {
+        "text": "CEST"
+      },
+      "sentence": "Villepinte (France) and Cambridge (USA) - July 10, 2018 (8:30 am CEST) – Guerbet a global specialist in contrast agents and solutions for diagnostic and interventional medical imaging, today announced that it has signed an exclusive joint development agreement to develop an artificial intelligence (AI) software solution in collaboration with IBM (NYSE: IBM) Watson Health to support liver cancer diagnostics and care utilizing CT and MRI imaging.",
+      "object": {
+        "text": "30"
+      },
+      "action": {
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "text": "am",
+        "normalized": "be"
+      }
+    },
+    {
+      "subject": {
+        "text": "agents and solutions for diagnostic and interventional medical imaging,"
+      },
+      "sentence": "Villepinte (France) and Cambridge (USA) - July 10, 2018 (8:30 am CEST) – Guerbet a global specialist in contrast agents and solutions for diagnostic and interventional medical imaging, today announced that it has signed an exclusive joint development agreement to develop an artificial intelligence (AI) software solution in collaboration with IBM (NYSE: IBM) Watson Health to support liver cancer diagnostics and care utilizing CT and MRI imaging.",
+      "object": {
+        "text": "that it has signed an exclusive joint development agreement to develop an artificial intelligence (AI) software solution in collaboration with IBM (NYSE: IBM) Watson Health to support liver cancer diagnostics and care utilizing CT and MRI imaging"
+      },
+      "action": {
+        "verb": {
+          "text": "announce",
+          "tense": "past"
+        },
+        "text": "announced",
+        "normalized": "announce"
+      }
+    },
+    {
+      "subject": {
+        "text": "it"
+      },
+      "sentence": "Villepinte (France) and Cambridge (USA) - July 10, 2018 (8:30 am CEST) – Guerbet a global specialist in contrast agents and solutions for diagnostic and interventional medical imaging, today announced that it has signed an exclusive joint development agreement to develop an artificial intelligence (AI) software solution in collaboration with IBM (NYSE: IBM) Watson Health to support liver cancer diagnostics and care utilizing CT and MRI imaging.",
+      "object": {
+        "text": "an artificial intelligence (AI) software solution in collaboration with IBM (NYSE: IBM) Watson Health to support liver cancer diagnostics and care utilizing CT and MRI imaging"
+      },
+      "action": {
+        "verb": {
+          "text": "develop",
+          "tense": "future"
+        },
+        "text": "to develop",
+        "normalized": "to develop"
+      }
+    },
+    {
+      "subject": {
+        "text": "it"
+      },
+      "sentence": "Villepinte (France) and Cambridge (USA) - July 10, 2018 (8:30 am CEST) – Guerbet a global specialist in contrast agents and solutions for diagnostic and interventional medical imaging, today announced that it has signed an exclusive joint development agreement to develop an artificial intelligence (AI) software solution in collaboration with IBM (NYSE: IBM) Watson Health to support liver cancer diagnostics and care utilizing CT and MRI imaging.",
+      "object": {
+        "text": "utilizing CT and MRI imaging"
+      },
+      "action": {
+        "verb": {
+          "text": "care",
+          "tense": "present"
+        },
+        "text": "care",
+        "normalized": "care"
+      }
+    },
+    {
+      "subject": {
+        "text": "Guerbet and IBM Watson Health"
+      },
+      "sentence": " Through this collaboration, Guerbet and IBM Watson Health plan to co-develop innovative, clinical decision support solutions.",
+      "object": {
+        "text": "innovative, clinical decision support solutions"
+      },
+      "action": {
+        "verb": {
+          "text": "co-develop",
+          "tense": "future"
+        },
+        "text": "to co-develop",
+        "normalized": "to co-develop"
+      }
+    },
+    {
+      "subject": {
+        "text": "The first, called Watson Imaging Care Advisor[1] for Liver,"
+      },
+      "sentence": " The first, called Watson Imaging Care Advisor[1] for Liver, is planned to be a diagnostic support tool that will use artificial intelligence to automate the detection, staging, tracking, monitoring, therapy prediction and therapy response of primary and secondary liver cancer for clinicians.",
+      "object": {
+        "text": "planned"
+      },
+      "action": {
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "text": "is",
+        "normalized": "be"
+      }
+    },
+    {
+      "subject": {
+        "text": "a diagnostic support tool"
+      },
+      "sentence": " The first, called Watson Imaging Care Advisor[1] for Liver, is planned to be a diagnostic support tool that will use artificial intelligence to automate the detection, staging, tracking, monitoring, therapy prediction and therapy response of primary and secondary liver cancer for clinicians.",
+      "object": {
+        "text": "artificial intelligence"
+      },
+      "action": {
+        "verb": {
+          "text": "use",
+          "tense": "future"
+        },
+        "text": "will use",
+        "normalized": "will use"
+      }
+    },
+    {
+      "subject": {
+        "text": "the solutions"
+      },
+      "sentence": " The IBM Research team will also work on development of the solutions leveraging prior research innovations.",
+      "object": {
+        "text": "prior research innovations"
+      },
+      "action": {
+        "verb": {
+          "text": "leverage",
+          "tense": "present"
+        },
+        "text": "leveraging",
+        "normalized": "leverage"
+      }
+    },
+    {
+      "subject": {
+        "text": "Liver cancer"
+      },
+      "sentence": " Liver cancer is the second leading cause of cancer death worldwide,[2] and the fastest growing cause of cancer deaths in the United States.[3] About 83 percent of primary liver cancer cases occur in developing countries.[4] The liver is also a common site for metastases, particularly in the case of digestive cancers, in which nearly 50% of patients develop metastases.[5] The hope is that better characterization and earlier identification of these metastases may lead to an improvement in the chances of recovery.",
+      "object": {
+        "text": "the second leading cause of cancer death worldwide"
+      },
+      "action": {
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "text": "is",
+        "normalized": "be"
+      }
+    },
+    {
+      "subject": {
+        "text": "nearly 50% of patients"
+      },
+      "sentence": " Liver cancer is the second leading cause of cancer death worldwide,[2] and the fastest growing cause of cancer deaths in the United States.[3] About 83 percent of primary liver cancer cases occur in developing countries.[4] The liver is also a common site for metastases, particularly in the case of digestive cancers, in which nearly 50% of patients develop metastases.[5] The hope is that better characterization and earlier identification of these metastases may lead to an improvement in the chances of recovery.",
+      "object": {
+        "text": "metastases."
+      },
+      "action": {
+        "verb": {
+          "text": "develop",
+          "tense": "present"
+        },
+        "text": "develop",
+        "normalized": "develop"
+      }
+    },
+    {
+      "subject": {
+        "text": "The hope"
+      },
+      "sentence": " Liver cancer is the second leading cause of cancer death worldwide,[2] and the fastest growing cause of cancer deaths in the United States.[3] About 83 percent of primary liver cancer cases occur in developing countries.[4] The liver is also a common site for metastases, particularly in the case of digestive cancers, in which nearly 50% of patients develop metastases.[5] The hope is that better characterization and earlier identification of these metastases may lead to an improvement in the chances of recovery.",
+      "object": {
+        "text": "that better characterization"
+      },
+      "action": {
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "text": "is",
+        "normalized": "be"
+      }
+    },
+    {
+      "subject": {
+        "text": "Liver cancer"
+      },
+      "sentence": " “Liver cancer is a growing health concern globally, and the use of augmented intelligence by medical imaging is well positioned to help address it.",
+      "object": {
+        "text": "a growing health concern"
+      },
+      "action": {
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "text": "is",
+        "normalized": "be"
+      }
+    },
+    {
+      "subject": {
+        "text": "the use of augmented intelligence by medical imaging"
+      },
+      "sentence": " “Liver cancer is a growing health concern globally, and the use of augmented intelligence by medical imaging is well positioned to help address it.",
+      "object": {
+        "text": "well positioned"
+      },
+      "action": {
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "text": "is",
+        "normalized": "be"
+      }
+    },
+    {
+      "subject": {
+        "text": "the use of augmented intelligence by medical imaging"
+      },
+      "sentence": " “Liver cancer is a growing health concern globally, and the use of augmented intelligence by medical imaging is well positioned to help address it.",
+      "object": {
+        "text": "to help address it"
+      },
+      "action": {
+        "verb": {
+          "text": "position",
+          "tense": "past"
+        },
+        "text": "positioned",
+        "normalized": "position"
+      }
+    },
+    {
+      "subject": {
+        "text": "the use of augmented intelligence by medical imaging"
+      },
+      "sentence": " “Liver cancer is a growing health concern globally, and the use of augmented intelligence by medical imaging is well positioned to help address it.",
+      "object": {
+        "text": "address it"
+      },
+      "action": {
+        "verb": {
+          "text": "help",
+          "tense": "future"
+        },
+        "text": "help",
+        "normalized": "help"
+      }
+    },
+    {
+      "subject": {
+        "text": "the use of augmented intelligence by medical imaging"
+      },
+      "sentence": " “Liver cancer is a growing health concern globally, and the use of augmented intelligence by medical imaging is well positioned to help address it.",
+      "object": {
+        "text": "it"
+      },
+      "action": {
+        "verb": {
+          "text": "address",
+          "tense": "present"
+        },
+        "text": "to help address",
+        "normalized": "to help address"
+      }
+    },
+    {
+      "subject": {
+        "text": "IBM Watson Health"
+      },
+      "sentence": " We are proud to work with IBM Watson Health to develop a solution dedicated to liver disease, which could help make it possible for clinicians to make more informed characterizations of tissue without recourse to biopsy,” said Yves L’Epine, Guerbet’s CEO.",
+      "object": {
+        "text": "a solution dedicated to liver disease, which could help make it possible for clinicians to make more informed characterizations of tissue without recourse to biopsy"
+      },
+      "action": {
+        "verb": {
+          "text": "develop",
+          "tense": "future"
+        },
+        "text": "to develop",
+        "normalized": "to develop"
+      }
+    },
+    {
+      "subject": {
+        "text": "a solution dedicated to liver disease"
+      },
+      "sentence": " We are proud to work with IBM Watson Health to develop a solution dedicated to liver disease, which could help make it possible for clinicians to make more informed characterizations of tissue without recourse to biopsy,” said Yves L’Epine, Guerbet’s CEO.",
+      "object": {
+        "text": "for clinicians"
+      },
+      "action": {
+        "verb": {
+          "text": "make",
+          "tense": "future"
+        },
+        "text": "could help make",
+        "normalized": "could help make"
+      }
+    },
+    {
+      "subject": {
+        "text": "characterizations"
+      },
+      "sentence": " We are proud to work with IBM Watson Health to develop a solution dedicated to liver disease, which could help make it possible for clinicians to make more informed characterizations of tissue without recourse to biopsy,” said Yves L’Epine, Guerbet’s CEO.",
+      "object": {
+        "text": "of tissue"
+      },
+      "action": {
+        "verb": {
+          "text": "inform",
+          "tense": "past"
+        },
+        "text": "informed",
+        "normalized": "inform"
+      }
+    },
+    {
+      "subject": {
+        "text": "Yves L’Epine, Guerbet’s CEO"
+      },
+      "sentence": " We are proud to work with IBM Watson Health to develop a solution dedicated to liver disease, which could help make it possible for clinicians to make more informed characterizations of tissue without recourse to biopsy,” said Yves L’Epine, Guerbet’s CEO.",
+      "object": {
+        "text": "We are proud to work with IBM Watson Health to develop a solution dedicated to liver disease, which could help make it possible for clinicians to make more informed characterizations of tissue without recourse to biopsy"
+      },
+      "action": {
+        "verb": {
+          "text": "say",
+          "tense": "past"
+        },
+        "text": "said",
+        "normalized": "say"
+      }
+    },
+    {
+      "subject": {
+        "text": "to be integrated directly into the workflows of healthcare professionals"
+      },
+      "sentence": " Care Advisor for Liver will be designed to be compatible with the most common PACS visualization systems, making it easy to be integrated directly into the workflows of healthcare professionals.",
+      "object": {
+        "text": "easy"
+      },
+      "action": {
+        "verb": {
+          "text": "make",
+          "tense": "present"
+        },
+        "text": "making",
+        "normalized": "make"
+      }
+    },
+    {
+      "subject": {
+        "text": "Imaging"
+      },
+      "sentence": " “Imaging is a critical area of healthcare where we believe artificial intelligence can be used to expand the physician’s view so they can be more informed in their diagnostic and treatment decisions for their patients.",
+      "object": {
+        "text": "a critical area of healthcare where we believe artificial intelligence can be used to expand the physician’s view so they can be more informed in their diagnostic and treatment decisions for their patients"
+      },
+      "action": {
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "text": "is",
+        "normalized": "be"
+      }
+    },
+    {
+      "subject": {
+        "text": "artificial intelligence"
+      },
+      "sentence": " “Imaging is a critical area of healthcare where we believe artificial intelligence can be used to expand the physician’s view so they can be more informed in their diagnostic and treatment decisions for their patients.",
+      "object": {
+        "text": "the physician’s view"
+      },
+      "action": {
+        "verb": {
+          "text": "expand",
+          "tense": "future"
+        },
+        "text": "to expand",
+        "normalized": "to expand"
+      }
+    },
+    {
+      "subject": {
+        "text": "they"
+      },
+      "sentence": " “Imaging is a critical area of healthcare where we believe artificial intelligence can be used to expand the physician’s view so they can be more informed in their diagnostic and treatment decisions for their patients.",
+      "object": {
+        "text": "more informed in their diagnostic"
+      },
+      "action": {
+        "verb": {
+          "text": "be",
+          "tense": "future"
+        },
+        "text": "be",
+        "normalized": "be"
+      }
+    },
+    {
+      "subject": {
+        "text": "to bring together the significant respective expertise of IBM and Guerbet to advance innovation in this important field"
+      },
+      "sentence": " We are excited to bring together the significant respective expertise of IBM and Guerbet to advance innovation in this important field, and ultimately help combat the challenge of liver cancer globally,” said Anne Le Grand, Vice President of Imaging at Watson Health.",
+      "object": {
+        "text": "We"
+      },
+      "action": {
+        "verb": {
+          "text": "excite",
+          "tense": "past"
+        },
+        "text": "excited",
+        "normalized": "excite"
+      }
+    },
+    {
+      "subject": {
+        "text": "We"
+      },
+      "sentence": " We are excited to bring together the significant respective expertise of IBM and Guerbet to advance innovation in this important field, and ultimately help combat the challenge of liver cancer globally,” said Anne Le Grand, Vice President of Imaging at Watson Health.",
+      "object": {
+        "text": "the significant respective expertise of IBM and Guerbet"
+      },
+      "action": {
+        "verb": {
+          "text": "bring",
+          "tense": "future"
+        },
+        "text": "are excited to bring",
+        "normalized": "be excite to bring"
+      }
+    },
+    {
+      "subject": {
+        "text": "innovation"
+      },
+      "sentence": " We are excited to bring together the significant respective expertise of IBM and Guerbet to advance innovation in this important field, and ultimately help combat the challenge of liver cancer globally,” said Anne Le Grand, Vice President of Imaging at Watson Health.",
+      "action": {
+        "verb": {
+          "text": "advance",
+          "tense": "future"
+        },
+        "text": "to advance",
+        "normalized": "to advance"
+      }
+    },
+    {
+      "subject": {
+        "text": "combat the challenge of liver cancer globally"
+      },
+      "sentence": " We are excited to bring together the significant respective expertise of IBM and Guerbet to advance innovation in this important field, and ultimately help combat the challenge of liver cancer globally,” said Anne Le Grand, Vice President of Imaging at Watson Health.",
+      "action": {
+        "verb": {
+          "text": "help",
+          "tense": "present"
+        },
+        "text": "help",
+        "normalized": "help"
+      }
+    },
+    {
+      "subject": {
+        "text": "Anne Le Grand, Vice President of Imaging at Watson Health"
+      },
+      "sentence": " We are excited to bring together the significant respective expertise of IBM and Guerbet to advance innovation in this important field, and ultimately help combat the challenge of liver cancer globally,” said Anne Le Grand, Vice President of Imaging at Watson Health.",
+      "object": {
+        "text": "We are excited to bring together the significant respective expertise of IBM and Guerbet to advance innovation in this important field, and ultimately help combat the challenge of liver cancer globally"
+      },
+      "action": {
+        "verb": {
+          "text": "say",
+          "tense": "past"
+        },
+        "text": "said",
+        "normalized": "say"
+      }
+    },
+    {
+      "subject": {
+        "text": "by IBM Watson image analytics"
+      },
+      "sentence": " Watson Imaging Care Advisor for Liver will be a part of a family of decision support tools powered by IBM Watson image analytics designed to inform radiologists’ diagnostic decisions for their patients.",
+      "object": {
+        "text": "support tools"
+      },
+      "action": {
+        "verb": {
+          "text": "power",
+          "tense": "past"
+        },
+        "text": "powered",
+        "normalized": "power"
+      }
+    },
+    {
+      "subject": {
+        "text": "radiologists"
+      },
+      "sentence": " Watson Imaging Care Advisor for Liver will be a part of a family of decision support tools powered by IBM Watson image analytics designed to inform radiologists’ diagnostic decisions for their patients.",
+      "object": {
+        "text": "diagnostic decisions for their patients"
+      },
+      "action": {
+        "verb": {
+          "text": "inform",
+          "tense": "future"
+        },
+        "text": "designed to inform",
+        "normalized": "design to inform"
+      }
+    },
+    {
+      "subject": {
+        "text": "These offerings"
+      },
+      "sentence": " These offerings are being developed with a shared objective to create insights derived from IBM Watson image analytics to help inform clinical decisions.",
+      "object": {
+        "text": "insights derived from IBM Watson image analytics to help inform clinical decisions"
+      },
+      "action": {
+        "verb": {
+          "text": "create",
+          "tense": "future"
+        },
+        "text": "to create",
+        "normalized": "to create"
+      }
+    },
+    {
+      "subject": {
+        "text": "We"
+      },
+      "sentence": " “We look forward to working with IBM Watson Health on Guerbet’s first project aimed at better assisting radiologists with augmented intelligence.",
+      "object": {
+        "text": "to working with IBM Watson Health"
+      },
+      "action": {
+        "verb": {
+          "text": "look",
+          "tense": "present"
+        },
+        "text": "look",
+        "normalized": "look"
+      }
+    },
+    {
+      "subject": {
+        "text": "first project"
+      },
+      "sentence": " “We look forward to working with IBM Watson Health on Guerbet’s first project aimed at better assisting radiologists with augmented intelligence.",
+      "object": {
+        "text": "at better assisting radiologists with augmented intelligence"
+      },
+      "action": {
+        "verb": {
+          "text": "aim",
+          "tense": "past"
+        },
+        "text": "aimed",
+        "normalized": "aim"
+      }
+    },
+    {
+      "subject": {
+        "text": "radiologists"
+      },
+      "sentence": " “We look forward to working with IBM Watson Health on Guerbet’s first project aimed at better assisting radiologists with augmented intelligence.",
+      "object": {
+        "text": "with augmented intelligence"
+      },
+      "action": {
+        "verb": {
+          "text": "assist",
+          "tense": "present"
+        },
+        "text": "assisting",
+        "normalized": "assist"
+      }
+    },
+    {
+      "subject": {
+        "text": "This"
+      },
+      "sentence": " This will help us grow our capabilities in AI to enable innovative solutions improving care pathways.” said François Nicolas, Chief Digital Officer at Guerbet.",
+      "object": {
+        "text": "us grow our capabilities"
+      },
+      "action": {
+        "verb": {
+          "text": "help",
+          "tense": "future"
+        },
+        "text": "will help",
+        "normalized": "will help"
+      }
+    },
+    {
+      "subject": {
+        "text": "François Nicolas, Chief Digital Officer at Guerbet"
+      },
+      "sentence": " This will help us grow our capabilities in AI to enable innovative solutions improving care pathways.” said François Nicolas, Chief Digital Officer at Guerbet.",
+      "object": {
+        "text": "This will help us grow our capabilities in AI to enable innovative solutions improving care pathways."
+      },
+      "action": {
+        "verb": {
+          "text": "say",
+          "tense": "past"
+        },
+        "text": "said",
+        "normalized": "say"
+      }
+    },
+    {
+      "subject": {
+        "text": "Guerbet"
+      },
+      "sentence": " Guerbet is a pioneer in the contrast-agent field, with more than 90 years’ experience, and is a leader in medical imaging worldwide.",
+      "object": {
+        "text": "a pioneer in the contrast-agent field"
+      },
+      "action": {
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "text": "is",
+        "normalized": "be"
+      }
+    },
+    {
+      "subject": {
+        "text": "Guerbet"
+      },
+      "sentence": " Guerbet is a pioneer in the contrast-agent field, with more than 90 years’ experience, and is a leader in medical imaging worldwide.",
+      "action": {
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "text": "is",
+        "normalized": "be"
+      }
+    },
+    {
+      "subject": {
+        "text": "It"
+      },
+      "sentence": " It offers a comprehensive range of pharmaceutical products, medical devices and services for diagnostic and interventional imaging, to improve the diagnosis and treatment of patients.",
+      "object": {
+        "text": "a comprehensive range of pharmaceutical products, medical devices and services for diagnostic and interventional imaging, to improve the diagnosis and treatment of patients"
+      },
+      "action": {
+        "verb": {
+          "text": "offer",
+          "tense": "present"
+        },
+        "text": "offers",
+        "normalized": "offer"
+      }
+    },
+    {
+      "subject": {
+        "text": "8% of revenue"
+      },
+      "sentence": " With 8% of revenue dedicated to R&D and more than 200 employees distributed amongst its centers in France, Israel and the United States, Guerbet is a substantial investor in research and innovation.",
+      "object": {
+        "text": "to R&D and more than 200 employees"
+      },
+      "action": {
+        "verb": {
+          "text": "dedicate",
+          "tense": "past"
+        },
+        "text": "dedicated",
+        "normalized": "dedicate"
+      }
+    },
+    {
+      "subject": {
+        "text": "Guerbet (GBT)"
+      },
+      "sentence": " Guerbet (GBT) is listed on Euronext Paris (segment B – mid caps) and generated €807 million in revenue in 2017.",
+      "object": {
+        "text": "on Euronext Paris (segment B – mid caps)"
+      },
+      "action": {
+        "verb": {
+          "text": "list",
+          "tense": "past"
+        },
+        "text": "is listed",
+        "normalized": "be list"
+      }
+    },
+    {
+      "subject": {
+        "text": "Guerbet (GBT)"
+      },
+      "sentence": " Guerbet (GBT) is listed on Euronext Paris (segment B – mid caps) and generated €807 million in revenue in 2017.",
+      "object": {
+        "text": "€807 million in revenue"
+      },
+      "action": {
+        "verb": {
+          "text": "generate",
+          "tense": "past"
+        },
+        "text": "generated",
+        "normalized": "generate"
+      }
+    },
+    {
+      "subject": {
+        "text": "Watson Health"
+      },
+      "sentence": " Watson Health is a business unit of IBM that is dedicated to the development and implementation of AI and data-driven technologies to advance health.",
+      "object": {
+        "text": "a business unit of IBM that is dedicated to the development and implementation of AI and data-driven technologies to advance health"
+      },
+      "action": {
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "text": "is",
+        "normalized": "be"
+      }
+    },
+    {
+      "subject": {
+        "text": "Watson Health technologies"
+      },
+      "sentence": " Watson Health technologies are tackling a wide range of the world’s biggest healthcare challenges including cancer, diabetes, drug discovery and more.",
+      "object": {
+        "text": "tackling a wide range of the world’s biggest healthcare challenges including cancer, diabetes, drug discovery and more"
+      },
+      "action": {
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "text": "are",
+        "normalized": "be"
+      }
+    },
+    {
+      "subject": {
+        "text": "Watson Health technologies"
+      },
+      "sentence": " Watson Health technologies are tackling a wide range of the world’s biggest healthcare challenges including cancer, diabetes, drug discovery and more.",
+      "object": {
+        "text": "a wide range of the world’s biggest healthcare challenges including cancer, diabetes, drug discovery and more"
+      },
+      "action": {
+        "verb": {
+          "text": "tackle",
+          "tense": "present"
+        },
+        "text": "are tackling",
+        "normalized": "be tackle"
+      }
+    },
+    {
+      "subject": {
+        "text": "cancer, diabetes, drug discovery and more"
+      },
+      "sentence": " Watson Health technologies are tackling a wide range of the world’s biggest healthcare challenges including cancer, diabetes, drug discovery and more.",
+      "object": {
+        "text": "a wide range of the world’s biggest healthcare challenges"
+      },
+      "action": {
+        "verb": {
+          "text": "include",
+          "tense": "present"
+        },
+        "text": "including",
+        "normalized": "include"
+      }
+    },
+    {
+      "subject": {
+        "text": "more"
+      },
+      "sentence": " Learn more at ibm.com/watson/health ",
+      "object": {
+        "text": "at ibm.com/watson/health"
+      },
+      "action": {
+        "verb": {
+          "text": "Learn",
+          "tense": "present"
+        },
+        "text": "Learn",
+        "normalized": "Learn"
+      }
+    }
+  ],
+  "retrieved_url": "https://newsroom.ibm.com/Guerbet-and-IBM-Watson-Health-Announce-Strategic-Partnership-for-Artificial-Intelligence-in-Medical-Imaging-Liver",
+  "relations": [
+    {
+      "type": "locatedAt",
+      "sentence": "Villepinte (France) and Cambridge (USA) - July 10, 2018 (8:30 am CEST) - Guerbet a global specialist in contrast agents and solutions for diagnostic and interventional medical imaging, today announced that it has signed an exclusive joint development agreement to develop an artificial intelligence (AI) software solution in collaboration with IBM (NYSE: IBM) Watson Health to support liver cancer diagnostics and care utilizing CT and MRI imaging.",
+      "score": 0.672592,
+      "arguments": [
+        {
+          "text": "Cambridge",
+          "location": [
+            24,
+            33
+          ],
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Cambridge"
+            }
+          ]
+        },
+        {
+          "text": "USA",
+          "location": [
+            35,
+            38
+          ],
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "United States",
+              "disambiguation": {
+                "subtype": [
+                  "Country"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "partOfMany",
+      "sentence": "\"Imaging is a critical area of healthcare where we believe artificial intelligence can be used to expand the physician's view so they can be more informed in their diagnostic and treatment decisions for their patients.",
+      "score": 0.69467,
+      "arguments": [
+        {
+          "text": "their",
+          "location": [
+            2251,
+            2256
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "their"
+            }
+          ]
+        },
+        {
+          "text": "patients",
+          "location": [
+            2302,
+            2310
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "patients"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "partOfMany",
+      "sentence": "\"Imaging is a critical area of healthcare where we believe artificial intelligence can be used to expand the physician's view so they can be more informed in their diagnostic and treatment decisions for their patients.",
+      "score": 0.179295,
+      "arguments": [
+        {
+          "text": "patients",
+          "location": [
+            2302,
+            2310
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "patients"
+            }
+          ]
+        },
+        {
+          "text": "their",
+          "location": [
+            2296,
+            2301
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "their"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hasAttribute",
+      "sentence": "We are excited to bring together the significant respective expertise of IBM and Guerbet to advance innovation in this important field, and ultimately help combat the challenge of liver cancer globally,\" said Anne Le Grand, Vice President of Imaging at Watson Health.",
+      "score": 0.79643,
+      "arguments": [
+        {
+          "text": "Guerbet",
+          "location": [
+            2393,
+            2400
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Guerbet"
+            }
+          ]
+        },
+        {
+          "text": "liver cancer",
+          "location": [
+            2492,
+            2504
+          ],
+          "entities": [
+            {
+              "type": "HealthCondition",
+              "text": "liver cancer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "agentOf",
+      "sentence": "We are excited to bring together the significant respective expertise of IBM and Guerbet to advance innovation in this important field, and ultimately help combat the challenge of liver cancer globally,\" said Anne Le Grand, Vice President of Imaging at Watson Health.",
+      "score": 0.954126,
+      "arguments": [
+        {
+          "text": "Anne Le Grand",
+          "location": [
+            2521,
+            2534
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Anne Le Grand"
+            }
+          ]
+        },
+        {
+          "text": "said",
+          "location": [
+            2516,
+            2520
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "managerOf",
+      "sentence": "We are excited to bring together the significant respective expertise of IBM and Guerbet to advance innovation in this important field, and ultimately help combat the challenge of liver cancer globally,\" said Anne Le Grand, Vice President of Imaging at Watson Health.",
+      "score": 0.570255,
+      "arguments": [
+        {
+          "text": "Vice President of Imaging",
+          "location": [
+            2536,
+            2561
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Anne Le Grand"
+            }
+          ]
+        },
+        {
+          "text": "Watson Health",
+          "location": [
+            2565,
+            2578
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Watson Health",
+              "disambiguation": {
+                "subtype": [
+                  "Commercial"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "partOfMany",
+      "sentence": "Watson Imaging Care Advisor for Liver will be a part of a family of decision support tools powered by IBM Watson image analytics designed to inform radiologists' diagnostic decisions for their patients.",
+      "score": 0.548518,
+      "arguments": [
+        {
+          "text": "radiologists",
+          "location": [
+            2728,
+            2740
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "radiologists"
+            }
+          ]
+        },
+        {
+          "text": "patients",
+          "location": [
+            2773,
+            2781
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "patients"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "partOfMany",
+      "sentence": "Watson Imaging Care Advisor for Liver will be a part of a family of decision support tools powered by IBM Watson image analytics designed to inform radiologists' diagnostic decisions for their patients.",
+      "score": 0.227306,
+      "arguments": [
+        {
+          "text": "patients",
+          "location": [
+            2773,
+            2781
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "patients"
+            }
+          ]
+        },
+        {
+          "text": "their",
+          "location": [
+            2767,
+            2772
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "family"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "agentOf",
+      "sentence": "\" said Franæois Nicolas, Chief Digital Officer at Guerbet.",
+      "score": 0.760628,
+      "arguments": [
+        {
+          "text": "François Nicolas",
+          "location": [
+            3191,
+            3207
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "François Nicolas"
+            }
+          ]
+        },
+        {
+          "text": "said",
+          "location": [
+            3186,
+            3190
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "locatedAt",
+      "sentence": "\" said Franæois Nicolas, Chief Digital Officer at Guerbet.",
+      "score": 0.542882,
+      "arguments": [
+        {
+          "text": "Chief Digital Officer",
+          "location": [
+            3209,
+            3230
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "François Nicolas"
+            }
+          ]
+        },
+        {
+          "text": "Guerbet",
+          "location": [
+            3234,
+            3241
+          ],
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Guerbet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "locatedAt",
+      "sentence": "With 8% of revenue dedicated to R&D and more than 200 employees distributed amongst its centers in France, Israel and the United States, Guerbet is a substantial investor in research and innovation.",
+      "score": 0.506287,
+      "arguments": [
+        {
+          "text": "employees",
+          "location": [
+            3614,
+            3623
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "employees"
+            }
+          ]
+        },
+        {
+          "text": "France",
+          "location": [
+            3659,
+            3665
+          ],
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "France",
+              "disambiguation": {
+                "subtype": [
+                  "Country"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "timeOf",
+      "sentence": "Villepinte (France) and Cambridge (USA) - July 10, 2018 (8:30 am CEST) - Guerbet a global specialist in contrast agents and solutions for diagnostic and interventional medical imaging, today announced that it has signed an exclusive joint development agreement to develop an artificial intelligence (AI) software solution in collaboration with IBM (NYSE: IBM) Watson Health to support liver cancer diagnostics and care utilizing CT and MRI imaging.",
+      "score": 0.965172,
+      "arguments": [
+        {
+          "text": "today",
+          "location": [
+            185,
+            190
+          ],
+          "entities": [
+            {
+              "type": "Date",
+              "text": "today"
+            }
+          ]
+        },
+        {
+          "text": "announced",
+          "location": [
+            191,
+            200
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "announced"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "partOf",
+      "sentence": "Villepinte (France) and Cambridge (USA) - July 10, 2018 (8:30 am CEST) - Guerbet a global specialist in contrast agents and solutions for diagnostic and interventional medical imaging, today announced that it has signed an exclusive joint development agreement to develop an artificial intelligence (AI) software solution in collaboration with IBM (NYSE: IBM) Watson Health to support liver cancer diagnostics and care utilizing CT and MRI imaging.",
+      "score": 0.521439,
+      "arguments": [
+        {
+          "text": "Watson Health",
+          "location": [
+            360,
+            373
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Watson Health",
+              "disambiguation": {
+                "subtype": [
+                  "Commercial"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "IBM",
+          "location": [
+            355,
+            358
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "IBM Watson Health",
+              "disambiguation": {
+                "subtype": [
+                  "Commercial"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "managerOf",
+      "sentence": "The first, called Watson Imaging Care Advisor[1] for Liver, is planned to be a diagnostic support tool that will use artificial intelligence to automate the detection, staging, tracking, monitoring, therapy prediction and therapy response of primary and secondary liver cancer for clinicians.",
+      "score": 0.607758,
+      "arguments": [
+        {
+          "text": "Advisor",
+          "location": [
+            613,
+            620
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Advisor"
+            }
+          ]
+        },
+        {
+          "text": "Watson Imaging Care",
+          "location": [
+            593,
+            612
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Watson Imaging Care",
+              "disambiguation": {
+                "subtype": [
+                  "Commercial"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "managerOf",
+      "sentence": "Watson Imaging Care Advisor for Liver will be a part of a family of decision support tools powered by IBM Watson image analytics designed to inform radiologists' diagnostic decisions for their patients.",
+      "score": 0.827154,
+      "arguments": [
+        {
+          "text": "Advisor",
+          "location": [
+            2600,
+            2607
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Advisor"
+            }
+          ]
+        },
+        {
+          "text": "Watson Imaging Care",
+          "location": [
+            2580,
+            2599
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Watson Imaging Care",
+              "disambiguation": {
+                "subtype": [
+                  "Commercial"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hasAttribute",
+      "sentence": "The first, called Watson Imaging Care Advisor[1] for Liver, is planned to be a diagnostic support tool that will use artificial intelligence to automate the detection, staging, tracking, monitoring, therapy prediction and therapy response of primary and secondary liver cancer for clinicians.",
+      "score": 0.829171,
+      "arguments": [
+        {
+          "text": "clinicians",
+          "location": [
+            856,
+            866
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "clinicians"
+            }
+          ]
+        },
+        {
+          "text": "cancer",
+          "location": [
+            845,
+            851
+          ],
+          "entities": [
+            {
+              "type": "HealthCondition",
+              "text": "cancers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hasAttribute",
+      "sentence": "[4] The liver is also a common site for metastases, particularly in the case of digestive cancers, in which nearly 50% of patients develop metastases.",
+      "score": 0.750776,
+      "arguments": [
+        {
+          "text": "patients",
+          "location": [
+            1318,
+            1326
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "patients"
+            }
+          ]
+        },
+        {
+          "text": "cancers",
+          "location": [
+            1286,
+            1293
+          ],
+          "entities": [
+            {
+              "type": "HealthCondition",
+              "text": "cancers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "agentOf",
+      "sentence": "We are proud to work with IBM Watson Health to develop a solution dedicated to liver disease, which could help make it possible for clinicians to make more informed characterizations of tissue without recourse to biopsy,\" said Yves L'Epine, Guerbet's CEO.",
+      "score": 0.896574,
+      "arguments": [
+        {
+          "text": "Yves L’Epine",
+          "location": [
+            1868,
+            1880
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Yves L’Epine"
+            }
+          ]
+        },
+        {
+          "text": "said",
+          "location": [
+            1863,
+            1867
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clientOf",
+      "sentence": "We are proud to work with IBM Watson Health to develop a solution dedicated to liver disease, which could help make it possible for clinicians to make more informed characterizations of tissue without recourse to biopsy,\" said Yves L'Epine, Guerbet's CEO.",
+      "score": 0.409639,
+      "arguments": [
+        {
+          "text": "Guerbet",
+          "location": [
+            1882,
+            1889
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Guerbet"
+            }
+          ]
+        },
+        {
+          "text": "CEO",
+          "location": [
+            1892,
+            1895
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Yves L’Epine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "managerOf",
+      "sentence": "Care Advisor for Liver will be designed to be compatible with the most common PACS visualization systems, making it easy to be integrated directly into the workflows of healthcare professionals.",
+      "score": 0.771235,
+      "arguments": [
+        {
+          "text": "Advisor",
+          "location": [
+            1902,
+            1909
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Advisor"
+            }
+          ]
+        },
+        {
+          "text": "Care",
+          "location": [
+            1897,
+            1901
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Watson Imaging Care",
+              "disambiguation": {
+                "subtype": [
+                  "Commercial"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Guerbet and IBM Watson Health Announce Strategic Partnership for Artificial Intelligence in Medical Imaging, Liver",
+    "publication_date": "2018-07-10T00:00:00",
+    "image": "",
+    "feeds": [
+      {
+        "link": "https://newsroom.ibm.com/announcements?pagetemplate=rss"
+      }
+    ],
+    "authors": []
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Watson Health",
+      "relevance": 0.716382,
+      "count": 3
+    },
+    {
+      "text": "liver cancer diagnostics",
+      "relevance": 0.680537,
+      "count": 1
+    },
+    {
+      "text": "IBM Watson Health plan",
+      "relevance": 0.624009,
+      "count": 1
+    },
+    {
+      "text": "artificial intelligence",
+      "relevance": 0.616959,
+      "count": 3
+    },
+    {
+      "text": "secondary liver cancer",
+      "relevance": 0.572779,
+      "count": 1
+    },
+    {
+      "text": "interventional medical imaging",
+      "relevance": 0.570391,
+      "count": 1
+    },
+    {
+      "text": "Liver cancer",
+      "relevance": 0.569905,
+      "count": 2
+    },
+    {
+      "text": "Watson Imaging Care Advisor",
+      "relevance": 0.566132,
+      "count": 2
+    },
+    {
+      "text": "IBM Watson image analytics",
+      "relevance": 0.565653,
+      "count": 2
+    },
+    {
+      "text": "IBM Watson Health",
+      "relevance": 0.555159,
+      "count": 2
+    },
+    {
+      "text": "clinical decision support solutions",
+      "relevance": 0.554027,
+      "count": 1
+    },
+    {
+      "text": "important field",
+      "relevance": 0.551971,
+      "count": 1
+    },
+    {
+      "text": "IBM",
+      "relevance": 0.550497,
+      "count": 2
+    },
+    {
+      "text": "common site",
+      "relevance": 0.543831,
+      "count": 1
+    },
+    {
+      "text": "IBM Research team",
+      "relevance": 0.54343,
+      "count": 1
+    },
+    {
+      "text": "Guerbet’s first project",
+      "relevance": 0.543398,
+      "count": 1
+    },
+    {
+      "text": "medical imaging",
+      "relevance": 0.539507,
+      "count": 1
+    },
+    {
+      "text": "diagnostic support tool",
+      "relevance": 0.537071,
+      "count": 1
+    },
+    {
+      "text": "second leading cause of cancer death",
+      "relevance": 0.535483,
+      "count": 1
+    },
+    {
+      "text": "Vice President",
+      "relevance": 0.534637,
+      "count": 1
+    },
+    {
+      "text": "exclusive joint development agreement",
+      "relevance": 0.533562,
+      "count": 1
+    },
+    {
+      "text": "innovative solutions",
+      "relevance": 0.533158,
+      "count": 1
+    },
+    {
+      "text": "primary liver cancer cases",
+      "relevance": 0.531554,
+      "count": 1
+    },
+    {
+      "text": "liver disease",
+      "relevance": 0.530825,
+      "count": 1
+    },
+    {
+      "text": "Guerbet’s CEO",
+      "relevance": 0.530769,
+      "count": 1
+    },
+    {
+      "text": "significant respective expertise of IBM",
+      "relevance": 0.530481,
+      "count": 1
+    },
+    {
+      "text": "therapy prediction",
+      "relevance": 0.528744,
+      "count": 1
+    },
+    {
+      "text": "medical devices",
+      "relevance": 0.528408,
+      "count": 1
+    },
+    {
+      "text": "fastest growing cause of cancer deaths",
+      "relevance": 0.528181,
+      "count": 1
+    },
+    {
+      "text": "United States",
+      "relevance": 0.527403,
+      "count": 2
+    },
+    {
+      "text": "software solution",
+      "relevance": 0.524276,
+      "count": 1
+    },
+    {
+      "text": "comprehensive range of pharmaceutical products",
+      "relevance": 0.524195,
+      "count": 1
+    },
+    {
+      "text": "better characterization",
+      "relevance": 0.523019,
+      "count": 1
+    },
+    {
+      "text": "informed characterizations of tissue",
+      "relevance": 0.520003,
+      "count": 1
+    },
+    {
+      "text": "challenge of liver cancer",
+      "relevance": 0.519166,
+      "count": 1
+    },
+    {
+      "text": "contrast agents",
+      "relevance": 0.519015,
+      "count": 1
+    },
+    {
+      "text": "solutions",
+      "relevance": 0.518529,
+      "count": 1
+    },
+    {
+      "text": "drug discovery",
+      "relevance": 0.518322,
+      "count": 1
+    },
+    {
+      "text": "business unit of IBM",
+      "relevance": 0.516144,
+      "count": 1
+    },
+    {
+      "text": "part of a family of decision support tools",
+      "relevance": 0.514169,
+      "count": 1
+    },
+    {
+      "text": "shared objective",
+      "relevance": 0.512652,
+      "count": 1
+    },
+    {
+      "text": "Anne Le Grand",
+      "relevance": 0.512499,
+      "count": 1
+    },
+    {
+      "text": "collaboration",
+      "relevance": 0.511784,
+      "count": 2
+    },
+    {
+      "text": "use",
+      "relevance": 0.511673,
+      "count": 1
+    },
+    {
+      "text": "Liver",
+      "relevance": 0.511563,
+      "count": 4
+    },
+    {
+      "text": "care",
+      "relevance": 0.511533,
+      "count": 1
+    },
+    {
+      "text": "France",
+      "relevance": 0.511131,
+      "count": 2
+    },
+    {
+      "text": "workflows of healthcare professionals",
+      "relevance": 0.510525,
+      "count": 1
+    },
+    {
+      "text": "critical area of healthcare",
+      "relevance": 0.50995,
+      "count": 1
+    },
+    {
+      "text": "offerings",
+      "relevance": 0.508136,
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Guerbet",
+      "relevance": 0.951857,
+      "disambiguation": {
+        "subtype": [
+          "Company"
+        ],
+        "name": "Guerbet",
+        "dbpedia_resource": "http://dbpedia.org/resource/Guerbet"
+      },
+      "count": 6,
+      "confidence": 0.992578
+    },
+    {
+      "type": "Organization",
+      "text": "IBM Watson Health",
+      "relevance": 0.845477,
+      "count": 3,
+      "confidence": 0.956563
+    },
+    {
+      "type": "Organization",
+      "text": "Watson Health",
+      "relevance": 0.713947,
+      "count": 4,
+      "confidence": 0.994271
+    },
+    {
+      "type": "JobTitle",
+      "text": "Watson Imaging Care Advisor",
+      "relevance": 0.636466,
+      "count": 2,
+      "confidence": 0.758272
+    },
+    {
+      "type": "Location",
+      "text": "Villepinte (France",
+      "relevance": 0.522923,
+      "count": 1,
+      "confidence": 0.455182
+    },
+    {
+      "type": "JobTitle",
+      "text": "global specialist",
+      "relevance": 0.51449,
+      "count": 1,
+      "confidence": 0.898168
+    },
+    {
+      "type": "JobTitle",
+      "text": "contrast agents",
+      "relevance": 0.512437,
+      "count": 1,
+      "confidence": 0.513625
+    },
+    {
+      "type": "Organization",
+      "text": "IBM",
+      "relevance": 0.472816,
+      "disambiguation": {
+        "subtype": [
+          "SoftwareLicense",
+          "Company",
+          "OperatingSystemDeveloper",
+          "ProcessorManufacturer",
+          "SoftwareDeveloper",
+          "CompanyFounder",
+          "ProgrammingLanguageDesigner",
+          "ProgrammingLanguageDeveloper"
+        ],
+        "name": "IBM",
+        "dbpedia_resource": "http://dbpedia.org/resource/IBM"
+      },
+      "count": 4,
+      "confidence": 0.999859
+    },
+    {
+      "type": "Organization",
+      "text": "IBM Watson",
+      "relevance": 0.390354,
+      "count": 2,
+      "confidence": 0.777948
+    },
+    {
+      "type": "Person",
+      "text": "Yves L’Epine",
+      "relevance": 0.318308,
+      "count": 1,
+      "confidence": 0.338964
+    },
+    {
+      "type": "Organization",
+      "text": "Guerbet’s CEO",
+      "relevance": 0.316591,
+      "count": 1,
+      "confidence": 0.272542
+    },
+    {
+      "type": "JobTitle",
+      "text": "Care Advisor",
+      "relevance": 0.314872,
+      "count": 1,
+      "confidence": 0.923817
+    },
+    {
+      "type": "Organization",
+      "text": "IBM Research",
+      "relevance": 0.28884,
+      "count": 1,
+      "confidence": 0.854673
+    },
+    {
+      "type": "Person",
+      "text": "Anne Le Grand",
+      "relevance": 0.238705,
+      "count": 1,
+      "confidence": 0.584993
+    },
+    {
+      "type": "JobTitle",
+      "text": "Vice President of Imaging",
+      "relevance": 0.236068,
+      "count": 1,
+      "confidence": 0.492345
+    },
+    {
+      "type": "Organization",
+      "text": "NYSE",
+      "relevance": 0.235366,
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Company",
+          "Facility",
+          "HistoricPlace",
+          "Building"
+        ],
+        "name": "New_York_Stock_Exchange",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_Stock_Exchange"
+      },
+      "count": 1,
+      "confidence": 0.934449
+    },
+    {
+      "type": "Organization",
+      "text": "MRI",
+      "relevance": 0.232688,
+      "count": 1,
+      "confidence": 0.682634
+    },
+    {
+      "type": "Location",
+      "text": "Cambridge",
+      "relevance": 0.227427,
+      "count": 1,
+      "confidence": 0.867439
+    },
+    {
+      "type": "JobTitle",
+      "text": "radiologists",
+      "relevance": 0.205876,
+      "count": 2,
+      "confidence": 0.85016
+    },
+    {
+      "type": "Location",
+      "text": "USA",
+      "relevance": 0.18222,
+      "disambiguation": {
+        "subtype": [
+          "HumanLanguage",
+          "PoliticalDistrict",
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction"
+        ],
+        "name": "Italy",
+        "dbpedia_resource": "http://dbpedia.org/resource/Italy"
+      },
+      "count": 1,
+      "confidence": 0.496166
+    },
+    {
+      "type": "JobTitle",
+      "text": "clinicians",
+      "relevance": 0.162803,
+      "count": 1,
+      "confidence": 0.672112
+    },
+    {
+      "type": "Person",
+      "text": "François Nicolas",
+      "relevance": 0.151782,
+      "count": 1,
+      "confidence": 0.984179
+    },
+    {
+      "type": "JobTitle",
+      "text": "Chief Digital Officer",
+      "relevance": 0.149039,
+      "count": 1,
+      "confidence": 0.844456
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.148527,
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ],
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2,
+      "confidence": 0.99803
+    },
+    {
+      "type": "Person",
+      "text": "Guerbet",
+      "relevance": 0.145419,
+      "count": 1,
+      "confidence": 0.482155
+    },
+    {
+      "type": "JobTitle",
+      "text": "physician",
+      "relevance": 0.107807,
+      "count": 1,
+      "confidence": 0.883194
+    },
+    {
+      "type": "Organization",
+      "text": "R&D",
+      "relevance": 0.098017,
+      "disambiguation": {
+        "subtype": [
+          "Industry"
+        ],
+        "name": "Research_and_development",
+        "dbpedia_resource": "http://dbpedia.org/resource/Research_and_development"
+      },
+      "count": 1,
+      "confidence": 0.873433
+    },
+    {
+      "type": "Organization",
+      "text": "Guerbet (GBT",
+      "relevance": 0.073968,
+      "count": 1,
+      "confidence": 0.308671
+    },
+    {
+      "type": "Organization",
+      "text": "Euronext Paris",
+      "relevance": 0.048738,
+      "count": 1,
+      "confidence": 0.350544
+    },
+    {
+      "type": "Location",
+      "text": "France",
+      "relevance": 0.02958,
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmDirector"
+        ],
+        "name": "France",
+        "dbpedia_resource": "http://dbpedia.org/resource/France"
+      },
+      "count": 1,
+      "confidence": 0.998555
+    },
+    {
+      "type": "Location",
+      "text": "Israel",
+      "relevance": 0.028307,
+      "disambiguation": {
+        "subtype": [
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmArtDirector"
+        ],
+        "name": "Israel",
+        "dbpedia_resource": "http://dbpedia.org/resource/Israel"
+      },
+      "count": 1,
+      "confidence": 0.920981
+    }
+  ],
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.154,
+        "joy": 0.580866,
+        "fear": 0.064083,
+        "disgust": 0.036787,
+        "anger": 0.042247
+      }
+    }
+  },
+  "concepts": [
+    {
+      "text": "Cancer",
+      "relevance": 0.956922,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cancer"
+    },
+    {
+      "text": "Health care",
+      "relevance": 0.82318,
+      "dbpedia_resource": "http://dbpedia.org/resource/Health_care"
+    },
+    {
+      "text": "Magnetic resonance imaging",
+      "relevance": 0.649831,
+      "dbpedia_resource": "http://dbpedia.org/resource/Magnetic_resonance_imaging"
+    },
+    {
+      "text": "Medicine",
+      "relevance": 0.625157,
+      "dbpedia_resource": "http://dbpedia.org/resource/Medicine"
+    },
+    {
+      "text": "Artificial intelligence",
+      "relevance": 0.580927,
+      "dbpedia_resource": "http://dbpedia.org/resource/Artificial_intelligence"
+    },
+    {
+      "text": "Oncology",
+      "relevance": 0.553219,
+      "dbpedia_resource": "http://dbpedia.org/resource/Oncology"
+    },
+    {
+      "text": "Liver",
+      "relevance": 0.540594,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liver"
+    },
+    {
+      "text": "Hepatocellular carcinoma",
+      "relevance": 0.538087,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hepatocellular_carcinoma"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.952376,
+      "label": "/health and fitness"
+    },
+    {
+      "score": 0.943401,
+      "label": "/health and fitness/therapy"
+    },
+    {
+      "score": 0.895604,
+      "label": "/health and fitness/disease/cancer/brain tumor"
+    }
+  ]
+}

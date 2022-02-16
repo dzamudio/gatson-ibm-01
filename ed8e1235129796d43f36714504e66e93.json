@@ -1,0 +1,6390 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3202,
+    "features": 10
+  },
+  "syntax": {
+    "tokens": [
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          0,
+          3
+        ]
+      },
+      {
+        "text": "’s",
+        "part_of_speech": "PART",
+        "location": [
+          3,
+          5
+        ],
+        "lemma": "’s"
+      },
+      {
+        "text": "portfolio",
+        "part_of_speech": "NOUN",
+        "location": [
+          6,
+          15
+        ],
+        "lemma": "portfolio"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          16,
+          18
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "business",
+        "part_of_speech": "NOUN",
+        "location": [
+          19,
+          27
+        ],
+        "lemma": "business"
+      },
+      {
+        "text": "-",
+        "part_of_speech": "PUNCT",
+        "location": [
+          27,
+          28
+        ]
+      },
+      {
+        "text": "ready",
+        "part_of_speech": "ADJ",
+        "location": [
+          28,
+          33
+        ],
+        "lemma": "ready"
+      },
+      {
+        "text": "tools",
+        "part_of_speech": "NOUN",
+        "location": [
+          34,
+          39
+        ],
+        "lemma": "tool"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          39,
+          40
+        ]
+      },
+      {
+        "text": "applications",
+        "part_of_speech": "NOUN",
+        "location": [
+          41,
+          53
+        ],
+        "lemma": "application"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          54,
+          57
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "solutions",
+        "part_of_speech": "NOUN",
+        "location": [
+          58,
+          67
+        ],
+        "lemma": "solution"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          67,
+          68
+        ]
+      },
+      {
+        "text": "designed",
+        "part_of_speech": "VERB",
+        "location": [
+          69,
+          77
+        ],
+        "lemma": "design"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          78,
+          80
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "reduce",
+        "part_of_speech": "VERB",
+        "location": [
+          81,
+          87
+        ],
+        "lemma": "reduce"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          88,
+          91
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "costs",
+        "part_of_speech": "NOUN",
+        "location": [
+          92,
+          97
+        ],
+        "lemma": "cost"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          98,
+          101
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "hurdles",
+        "part_of_speech": "NOUN",
+        "location": [
+          102,
+          109
+        ],
+        "lemma": "hurdle"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "SCONJ",
+        "location": [
+          110,
+          112
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "AI",
+        "part_of_speech": "AUX",
+        "location": [
+          113,
+          115
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "adoption",
+        "part_of_speech": "NOUN",
+        "location": [
+          116,
+          124
+        ],
+        "lemma": "adoption"
+      },
+      {
+        "text": "while",
+        "part_of_speech": "SCONJ",
+        "location": [
+          125,
+          130
+        ],
+        "lemma": "while"
+      },
+      {
+        "text": "optimizing",
+        "part_of_speech": "VERB",
+        "location": [
+          131,
+          141
+        ],
+        "lemma": "optimize"
+      },
+      {
+        "text": "outcomes",
+        "part_of_speech": "NOUN",
+        "location": [
+          142,
+          150
+        ],
+        "lemma": "outcome"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          151,
+          154
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "responsible",
+        "part_of_speech": "ADJ",
+        "location": [
+          155,
+          166
+        ],
+        "lemma": "responsible"
+      },
+      {
+        "text": "use",
+        "part_of_speech": "NOUN",
+        "location": [
+          167,
+          170
+        ],
+        "lemma": "use"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "SCONJ",
+        "location": [
+          171,
+          173
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "AI",
+        "part_of_speech": "AUX",
+        "location": [
+          174,
+          176
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          176,
+          177
+        ]
+      },
+      {
+        "text": "Ranking",
+        "part_of_speech": "VERB",
+        "location": [
+          178,
+          185
+        ],
+        "lemma": "rank"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          186,
+          188
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "IDC",
+        "part_of_speech": "PROPN",
+        "location": [
+          189,
+          192
+        ]
+      },
+      {
+        "text": "’s",
+        "part_of_speech": "PART",
+        "location": [
+          192,
+          194
+        ],
+        "lemma": "’s"
+      },
+      {
+        "text": "AI",
+        "part_of_speech": "AUX",
+        "location": [
+          195,
+          197
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "Market",
+        "part_of_speech": "NOUN",
+        "location": [
+          198,
+          204
+        ],
+        "lemma": "market"
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          205,
+          208
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "2020",
+        "part_of_speech": "NUM",
+        "location": [
+          209,
+          213
+        ]
+      },
+      {
+        "text": "market",
+        "part_of_speech": "NOUN",
+        "location": [
+          214,
+          220
+        ],
+        "lemma": "market"
+      },
+      {
+        "text": "share",
+        "part_of_speech": "NOUN",
+        "location": [
+          221,
+          226
+        ],
+        "lemma": "share"
+      },
+      {
+        "text": "(",
+        "part_of_speech": "PUNCT",
+        "location": [
+          227,
+          228
+        ]
+      },
+      {
+        "text": "source",
+        "part_of_speech": "NOUN",
+        "location": [
+          228,
+          234
+        ],
+        "lemma": "source"
+      },
+      {
+        "text": ":",
+        "part_of_speech": "PUNCT",
+        "location": [
+          234,
+          235
+        ],
+        "lemma": ":"
+      },
+      {
+        "text": "IDC",
+        "part_of_speech": "PROPN",
+        "location": [
+          236,
+          239
+        ]
+      },
+      {
+        "text": "(",
+        "part_of_speech": "PUNCT",
+        "location": [
+          240,
+          241
+        ]
+      },
+      {
+        "text": "link",
+        "part_of_speech": "NOUN",
+        "location": [
+          241,
+          245
+        ],
+        "lemma": "link"
+      },
+      {
+        "text": "resides",
+        "part_of_speech": "VERB",
+        "location": [
+          246,
+          253
+        ],
+        "lemma": "reside"
+      },
+      {
+        "text": "outside",
+        "part_of_speech": "ADP",
+        "location": [
+          254,
+          261
+        ],
+        "lemma": "outside"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          262,
+          265
+        ]
+      },
+      {
+        "text": ")",
+        "part_of_speech": "PUNCT",
+        "location": [
+          265,
+          266
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          266,
+          267
+        ]
+      },
+      {
+        "text": "August",
+        "part_of_speech": "PROPN",
+        "location": [
+          268,
+          274
+        ],
+        "lemma": "August"
+      },
+      {
+        "text": "2020",
+        "part_of_speech": "NUM",
+        "location": [
+          275,
+          279
+        ]
+      },
+      {
+        "text": ")",
+        "part_of_speech": "PUNCT",
+        "location": [
+          279,
+          280
+        ]
+      },
+      {
+        "text": "Operationalize",
+        "part_of_speech": "PROPN",
+        "location": [
+          281,
+          295
+        ]
+      },
+      {
+        "text": "AI",
+        "part_of_speech": "AUX",
+        "location": [
+          296,
+          298
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          299,
+          302
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "transform",
+        "part_of_speech": "NOUN",
+        "location": [
+          303,
+          312
+        ],
+        "lemma": "transform"
+      },
+      {
+        "text": "how",
+        "part_of_speech": "ADV",
+        "location": [
+          313,
+          316
+        ],
+        "lemma": "how"
+      },
+      {
+        "text": "work",
+        "part_of_speech": "NOUN",
+        "location": [
+          317,
+          321
+        ],
+        "lemma": "work"
+      },
+      {
+        "text": "gets",
+        "part_of_speech": "NOUN",
+        "location": [
+          322,
+          326
+        ],
+        "lemma": "get"
+      },
+      {
+        "text": "done",
+        "part_of_speech": "VERB",
+        "location": [
+          327,
+          331
+        ],
+        "lemma": "do"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          332,
+          336
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "our",
+        "part_of_speech": "PRON",
+        "location": [
+          337,
+          340
+        ],
+        "lemma": "our"
+      },
+      {
+        "text": "proven",
+        "part_of_speech": "VERB",
+        "location": [
+          341,
+          347
+        ],
+        "lemma": "prove"
+      },
+      {
+        "text": "capabilities",
+        "part_of_speech": "NOUN",
+        "location": [
+          348,
+          360
+        ],
+        "lemma": "capability"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          361,
+          364
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "experience",
+        "part_of_speech": "NOUN",
+        "location": [
+          365,
+          375
+        ],
+        "lemma": "experience"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          376,
+          380
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "+",
+        "part_of_speech": "SYM",
+        "location": [
+          381,
+          382
+        ]
+      },
+      {
+        "text": "100",
+        "part_of_speech": "NUM",
+        "location": [
+          382,
+          385
+        ]
+      },
+      {
+        "text": "million",
+        "part_of_speech": "NUM",
+        "location": [
+          386,
+          393
+        ],
+        "lemma": "million"
+      },
+      {
+        "text": "users",
+        "part_of_speech": "NOUN",
+        "location": [
+          394,
+          399
+        ],
+        "lemma": "user"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          399,
+          400
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          401,
+          407
+        ]
+      },
+      {
+        "text": "advances",
+        "part_of_speech": "VERB",
+        "location": [
+          408,
+          416
+        ],
+        "lemma": "advance"
+      },
+      {
+        "text": "trust",
+        "part_of_speech": "NOUN",
+        "location": [
+          417,
+          422
+        ],
+        "lemma": "trust"
+      },
+      {
+        "text": "from",
+        "part_of_speech": "ADP",
+        "location": [
+          423,
+          427
+        ],
+        "lemma": "from"
+      },
+      {
+        "text": "principle",
+        "part_of_speech": "NOUN",
+        "location": [
+          428,
+          437
+        ],
+        "lemma": "principle"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          438,
+          440
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "practice",
+        "part_of_speech": "VERB",
+        "location": [
+          441,
+          449
+        ],
+        "lemma": "practice"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          449,
+          450
+        ]
+      },
+      {
+        "text": "Transparent",
+        "part_of_speech": "ADJ",
+        "location": [
+          451,
+          462
+        ],
+        "lemma": "transparent"
+      },
+      {
+        "text": "processes",
+        "part_of_speech": "NOUN",
+        "location": [
+          463,
+          472
+        ],
+        "lemma": "process"
+      },
+      {
+        "text": "provide",
+        "part_of_speech": "VERB",
+        "location": [
+          473,
+          480
+        ],
+        "lemma": "provide"
+      },
+      {
+        "text": "insight",
+        "part_of_speech": "NOUN",
+        "location": [
+          481,
+          488
+        ],
+        "lemma": "insight"
+      },
+      {
+        "text": "into",
+        "part_of_speech": "ADP",
+        "location": [
+          489,
+          493
+        ],
+        "lemma": "into"
+      },
+      {
+        "text": "AI",
+        "part_of_speech": "PROPN",
+        "location": [
+          494,
+          496
+        ]
+      },
+      {
+        "text": "-",
+        "part_of_speech": "PUNCT",
+        "location": [
+          496,
+          497
+        ]
+      },
+      {
+        "text": "led",
+        "part_of_speech": "VERB",
+        "location": [
+          497,
+          500
+        ],
+        "lemma": "lead"
+      },
+      {
+        "text": "decisions",
+        "part_of_speech": "NOUN",
+        "location": [
+          501,
+          510
+        ],
+        "lemma": "decision"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          510,
+          511
+        ]
+      },
+      {
+        "text": "We",
+        "part_of_speech": "PRON",
+        "location": [
+          512,
+          514
+        ],
+        "lemma": "we"
+      },
+      {
+        "text": "enable",
+        "part_of_speech": "VERB",
+        "location": [
+          515,
+          521
+        ],
+        "lemma": "enable"
+      },
+      {
+        "text": "data",
+        "part_of_speech": "NOUN",
+        "location": [
+          522,
+          526
+        ],
+        "lemma": "data"
+      },
+      {
+        "text": "privacy",
+        "part_of_speech": "NOUN",
+        "location": [
+          527,
+          534
+        ],
+        "lemma": "privacy"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          534,
+          535
+        ]
+      },
+      {
+        "text": "compliance",
+        "part_of_speech": "NOUN",
+        "location": [
+          536,
+          546
+        ],
+        "lemma": "compliance"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          547,
+          550
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "security",
+        "part_of_speech": "NOUN",
+        "location": [
+          551,
+          559
+        ],
+        "lemma": "security"
+      },
+      {
+        "text": "across",
+        "part_of_speech": "SCONJ",
+        "location": [
+          560,
+          566
+        ],
+        "lemma": "across"
+      },
+      {
+        "text": "highly",
+        "part_of_speech": "ADV",
+        "location": [
+          567,
+          573
+        ],
+        "lemma": "highly"
+      },
+      {
+        "text": "regulated",
+        "part_of_speech": "VERB",
+        "location": [
+          574,
+          583
+        ],
+        "lemma": "regulate"
+      },
+      {
+        "text": "industries",
+        "part_of_speech": "NOUN",
+        "location": [
+          584,
+          594
+        ],
+        "lemma": "industry"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          594,
+          595
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          596,
+          599
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "support",
+        "part_of_speech": "VERB",
+        "location": [
+          600,
+          607
+        ],
+        "lemma": "support"
+      },
+      {
+        "text": "an",
+        "part_of_speech": "DET",
+        "location": [
+          608,
+          610
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "open",
+        "part_of_speech": "ADJ",
+        "location": [
+          611,
+          615
+        ],
+        "lemma": "open"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          615,
+          616
+        ]
+      },
+      {
+        "text": "diverse",
+        "part_of_speech": "ADJ",
+        "location": [
+          617,
+          624
+        ],
+        "lemma": "diverse"
+      },
+      {
+        "text": "ecosystem",
+        "part_of_speech": "NOUN",
+        "location": [
+          625,
+          634
+        ],
+        "lemma": "ecosystem"
+      },
+      {
+        "text": "driving",
+        "part_of_speech": "VERB",
+        "location": [
+          635,
+          642
+        ],
+        "lemma": "drive"
+      },
+      {
+        "text": "responsible",
+        "part_of_speech": "ADJ",
+        "location": [
+          643,
+          654
+        ],
+        "lemma": "responsible"
+      },
+      {
+        "text": "use",
+        "part_of_speech": "NOUN",
+        "location": [
+          655,
+          658
+        ],
+        "lemma": "use"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "SCONJ",
+        "location": [
+          659,
+          661
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "AI",
+        "part_of_speech": "AUX",
+        "location": [
+          662,
+          664
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          664,
+          665
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          666,
+          672
+        ]
+      },
+      {
+        "text": "understands",
+        "part_of_speech": "VERB",
+        "location": [
+          673,
+          684
+        ],
+        "lemma": "understand"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          685,
+          688
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "language",
+        "part_of_speech": "NOUN",
+        "location": [
+          689,
+          697
+        ],
+        "lemma": "language"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          698,
+          700
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "your",
+        "part_of_speech": "PRON",
+        "location": [
+          701,
+          705
+        ],
+        "lemma": "you"
+      },
+      {
+        "text": "business",
+        "part_of_speech": "NOUN",
+        "location": [
+          706,
+          714
+        ],
+        "lemma": "business"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          714,
+          715
+        ]
+      },
+      {
+        "text": "Natural",
+        "part_of_speech": "ADJ",
+        "location": [
+          716,
+          723
+        ],
+        "lemma": "natural"
+      },
+      {
+        "text": "language",
+        "part_of_speech": "NOUN",
+        "location": [
+          724,
+          732
+        ],
+        "lemma": "language"
+      },
+      {
+        "text": "processing",
+        "part_of_speech": "VERB",
+        "location": [
+          733,
+          743
+        ],
+        "lemma": "process"
+      },
+      {
+        "text": "lets",
+        "part_of_speech": "NOUN",
+        "location": [
+          744,
+          748
+        ],
+        "lemma": "let"
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          749,
+          755
+        ]
+      },
+      {
+        "text": "analyze",
+        "part_of_speech": "VERB",
+        "location": [
+          756,
+          763
+        ],
+        "lemma": "analyze"
+      },
+      {
+        "text": "complex",
+        "part_of_speech": "NOUN",
+        "location": [
+          764,
+          771
+        ],
+        "lemma": "complex"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          771,
+          772
+        ]
+      },
+      {
+        "text": "unstructured",
+        "part_of_speech": "ADJ",
+        "location": [
+          773,
+          785
+        ],
+        "lemma": "unstructured"
+      },
+      {
+        "text": "data",
+        "part_of_speech": "NOUN",
+        "location": [
+          786,
+          790
+        ],
+        "lemma": "data"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          790,
+          791
+        ]
+      },
+      {
+        "text": "computer",
+        "part_of_speech": "NOUN",
+        "location": [
+          792,
+          800
+        ],
+        "lemma": "computer"
+      },
+      {
+        "text": "code",
+        "part_of_speech": "NOUN",
+        "location": [
+          801,
+          805
+        ],
+        "lemma": "code"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          805,
+          806
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          807,
+          810
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "even",
+        "part_of_speech": "ADV",
+        "location": [
+          811,
+          815
+        ],
+        "lemma": "even"
+      },
+      {
+        "text": "industry",
+        "part_of_speech": "NOUN",
+        "location": [
+          816,
+          824
+        ],
+        "lemma": "industry"
+      },
+      {
+        "text": "-",
+        "part_of_speech": "PUNCT",
+        "location": [
+          824,
+          825
+        ]
+      },
+      {
+        "text": "specific",
+        "part_of_speech": "ADJ",
+        "location": [
+          825,
+          833
+        ],
+        "lemma": "specific"
+      },
+      {
+        "text": "jargon",
+        "part_of_speech": "NOUN",
+        "location": [
+          834,
+          840
+        ],
+        "lemma": "jargon"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          840,
+          841
+        ]
+      },
+      {
+        "text": "So",
+        "part_of_speech": "ADV",
+        "location": [
+          842,
+          844
+        ],
+        "lemma": "so"
+      },
+      {
+        "text": "you",
+        "part_of_speech": "PRON",
+        "location": [
+          845,
+          848
+        ],
+        "lemma": "you"
+      },
+      {
+        "text": "can",
+        "part_of_speech": "AUX",
+        "location": [
+          849,
+          852
+        ],
+        "lemma": "can"
+      },
+      {
+        "text": "make",
+        "part_of_speech": "VERB",
+        "location": [
+          853,
+          857
+        ],
+        "lemma": "make"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADV",
+        "location": [
+          858,
+          862
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "informed",
+        "part_of_speech": "ADJ",
+        "location": [
+          863,
+          871
+        ]
+      },
+      {
+        "text": "decisions",
+        "part_of_speech": "NOUN",
+        "location": [
+          872,
+          881
+        ],
+        "lemma": "decision"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          882,
+          885
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "deliver",
+        "part_of_speech": "VERB",
+        "location": [
+          886,
+          893
+        ],
+        "lemma": "deliver"
+      },
+      {
+        "text": "better",
+        "part_of_speech": "ADJ",
+        "location": [
+          894,
+          900
+        ],
+        "lemma": "good"
+      },
+      {
+        "text": "experiences",
+        "part_of_speech": "NOUN",
+        "location": [
+          901,
+          912
+        ],
+        "lemma": "experience"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          912,
+          913
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          914,
+          920
+        ]
+      },
+      {
+        "text": "streamlines",
+        "part_of_speech": "VERB",
+        "location": [
+          921,
+          932
+        ],
+        "lemma": "streamline"
+      },
+      {
+        "text": "how",
+        "part_of_speech": "ADV",
+        "location": [
+          933,
+          936
+        ],
+        "lemma": "how"
+      },
+      {
+        "text": "businesses",
+        "part_of_speech": "NOUN",
+        "location": [
+          937,
+          947
+        ],
+        "lemma": "business"
+      },
+      {
+        "text": "operate",
+        "part_of_speech": "VERB",
+        "location": [
+          948,
+          955
+        ],
+        "lemma": "operate"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          956,
+          959
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "yields",
+        "part_of_speech": "NOUN",
+        "location": [
+          960,
+          966
+        ],
+        "lemma": "yield"
+      },
+      {
+        "text": "leaps",
+        "part_of_speech": "NOUN",
+        "location": [
+          967,
+          972
+        ],
+        "lemma": "leap"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          973,
+          975
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "productivity",
+        "part_of_speech": "NOUN",
+        "location": [
+          976,
+          988
+        ],
+        "lemma": "productivity"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          988,
+          989
+        ]
+      },
+      {
+        "text": "Intelligently",
+        "part_of_speech": "ADV",
+        "location": [
+          990,
+          1003
+        ],
+        "lemma": "intelligently"
+      },
+      {
+        "text": "automate",
+        "part_of_speech": "VERB",
+        "location": [
+          1004,
+          1012
+        ],
+        "lemma": "automate"
+      },
+      {
+        "text": "virtually",
+        "part_of_speech": "ADV",
+        "location": [
+          1013,
+          1022
+        ],
+        "lemma": "virtually"
+      },
+      {
+        "text": "any",
+        "part_of_speech": "DET",
+        "location": [
+          1023,
+          1026
+        ]
+      },
+      {
+        "text": "type",
+        "part_of_speech": "NOUN",
+        "location": [
+          1027,
+          1031
+        ],
+        "lemma": "type"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          1032,
+          1034
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "work",
+        "part_of_speech": "NOUN",
+        "location": [
+          1035,
+          1039
+        ],
+        "lemma": "work"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1039,
+          1040
+        ]
+      },
+      {
+        "text": "at",
+        "part_of_speech": "ADP",
+        "location": [
+          1041,
+          1043
+        ],
+        "lemma": "at"
+      },
+      {
+        "text": "scale",
+        "part_of_speech": "NOUN",
+        "location": [
+          1044,
+          1049
+        ],
+        "lemma": "scale"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1049,
+          1050
+        ]
+      },
+      {
+        "text": "Augment",
+        "part_of_speech": "VERB",
+        "location": [
+          1051,
+          1058
+        ],
+        "lemma": "augment"
+      },
+      {
+        "text": "core",
+        "part_of_speech": "NOUN",
+        "location": [
+          1059,
+          1063
+        ],
+        "lemma": "core"
+      },
+      {
+        "text": "strengths",
+        "part_of_speech": "NOUN",
+        "location": [
+          1064,
+          1073
+        ],
+        "lemma": "strength"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1073,
+          1074
+        ]
+      },
+      {
+        "text": "offset",
+        "part_of_speech": "VERB",
+        "location": [
+          1075,
+          1081
+        ],
+        "lemma": "offset"
+      },
+      {
+        "text": "skilled",
+        "part_of_speech": "ADJ",
+        "location": [
+          1082,
+          1089
+        ],
+        "lemma": "skilled"
+      },
+      {
+        "text": "-",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1089,
+          1090
+        ]
+      },
+      {
+        "text": "labor",
+        "part_of_speech": "ADJ",
+        "location": [
+          1090,
+          1095
+        ],
+        "lemma": "labor"
+      },
+      {
+        "text": "shortages",
+        "part_of_speech": "NOUN",
+        "location": [
+          1096,
+          1105
+        ],
+        "lemma": "shortage"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1105,
+          1106
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          1107,
+          1110
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "give",
+        "part_of_speech": "VERB",
+        "location": [
+          1111,
+          1115
+        ],
+        "lemma": "give"
+      },
+      {
+        "text": "employees",
+        "part_of_speech": "NOUN",
+        "location": [
+          1116,
+          1125
+        ],
+        "lemma": "employee"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADJ",
+        "location": [
+          1126,
+          1130
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "time",
+        "part_of_speech": "NOUN",
+        "location": [
+          1131,
+          1135
+        ],
+        "lemma": "time"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          1136,
+          1138
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "focus",
+        "part_of_speech": "VERB",
+        "location": [
+          1139,
+          1144
+        ],
+        "lemma": "focus"
+      },
+      {
+        "text": "on",
+        "part_of_speech": "SCONJ",
+        "location": [
+          1145,
+          1147
+        ],
+        "lemma": "on"
+      },
+      {
+        "text": "creating",
+        "part_of_speech": "VERB",
+        "location": [
+          1148,
+          1156
+        ],
+        "lemma": "create"
+      },
+      {
+        "text": "new",
+        "part_of_speech": "ADJ",
+        "location": [
+          1157,
+          1160
+        ],
+        "lemma": "new"
+      },
+      {
+        "text": "value",
+        "part_of_speech": "NOUN",
+        "location": [
+          1161,
+          1166
+        ],
+        "lemma": "value"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1166,
+          1167
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          1168,
+          1174
+        ]
+      },
+      {
+        "text": "works",
+        "part_of_speech": "VERB",
+        "location": [
+          1175,
+          1180
+        ],
+        "lemma": "work"
+      },
+      {
+        "text": "securely",
+        "part_of_speech": "ADV",
+        "location": [
+          1181,
+          1189
+        ],
+        "lemma": "securely"
+      },
+      {
+        "text": "on",
+        "part_of_speech": "ADP",
+        "location": [
+          1190,
+          1192
+        ],
+        "lemma": "on"
+      },
+      {
+        "text": "any",
+        "part_of_speech": "DET",
+        "location": [
+          1193,
+          1196
+        ]
+      },
+      {
+        "text": "cloud",
+        "part_of_speech": "NOUN",
+        "location": [
+          1197,
+          1202
+        ],
+        "lemma": "cloud"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1202,
+          1203
+        ]
+      },
+      {
+        "text": "Underpinned",
+        "part_of_speech": "VERB",
+        "location": [
+          1204,
+          1215
+        ],
+        "lemma": "underpin"
+      },
+      {
+        "text": "by",
+        "part_of_speech": "ADP",
+        "location": [
+          1216,
+          1218
+        ],
+        "lemma": "by"
+      },
+      {
+        "text": "Red",
+        "part_of_speech": "PROPN",
+        "location": [
+          1219,
+          1222
+        ],
+        "lemma": "Red"
+      },
+      {
+        "text": "Hat",
+        "part_of_speech": "PROPN",
+        "location": [
+          1223,
+          1226
+        ],
+        "lemma": "Hat"
+      },
+      {
+        "text": "OpenShift",
+        "part_of_speech": "PROPN",
+        "location": [
+          1227,
+          1236
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1236,
+          1237
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          1238,
+          1244
+        ]
+      },
+      {
+        "text": "brings",
+        "part_of_speech": "VERB",
+        "location": [
+          1245,
+          1251
+        ],
+        "lemma": "bring"
+      },
+      {
+        "text": "AI",
+        "part_of_speech": "AUX",
+        "location": [
+          1252,
+          1254
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "ADP",
+        "location": [
+          1255,
+          1257
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "your",
+        "part_of_speech": "PRON",
+        "location": [
+          1258,
+          1262
+        ],
+        "lemma": "you"
+      },
+      {
+        "text": "data",
+        "part_of_speech": "NOUN",
+        "location": [
+          1263,
+          1267
+        ],
+        "lemma": "data"
+      },
+      {
+        "text": "wherever",
+        "part_of_speech": "ADV",
+        "location": [
+          1268,
+          1276
+        ],
+        "lemma": "wherever"
+      },
+      {
+        "text": "it",
+        "part_of_speech": "PRON",
+        "location": [
+          1277,
+          1279
+        ],
+        "lemma": "it"
+      },
+      {
+        "text": "resides",
+        "part_of_speech": "VERB",
+        "location": [
+          1280,
+          1287
+        ],
+        "lemma": "reside"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1287,
+          1288
+        ]
+      },
+      {
+        "text": "including",
+        "part_of_speech": "VERB",
+        "location": [
+          1289,
+          1298
+        ],
+        "lemma": "include"
+      },
+      {
+        "text": "AWS",
+        "part_of_speech": "NOUN",
+        "location": [
+          1299,
+          1302
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1302,
+          1303
+        ]
+      },
+      {
+        "text": "Azure",
+        "part_of_speech": "NOUN",
+        "location": [
+          1304,
+          1309
+        ],
+        "lemma": "azure"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1309,
+          1310
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          1311,
+          1314
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "GCP",
+        "part_of_speech": "NOUN",
+        "location": [
+          1315,
+          1318
+        ]
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1318,
+          1319
+        ]
+      },
+      {
+        "text": "This",
+        "part_of_speech": "PRON",
+        "location": [
+          1320,
+          1324
+        ],
+        "lemma": "this"
+      },
+      {
+        "text": "means",
+        "part_of_speech": "VERB",
+        "location": [
+          1325,
+          1330
+        ],
+        "lemma": "mean"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          1331,
+          1332
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADV",
+        "location": [
+          1333,
+          1337
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "unified",
+        "part_of_speech": "ADJ",
+        "location": [
+          1338,
+          1345
+        ]
+      },
+      {
+        "text": "view",
+        "part_of_speech": "NOUN",
+        "location": [
+          1346,
+          1350
+        ],
+        "lemma": "view"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          1351,
+          1353
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "your",
+        "part_of_speech": "PRON",
+        "location": [
+          1354,
+          1358
+        ],
+        "lemma": "you"
+      },
+      {
+        "text": "data",
+        "part_of_speech": "NOUN",
+        "location": [
+          1359,
+          1363
+        ],
+        "lemma": "data"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1363,
+          1364
+        ]
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADJ",
+        "location": [
+          1365,
+          1369
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "consistency",
+        "part_of_speech": "NOUN",
+        "location": [
+          1370,
+          1381
+        ],
+        "lemma": "consistence"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          1382,
+          1385
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "flexibility",
+        "part_of_speech": "NOUN",
+        "location": [
+          1386,
+          1397
+        ],
+        "lemma": "flexibility"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1397,
+          1398
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          1399,
+          1402
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "better",
+        "part_of_speech": "ADJ",
+        "location": [
+          1403,
+          1409
+        ],
+        "lemma": "good"
+      },
+      {
+        "text": "integration",
+        "part_of_speech": "NOUN",
+        "location": [
+          1410,
+          1421
+        ],
+        "lemma": "integration"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1421,
+          1422
+        ]
+      },
+      {
+        "text": "To",
+        "part_of_speech": "PART",
+        "location": [
+          1423,
+          1425
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "improve",
+        "part_of_speech": "VERB",
+        "location": [
+          1426,
+          1433
+        ],
+        "lemma": "improve"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          1434,
+          1437
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "customer",
+        "part_of_speech": "NOUN",
+        "location": [
+          1438,
+          1446
+        ],
+        "lemma": "customer"
+      },
+      {
+        "text": "experience",
+        "part_of_speech": "NOUN",
+        "location": [
+          1447,
+          1457
+        ],
+        "lemma": "experience"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1457,
+          1458
+        ]
+      },
+      {
+        "text": "GM",
+        "part_of_speech": "PROPN",
+        "location": [
+          1459,
+          1461
+        ]
+      },
+      {
+        "text": "Financial",
+        "part_of_speech": "PROPN",
+        "location": [
+          1462,
+          1471
+        ]
+      },
+      {
+        "text": "replaced",
+        "part_of_speech": "VERB",
+        "location": [
+          1472,
+          1480
+        ],
+        "lemma": "replace"
+      },
+      {
+        "text": "their",
+        "part_of_speech": "PRON",
+        "location": [
+          1481,
+          1486
+        ],
+        "lemma": "their"
+      },
+      {
+        "text": "basic",
+        "part_of_speech": "ADJ",
+        "location": [
+          1487,
+          1492
+        ],
+        "lemma": "basic"
+      },
+      {
+        "text": "chatbot",
+        "part_of_speech": "NOUN",
+        "location": [
+          1493,
+          1500
+        ]
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          1501,
+          1505
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          1506,
+          1512
+        ]
+      },
+      {
+        "text": "Assistant",
+        "part_of_speech": "PROPN",
+        "location": [
+          1513,
+          1522
+        ],
+        "lemma": "Assistant"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1522,
+          1523
+        ]
+      },
+      {
+        "text": "automating",
+        "part_of_speech": "VERB",
+        "location": [
+          1524,
+          1534
+        ],
+        "lemma": "automate"
+      },
+      {
+        "text": "responses",
+        "part_of_speech": "NOUN",
+        "location": [
+          1535,
+          1544
+        ],
+        "lemma": "response"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "ADP",
+        "location": [
+          1545,
+          1547
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "customer",
+        "part_of_speech": "NOUN",
+        "location": [
+          1548,
+          1556
+        ],
+        "lemma": "customer"
+      },
+      {
+        "text": "inquiries",
+        "part_of_speech": "NOUN",
+        "location": [
+          1557,
+          1566
+        ],
+        "lemma": "inquiry"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          1567,
+          1570
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "enabling",
+        "part_of_speech": "VERB",
+        "location": [
+          1571,
+          1579
+        ],
+        "lemma": "enable"
+      },
+      {
+        "text": "agents",
+        "part_of_speech": "NOUN",
+        "location": [
+          1580,
+          1586
+        ],
+        "lemma": "agent"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          1587,
+          1589
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "focus",
+        "part_of_speech": "VERB",
+        "location": [
+          1590,
+          1595
+        ],
+        "lemma": "focus"
+      },
+      {
+        "text": "on",
+        "part_of_speech": "ADP",
+        "location": [
+          1596,
+          1598
+        ],
+        "lemma": "on"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADJ",
+        "location": [
+          1599,
+          1603
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "complex",
+        "part_of_speech": "ADJ",
+        "location": [
+          1604,
+          1611
+        ],
+        "lemma": "complex"
+      },
+      {
+        "text": "work",
+        "part_of_speech": "NOUN",
+        "location": [
+          1612,
+          1616
+        ],
+        "lemma": "work"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1616,
+          1617
+        ]
+      },
+      {
+        "text": "In",
+        "part_of_speech": "ADP",
+        "location": [
+          1618,
+          1620
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "partnership",
+        "part_of_speech": "NOUN",
+        "location": [
+          1621,
+          1632
+        ],
+        "lemma": "partnership"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          1633,
+          1637
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          1638,
+          1641
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          1642,
+          1648
+        ]
+      },
+      {
+        "text": "Advertising",
+        "part_of_speech": "PROPN",
+        "location": [
+          1649,
+          1660
+        ],
+        "lemma": "Advertising"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          1661,
+          1664
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "by",
+        "part_of_speech": "SCONJ",
+        "location": [
+          1665,
+          1667
+        ],
+        "lemma": "by"
+      },
+      {
+        "text": "leveraging",
+        "part_of_speech": "VERB",
+        "location": [
+          1668,
+          1678
+        ],
+        "lemma": "leverage"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          1679,
+          1682
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          1683,
+          1689
+        ]
+      },
+      {
+        "text": "-",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1689,
+          1690
+        ]
+      },
+      {
+        "text": "powered",
+        "part_of_speech": "VERB",
+        "location": [
+          1690,
+          1697
+        ],
+        "lemma": "power"
+      },
+      {
+        "text": "Natural",
+        "part_of_speech": "PROPN",
+        "location": [
+          1698,
+          1705
+        ],
+        "lemma": "Natural"
+      },
+      {
+        "text": "Language",
+        "part_of_speech": "PROPN",
+        "location": [
+          1706,
+          1714
+        ],
+        "lemma": "Language"
+      },
+      {
+        "text": "Understanding",
+        "part_of_speech": "PROPN",
+        "location": [
+          1715,
+          1728
+        ],
+        "lemma": "Understanding"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1728,
+          1729
+        ]
+      },
+      {
+        "text": "Lufthansa",
+        "part_of_speech": "PROPN",
+        "location": [
+          1730,
+          1739
+        ]
+      },
+      {
+        "text": "was",
+        "part_of_speech": "AUX",
+        "location": [
+          1740,
+          1743
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "able",
+        "part_of_speech": "ADJ",
+        "location": [
+          1744,
+          1748
+        ],
+        "lemma": "able"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          1749,
+          1751
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "deliver",
+        "part_of_speech": "VERB",
+        "location": [
+          1752,
+          1759
+        ],
+        "lemma": "deliver"
+      },
+      {
+        "text": "unique",
+        "part_of_speech": "ADJ",
+        "location": [
+          1760,
+          1766
+        ],
+        "lemma": "unique"
+      },
+      {
+        "text": "travel",
+        "part_of_speech": "NOUN",
+        "location": [
+          1767,
+          1773
+        ],
+        "lemma": "travel"
+      },
+      {
+        "text": "inspiration",
+        "part_of_speech": "NOUN",
+        "location": [
+          1774,
+          1785
+        ],
+        "lemma": "inspiration"
+      },
+      {
+        "text": "through",
+        "part_of_speech": "SCONJ",
+        "location": [
+          1786,
+          1793
+        ],
+        "lemma": "through"
+      },
+      {
+        "text": "personalized",
+        "part_of_speech": "VERB",
+        "location": [
+          1794,
+          1806
+        ],
+        "lemma": "personalize"
+      },
+      {
+        "text": "conversations",
+        "part_of_speech": "NOUN",
+        "location": [
+          1807,
+          1820
+        ],
+        "lemma": "conversation"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          1821,
+          1825
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "customers",
+        "part_of_speech": "NOUN",
+        "location": [
+          1826,
+          1835
+        ],
+        "lemma": "customer"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1835,
+          1836
+        ]
+      },
+      {
+        "text": "In",
+        "part_of_speech": "ADP",
+        "location": [
+          1837,
+          1839
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "just",
+        "part_of_speech": "ADV",
+        "location": [
+          1840,
+          1844
+        ],
+        "lemma": "just"
+      },
+      {
+        "text": "10",
+        "part_of_speech": "NUM",
+        "location": [
+          1845,
+          1847
+        ]
+      },
+      {
+        "text": "months",
+        "part_of_speech": "NOUN",
+        "location": [
+          1848,
+          1854
+        ],
+        "lemma": "month"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1854,
+          1855
+        ]
+      },
+      {
+        "text": "GSK",
+        "part_of_speech": "PROPN",
+        "location": [
+          1856,
+          1859
+        ]
+      },
+      {
+        "text": "launched",
+        "part_of_speech": "VERB",
+        "location": [
+          1860,
+          1868
+        ],
+        "lemma": "launch"
+      },
+      {
+        "text": "16",
+        "part_of_speech": "NUM",
+        "location": [
+          1869,
+          1871
+        ]
+      },
+      {
+        "text": "virtual",
+        "part_of_speech": "ADJ",
+        "location": [
+          1872,
+          1879
+        ],
+        "lemma": "virtual"
+      },
+      {
+        "text": "assistants",
+        "part_of_speech": "NOUN",
+        "location": [
+          1880,
+          1890
+        ],
+        "lemma": "assistant"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          1891,
+          1893
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "improve",
+        "part_of_speech": "VERB",
+        "location": [
+          1894,
+          1901
+        ],
+        "lemma": "improve"
+      },
+      {
+        "text": "customer",
+        "part_of_speech": "NOUN",
+        "location": [
+          1902,
+          1910
+        ],
+        "lemma": "customer"
+      },
+      {
+        "text": "satisfaction",
+        "part_of_speech": "NOUN",
+        "location": [
+          1911,
+          1923
+        ],
+        "lemma": "satisfaction"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          1924,
+          1927
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "employee",
+        "part_of_speech": "NOUN",
+        "location": [
+          1928,
+          1936
+        ],
+        "lemma": "employee"
+      },
+      {
+        "text": "productivity",
+        "part_of_speech": "NOUN",
+        "location": [
+          1937,
+          1949
+        ],
+        "lemma": "productivity"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          1950,
+          1954
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          1955,
+          1961
+        ]
+      },
+      {
+        "text": "Assistant",
+        "part_of_speech": "PROPN",
+        "location": [
+          1962,
+          1971
+        ],
+        "lemma": "Assistant"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1971,
+          1972
+        ]
+      },
+      {
+        "text": "Now",
+        "part_of_speech": "ADV",
+        "location": [
+          1973,
+          1976
+        ],
+        "lemma": "now"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1976,
+          1977
+        ]
+      },
+      {
+        "text": "clients",
+        "part_of_speech": "NOUN",
+        "location": [
+          1978,
+          1985
+        ],
+        "lemma": "client"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          1986,
+          1989
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "field",
+        "part_of_speech": "NOUN",
+        "location": [
+          1990,
+          1995
+        ],
+        "lemma": "field"
+      },
+      {
+        "text": "sellers",
+        "part_of_speech": "NOUN",
+        "location": [
+          1996,
+          2003
+        ],
+        "lemma": "seller"
+      },
+      {
+        "text": "can",
+        "part_of_speech": "AUX",
+        "location": [
+          2004,
+          2007
+        ],
+        "lemma": "can"
+      },
+      {
+        "text": "get",
+        "part_of_speech": "VERB",
+        "location": [
+          2008,
+          2011
+        ],
+        "lemma": "get"
+      },
+      {
+        "text": "answers",
+        "part_of_speech": "NOUN",
+        "location": [
+          2012,
+          2019
+        ],
+        "lemma": "answer"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          2020,
+          2022
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "even",
+        "part_of_speech": "ADV",
+        "location": [
+          2023,
+          2027
+        ],
+        "lemma": "even"
+      },
+      {
+        "text": "their",
+        "part_of_speech": "PRON",
+        "location": [
+          2028,
+          2033
+        ],
+        "lemma": "their"
+      },
+      {
+        "text": "most",
+        "part_of_speech": "ADV",
+        "location": [
+          2034,
+          2038
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "complicated",
+        "part_of_speech": "ADJ",
+        "location": [
+          2039,
+          2050
+        ],
+        "lemma": "complicated"
+      },
+      {
+        "text": "questions",
+        "part_of_speech": "NOUN",
+        "location": [
+          2051,
+          2060
+        ],
+        "lemma": "question"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2060,
+          2061
+        ]
+      },
+      {
+        "text": "BEHR",
+        "part_of_speech": "PROPN",
+        "location": [
+          2062,
+          2066
+        ]
+      },
+      {
+        "text": "leveraged",
+        "part_of_speech": "VERB",
+        "location": [
+          2067,
+          2076
+        ],
+        "lemma": "leverage"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          2077,
+          2080
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          2081,
+          2087
+        ]
+      },
+      {
+        "text": "Advertising",
+        "part_of_speech": "PROPN",
+        "location": [
+          2088,
+          2099
+        ],
+        "lemma": "Advertising"
+      },
+      {
+        "text": "Conversations",
+        "part_of_speech": "PROPN",
+        "location": [
+          2100,
+          2113
+        ],
+        "lemma": "Conversation"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          2114,
+          2116
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "reach",
+        "part_of_speech": "VERB",
+        "location": [
+          2117,
+          2122
+        ],
+        "lemma": "reach"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          2123,
+          2126
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "engage",
+        "part_of_speech": "VERB",
+        "location": [
+          2127,
+          2133
+        ],
+        "lemma": "engage"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          2134,
+          2138
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "consumers",
+        "part_of_speech": "NOUN",
+        "location": [
+          2139,
+          2148
+        ],
+        "lemma": "consumer"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          2149,
+          2151
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "1",
+        "part_of_speech": "NUM",
+        "location": [
+          2152,
+          2153
+        ]
+      },
+      {
+        "text": ":",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2153,
+          2154
+        ],
+        "lemma": ":"
+      },
+      {
+        "text": "1",
+        "part_of_speech": "NUM",
+        "location": [
+          2154,
+          2155
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2155,
+          2156
+        ]
+      },
+      {
+        "text": "personalized",
+        "part_of_speech": "VERB",
+        "location": [
+          2157,
+          2169
+        ],
+        "lemma": "personalize"
+      },
+      {
+        "text": "conversations",
+        "part_of_speech": "NOUN",
+        "location": [
+          2170,
+          2183
+        ],
+        "lemma": "conversation"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2183,
+          2184
+        ]
+      },
+      {
+        "text": "showcasing",
+        "part_of_speech": "VERB",
+        "location": [
+          2185,
+          2195
+        ]
+      },
+      {
+        "text": "BEHR",
+        "part_of_speech": "PROPN",
+        "location": [
+          2196,
+          2200
+        ]
+      },
+      {
+        "text": "'s",
+        "part_of_speech": "PART",
+        "location": [
+          2200,
+          2202
+        ],
+        "lemma": "'s"
+      },
+      {
+        "text": "top",
+        "part_of_speech": "ADJ",
+        "location": [
+          2203,
+          2206
+        ],
+        "lemma": "top"
+      },
+      {
+        "text": "-",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2206,
+          2207
+        ]
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          2207,
+          2209
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "-",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2209,
+          2210
+        ]
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          2210,
+          2213
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "-",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2213,
+          2214
+        ]
+      },
+      {
+        "text": "category",
+        "part_of_speech": "NOUN",
+        "location": [
+          2214,
+          2222
+        ],
+        "lemma": "category"
+      },
+      {
+        "text": "benefits",
+        "part_of_speech": "NOUN",
+        "location": [
+          2223,
+          2231
+        ],
+        "lemma": "benefit"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2231,
+          2232
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          2233,
+          2236
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "helping",
+        "part_of_speech": "VERB",
+        "location": [
+          2237,
+          2244
+        ],
+        "lemma": "help"
+      },
+      {
+        "text": "increase",
+        "part_of_speech": "NOUN",
+        "location": [
+          2245,
+          2253
+        ],
+        "lemma": "increase"
+      },
+      {
+        "text": "brand",
+        "part_of_speech": "NOUN",
+        "location": [
+          2254,
+          2259
+        ],
+        "lemma": "brand"
+      },
+      {
+        "text": "favorability",
+        "part_of_speech": "NOUN",
+        "location": [
+          2260,
+          2272
+        ],
+        "lemma": "favorability"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          2273,
+          2276
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "purchase",
+        "part_of_speech": "NOUN",
+        "location": [
+          2277,
+          2285
+        ],
+        "lemma": "purchase"
+      },
+      {
+        "text": "intent",
+        "part_of_speech": "NOUN",
+        "location": [
+          2286,
+          2292
+        ],
+        "lemma": "intent"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2292,
+          2293
+        ]
+      },
+      {
+        "text": "AI",
+        "part_of_speech": "AUX",
+        "location": [
+          2294,
+          2296
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          2297,
+          2299
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "changing",
+        "part_of_speech": "VERB",
+        "location": [
+          2300,
+          2308
+        ],
+        "lemma": "change"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          2309,
+          2312
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "way",
+        "part_of_speech": "NOUN",
+        "location": [
+          2313,
+          2316
+        ],
+        "lemma": "way"
+      },
+      {
+        "text": "transaction",
+        "part_of_speech": "NOUN",
+        "location": [
+          2317,
+          2328
+        ],
+        "lemma": "transaction"
+      },
+      {
+        "text": "diligence",
+        "part_of_speech": "NOUN",
+        "location": [
+          2329,
+          2338
+        ],
+        "lemma": "diligence"
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          2339,
+          2341
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "performed",
+        "part_of_speech": "VERB",
+        "location": [
+          2342,
+          2351
+        ],
+        "lemma": "perform"
+      },
+      {
+        "text": "at",
+        "part_of_speech": "ADP",
+        "location": [
+          2352,
+          2354
+        ],
+        "lemma": "at"
+      },
+      {
+        "text": "EY",
+        "part_of_speech": "PROPN",
+        "location": [
+          2355,
+          2357
+        ]
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2357,
+          2358
+        ]
+      },
+      {
+        "text": "With",
+        "part_of_speech": "ADP",
+        "location": [
+          2359,
+          2363
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          2364,
+          2370
+        ]
+      },
+      {
+        "text": "Discovery",
+        "part_of_speech": "PROPN",
+        "location": [
+          2371,
+          2380
+        ],
+        "lemma": "Discovery"
+      },
+      {
+        "text": "EY",
+        "part_of_speech": "PROPN",
+        "location": [
+          2381,
+          2383
+        ]
+      },
+      {
+        "text": "can",
+        "part_of_speech": "AUX",
+        "location": [
+          2384,
+          2387
+        ],
+        "lemma": "can"
+      },
+      {
+        "text": "provide",
+        "part_of_speech": "VERB",
+        "location": [
+          2388,
+          2395
+        ],
+        "lemma": "provide"
+      },
+      {
+        "text": "better",
+        "part_of_speech": "ADV",
+        "location": [
+          2396,
+          2402
+        ],
+        "lemma": "good"
+      },
+      {
+        "text": "transaction",
+        "part_of_speech": "NOUN",
+        "location": [
+          2403,
+          2414
+        ],
+        "lemma": "transaction"
+      },
+      {
+        "text": "advice",
+        "part_of_speech": "NOUN",
+        "location": [
+          2415,
+          2421
+        ],
+        "lemma": "advice"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "ADP",
+        "location": [
+          2422,
+          2424
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "clients",
+        "part_of_speech": "NOUN",
+        "location": [
+          2425,
+          2432
+        ],
+        "lemma": "client"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2432,
+          2433
+        ]
+      },
+      {
+        "text": "which",
+        "part_of_speech": "PRON",
+        "location": [
+          2434,
+          2439
+        ],
+        "lemma": "which"
+      },
+      {
+        "text": "they",
+        "part_of_speech": "PRON",
+        "location": [
+          2440,
+          2444
+        ],
+        "lemma": "they"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          2445,
+          2447
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "turn",
+        "part_of_speech": "NOUN",
+        "location": [
+          2448,
+          2452
+        ],
+        "lemma": "turn"
+      },
+      {
+        "text": "can",
+        "part_of_speech": "AUX",
+        "location": [
+          2453,
+          2456
+        ],
+        "lemma": "can"
+      },
+      {
+        "text": "use",
+        "part_of_speech": "VERB",
+        "location": [
+          2457,
+          2460
+        ],
+        "lemma": "use"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          2461,
+          2463
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "make",
+        "part_of_speech": "VERB",
+        "location": [
+          2464,
+          2468
+        ],
+        "lemma": "make"
+      },
+      {
+        "text": "better",
+        "part_of_speech": "ADJ",
+        "location": [
+          2469,
+          2475
+        ],
+        "lemma": "good"
+      },
+      {
+        "text": "decisions",
+        "part_of_speech": "NOUN",
+        "location": [
+          2476,
+          2485
+        ],
+        "lemma": "decision"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          2486,
+          2489
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "drive",
+        "part_of_speech": "VERB",
+        "location": [
+          2490,
+          2495
+        ],
+        "lemma": "drive"
+      },
+      {
+        "text": "better",
+        "part_of_speech": "ADJ",
+        "location": [
+          2496,
+          2502
+        ],
+        "lemma": "good"
+      },
+      {
+        "text": "outcomes",
+        "part_of_speech": "NOUN",
+        "location": [
+          2503,
+          2511
+        ],
+        "lemma": "outcome"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2511,
+          2512
+        ]
+      },
+      {
+        "text": "Leading",
+        "part_of_speech": "VERB",
+        "location": [
+          2513,
+          2520
+        ],
+        "lemma": "lead"
+      },
+      {
+        "text": "security",
+        "part_of_speech": "NOUN",
+        "location": [
+          2521,
+          2529
+        ],
+        "lemma": "security"
+      },
+      {
+        "text": "expert",
+        "part_of_speech": "NOUN",
+        "location": [
+          2530,
+          2536
+        ],
+        "lemma": "expert"
+      },
+      {
+        "text": "CMC",
+        "part_of_speech": "PROPN",
+        "location": [
+          2537,
+          2540
+        ]
+      },
+      {
+        "text": "TS",
+        "part_of_speech": "PROPN",
+        "location": [
+          2541,
+          2543
+        ]
+      },
+      {
+        "text": "wanted",
+        "part_of_speech": "VERB",
+        "location": [
+          2544,
+          2550
+        ],
+        "lemma": "want"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          2551,
+          2553
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "stay",
+        "part_of_speech": "VERB",
+        "location": [
+          2554,
+          2558
+        ],
+        "lemma": "stay"
+      },
+      {
+        "text": "ahead",
+        "part_of_speech": "ADV",
+        "location": [
+          2559,
+          2564
+        ],
+        "lemma": "ahead"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          2565,
+          2567
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "its",
+        "part_of_speech": "PRON",
+        "location": [
+          2568,
+          2571
+        ],
+        "lemma": "its"
+      },
+      {
+        "text": "market",
+        "part_of_speech": "NOUN",
+        "location": [
+          2572,
+          2578
+        ],
+        "lemma": "market"
+      },
+      {
+        "text": "competitors",
+        "part_of_speech": "NOUN",
+        "location": [
+          2579,
+          2590
+        ],
+        "lemma": "competitor"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2590,
+          2591
+        ]
+      },
+      {
+        "text": "It",
+        "part_of_speech": "PRON",
+        "location": [
+          2592,
+          2594
+        ],
+        "lemma": "it"
+      },
+      {
+        "text": "teamed",
+        "part_of_speech": "VERB",
+        "location": [
+          2595,
+          2601
+        ],
+        "lemma": "team"
+      },
+      {
+        "text": "up",
+        "part_of_speech": "ADP",
+        "location": [
+          2602,
+          2604
+        ],
+        "lemma": "up"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          2605,
+          2609
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          2610,
+          2613
+        ]
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          2614,
+          2616
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "expand",
+        "part_of_speech": "VERB",
+        "location": [
+          2617,
+          2623
+        ],
+        "lemma": "expand"
+      },
+      {
+        "text": "its",
+        "part_of_speech": "PRON",
+        "location": [
+          2624,
+          2627
+        ],
+        "lemma": "its"
+      },
+      {
+        "text": "security",
+        "part_of_speech": "NOUN",
+        "location": [
+          2628,
+          2636
+        ],
+        "lemma": "security"
+      },
+      {
+        "text": "offerings",
+        "part_of_speech": "NOUN",
+        "location": [
+          2637,
+          2646
+        ],
+        "lemma": "offering"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          2647,
+          2651
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          2652,
+          2655
+        ]
+      },
+      {
+        "text": "Security",
+        "part_of_speech": "PROPN",
+        "location": [
+          2656,
+          2664
+        ],
+        "lemma": "Security"
+      },
+      {
+        "text": "Resilient",
+        "part_of_speech": "ADJ",
+        "location": [
+          2665,
+          2674
+        ],
+        "lemma": "resilient"
+      },
+      {
+        "text": "software",
+        "part_of_speech": "NOUN",
+        "location": [
+          2675,
+          2683
+        ],
+        "lemma": "software"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          2684,
+          2687
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          2688,
+          2691
+        ]
+      },
+      {
+        "text": "QRadar",
+        "part_of_speech": "PROPN",
+        "location": [
+          2692,
+          2698
+        ]
+      },
+      {
+        "text": "Advisor",
+        "part_of_speech": "PROPN",
+        "location": [
+          2699,
+          2706
+        ],
+        "lemma": "Adviser"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          2707,
+          2711
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "NOUN",
+        "location": [
+          2712,
+          2718
+        ]
+      },
+      {
+        "text": "software",
+        "part_of_speech": "NOUN",
+        "location": [
+          2719,
+          2727
+        ],
+        "lemma": "software"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2727,
+          2728
+        ]
+      },
+      {
+        "text": "Greenworks",
+        "part_of_speech": "PROPN",
+        "location": [
+          2729,
+          2739
+        ]
+      },
+      {
+        "text": "saves",
+        "part_of_speech": "VERB",
+        "location": [
+          2740,
+          2745
+        ],
+        "lemma": "save"
+      },
+      {
+        "text": "40",
+        "part_of_speech": "NUM",
+        "location": [
+          2746,
+          2748
+        ]
+      },
+      {
+        "text": "%",
+        "part_of_speech": "SYM",
+        "location": [
+          2748,
+          2749
+        ]
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          2750,
+          2752
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "IT",
+        "part_of_speech": "PRON",
+        "location": [
+          2753,
+          2755
+        ],
+        "lemma": "it"
+      },
+      {
+        "text": "costs",
+        "part_of_speech": "VERB",
+        "location": [
+          2756,
+          2761
+        ],
+        "lemma": "cost"
+      },
+      {
+        "text": "by",
+        "part_of_speech": "SCONJ",
+        "location": [
+          2762,
+          2764
+        ],
+        "lemma": "by"
+      },
+      {
+        "text": "implementing",
+        "part_of_speech": "VERB",
+        "location": [
+          2765,
+          2777
+        ],
+        "lemma": "implement"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          2778,
+          2781
+        ]
+      },
+      {
+        "text": "Sterling",
+        "part_of_speech": "PROPN",
+        "location": [
+          2782,
+          2790
+        ],
+        "lemma": "Sterling"
+      },
+      {
+        "text": "Supply",
+        "part_of_speech": "PROPN",
+        "location": [
+          2791,
+          2797
+        ],
+        "lemma": "Supply"
+      },
+      {
+        "text": "Chain",
+        "part_of_speech": "PROPN",
+        "location": [
+          2798,
+          2803
+        ],
+        "lemma": "Chain"
+      },
+      {
+        "text": "Business",
+        "part_of_speech": "PROPN",
+        "location": [
+          2804,
+          2812
+        ],
+        "lemma": "Business"
+      },
+      {
+        "text": "Network",
+        "part_of_speech": "PROPN",
+        "location": [
+          2813,
+          2820
+        ],
+        "lemma": "Network"
+      },
+      {
+        "text": "platform",
+        "part_of_speech": "NOUN",
+        "location": [
+          2821,
+          2829
+        ],
+        "lemma": "platform"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          2830,
+          2834
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "Business",
+        "part_of_speech": "PROPN",
+        "location": [
+          2835,
+          2843
+        ],
+        "lemma": "Business"
+      },
+      {
+        "text": "Transaction",
+        "part_of_speech": "NOUN",
+        "location": [
+          2844,
+          2855
+        ],
+        "lemma": "transaction"
+      },
+      {
+        "text": "Intelligence",
+        "part_of_speech": "NOUN",
+        "location": [
+          2856,
+          2868
+        ],
+        "lemma": "intelligence"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          2869,
+          2871
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "give",
+        "part_of_speech": "VERB",
+        "location": [
+          2872,
+          2876
+        ],
+        "lemma": "give"
+      },
+      {
+        "text": "business",
+        "part_of_speech": "NOUN",
+        "location": [
+          2877,
+          2885
+        ],
+        "lemma": "business"
+      },
+      {
+        "text": "users",
+        "part_of_speech": "NOUN",
+        "location": [
+          2886,
+          2891
+        ],
+        "lemma": "user"
+      },
+      {
+        "text": "deep",
+        "part_of_speech": "ADJ",
+        "location": [
+          2892,
+          2896
+        ],
+        "lemma": "deep"
+      },
+      {
+        "text": "insight",
+        "part_of_speech": "NOUN",
+        "location": [
+          2897,
+          2904
+        ],
+        "lemma": "insight"
+      },
+      {
+        "text": "into",
+        "part_of_speech": "ADP",
+        "location": [
+          2905,
+          2909
+        ],
+        "lemma": "into"
+      },
+      {
+        "text": "their",
+        "part_of_speech": "PRON",
+        "location": [
+          2910,
+          2915
+        ],
+        "lemma": "their"
+      },
+      {
+        "text": "orders",
+        "part_of_speech": "NOUN",
+        "location": [
+          2916,
+          2922
+        ],
+        "lemma": "order"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2922,
+          2923
+        ]
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          2924,
+          2927
+        ]
+      },
+      {
+        "text": "Cloud",
+        "part_of_speech": "PROPN",
+        "location": [
+          2928,
+          2933
+        ],
+        "lemma": "Cloud"
+      },
+      {
+        "text": "Paks",
+        "part_of_speech": "PROPN",
+        "location": [
+          2934,
+          2938
+        ]
+      },
+      {
+        "text": "give",
+        "part_of_speech": "VERB",
+        "location": [
+          2939,
+          2943
+        ],
+        "lemma": "give"
+      },
+      {
+        "text": "developers",
+        "part_of_speech": "NOUN",
+        "location": [
+          2944,
+          2954
+        ],
+        "lemma": "developer"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          2954,
+          2955
+        ]
+      },
+      {
+        "text": "data",
+        "part_of_speech": "NOUN",
+        "location": [
+          2956,
+          2960
+        ],
+        "lemma": "data"
+      },
+      {
+        "text": "managers",
+        "part_of_speech": "NOUN",
+        "location": [
+          2961,
+          2969
+        ],
+        "lemma": "manager"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          2970,
+          2973
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "administrators",
+        "part_of_speech": "NOUN",
+        "location": [
+          2974,
+          2988
+        ],
+        "lemma": "administrator"
+      },
+      {
+        "text": "an",
+        "part_of_speech": "DET",
+        "location": [
+          2989,
+          2991
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "open",
+        "part_of_speech": "ADJ",
+        "location": [
+          2992,
+          2996
+        ],
+        "lemma": "open"
+      },
+      {
+        "text": "environment",
+        "part_of_speech": "NOUN",
+        "location": [
+          2997,
+          3008
+        ],
+        "lemma": "environment"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          3009,
+          3011
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "quickly",
+        "part_of_speech": "ADV",
+        "location": [
+          3012,
+          3019
+        ],
+        "lemma": "quickly"
+      },
+      {
+        "text": "build",
+        "part_of_speech": "VERB",
+        "location": [
+          3020,
+          3025
+        ],
+        "lemma": "build"
+      },
+      {
+        "text": "new",
+        "part_of_speech": "ADJ",
+        "location": [
+          3026,
+          3029
+        ],
+        "lemma": "new"
+      },
+      {
+        "text": "cloud",
+        "part_of_speech": "NOUN",
+        "location": [
+          3030,
+          3035
+        ],
+        "lemma": "cloud"
+      },
+      {
+        "text": "-",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3035,
+          3036
+        ]
+      },
+      {
+        "text": "native",
+        "part_of_speech": "ADJ",
+        "location": [
+          3036,
+          3042
+        ],
+        "lemma": "native"
+      },
+      {
+        "text": "applications",
+        "part_of_speech": "NOUN",
+        "location": [
+          3043,
+          3055
+        ],
+        "lemma": "application"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3055,
+          3056
+        ]
+      },
+      {
+        "text": "modernize",
+        "part_of_speech": "VERB",
+        "location": [
+          3057,
+          3066
+        ],
+        "lemma": "modernize"
+      },
+      {
+        "text": "existing",
+        "part_of_speech": "VERB",
+        "location": [
+          3067,
+          3075
+        ],
+        "lemma": "exist"
+      },
+      {
+        "text": "applications",
+        "part_of_speech": "NOUN",
+        "location": [
+          3076,
+          3088
+        ],
+        "lemma": "application"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3088,
+          3089
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          3090,
+          3093
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "extend",
+        "part_of_speech": "VERB",
+        "location": [
+          3094,
+          3100
+        ],
+        "lemma": "extend"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          3101,
+          3104
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "AI",
+        "part_of_speech": "PROPN",
+        "location": [
+          3105,
+          3107
+        ]
+      },
+      {
+        "text": "capabilities",
+        "part_of_speech": "NOUN",
+        "location": [
+          3108,
+          3120
+        ],
+        "lemma": "capability"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          3121,
+          3123
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "IBM",
+        "part_of_speech": "PROPN",
+        "location": [
+          3124,
+          3127
+        ]
+      },
+      {
+        "text": "Watson",
+        "part_of_speech": "PROPN",
+        "location": [
+          3128,
+          3134
+        ]
+      },
+      {
+        "text": "into",
+        "part_of_speech": "ADP",
+        "location": [
+          3135,
+          3139
+        ],
+        "lemma": "into"
+      },
+      {
+        "text": "their",
+        "part_of_speech": "PRON",
+        "location": [
+          3140,
+          3145
+        ],
+        "lemma": "their"
+      },
+      {
+        "text": "business",
+        "part_of_speech": "NOUN",
+        "location": [
+          3146,
+          3154
+        ],
+        "lemma": "business"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          3155,
+          3157
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          3158,
+          3159
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "consistent",
+        "part_of_speech": "ADJ",
+        "location": [
+          3160,
+          3170
+        ],
+        "lemma": "consistent"
+      },
+      {
+        "text": "manner",
+        "part_of_speech": "NOUN",
+        "location": [
+          3171,
+          3177
+        ],
+        "lemma": "manner"
+      },
+      {
+        "text": "across",
+        "part_of_speech": "ADP",
+        "location": [
+          3178,
+          3184
+        ],
+        "lemma": "across"
+      },
+      {
+        "text": "multiple",
+        "part_of_speech": "ADJ",
+        "location": [
+          3185,
+          3193
+        ],
+        "lemma": "multiple"
+      },
+      {
+        "text": "clouds",
+        "part_of_speech": "NOUN",
+        "location": [
+          3194,
+          3200
+        ],
+        "lemma": "cloud"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          3200,
+          3201
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "text": "IBM’s portfolio of business-ready tools, applications and solutions, designed to reduce the costs and hurdles of AI adoption while optimizing outcomes and responsible use of AI.",
+        "location": [
+          0,
+          177
+        ]
+      },
+      {
+        "text": "Ranking in IDC’s AI Market for 2020 market share (source: IDC (link resides outside IBM), August 2020)",
+        "location": [
+          178,
+          280
+        ]
+      },
+      {
+        "text": "Operationalize AI and transform how work gets done with our proven capabilities and experience with +100 million users.",
+        "location": [
+          281,
+          400
+        ]
+      },
+      {
+        "text": "Watson advances trust from principle to practice.",
+        "location": [
+          401,
+          450
+        ]
+      },
+      {
+        "text": "Transparent processes provide insight into AI-led decisions.",
+        "location": [
+          451,
+          511
+        ]
+      },
+      {
+        "text": "We enable data privacy, compliance and security across highly regulated industries, and support an open, diverse ecosystem driving responsible use of AI.",
+        "location": [
+          512,
+          665
+        ]
+      },
+      {
+        "text": "Watson understands the language of your business.",
+        "location": [
+          666,
+          715
+        ]
+      },
+      {
+        "text": "Natural language processing lets Watson analyze complex, unstructured data, computer code, and even industry-specific jargon.",
+        "location": [
+          716,
+          841
+        ]
+      },
+      {
+        "text": "So you can make more informed decisions and deliver better experiences.",
+        "location": [
+          842,
+          913
+        ]
+      },
+      {
+        "text": "Watson streamlines how businesses operate and yields leaps in productivity.",
+        "location": [
+          914,
+          989
+        ]
+      },
+      {
+        "text": "Intelligently automate virtually any type of work, at scale.",
+        "location": [
+          990,
+          1050
+        ]
+      },
+      {
+        "text": "Augment core strengths, offset skilled-labor shortages, and give employees more time to focus on creating new value.",
+        "location": [
+          1051,
+          1167
+        ]
+      },
+      {
+        "text": "Watson works securely on any cloud.",
+        "location": [
+          1168,
+          1203
+        ]
+      },
+      {
+        "text": "Underpinned by Red Hat OpenShift, Watson brings AI to your data wherever it resides, including AWS, Azure, and GCP.",
+        "location": [
+          1204,
+          1319
+        ]
+      },
+      {
+        "text": "This means a more unified view of your data, more consistency and flexibility, and better integration.",
+        "location": [
+          1320,
+          1422
+        ]
+      },
+      {
+        "text": "To improve the customer experience, GM Financial replaced their basic chatbot with Watson Assistant, automating responses to customer inquiries and enabling agents to focus on more complex work.",
+        "location": [
+          1423,
+          1617
+        ]
+      },
+      {
+        "text": "In partnership with IBM Watson Advertising and by leveraging IBM Watson-powered Natural Language Understanding, Lufthansa was able to deliver unique travel inspiration through personalized conversations with customers.",
+        "location": [
+          1618,
+          1836
+        ]
+      },
+      {
+        "text": "In just 10 months, GSK launched 16 virtual assistants to improve customer satisfaction and employee productivity with Watson Assistant.",
+        "location": [
+          1837,
+          1972
+        ]
+      },
+      {
+        "text": "Now, clients and field sellers can get answers to even their most complicated questions.",
+        "location": [
+          1973,
+          2061
+        ]
+      },
+      {
+        "text": "BEHR leveraged IBM Watson Advertising Conversations to reach and engage with consumers in 1:1, personalized conversations, showcasing BEHR's top-of-the-category benefits, and helping increase brand favorability and purchase intent.",
+        "location": [
+          2062,
+          2293
+        ]
+      },
+      {
+        "text": "AI is changing the way transaction diligence is performed at EY.",
+        "location": [
+          2294,
+          2358
+        ]
+      },
+      {
+        "text": "With Watson Discovery EY can provide better transaction advice to clients, which they in turn can use to make better decisions and drive better outcomes.",
+        "location": [
+          2359,
+          2512
+        ]
+      },
+      {
+        "text": "Leading security expert CMC TS wanted to stay ahead of its market competitors.",
+        "location": [
+          2513,
+          2591
+        ]
+      },
+      {
+        "text": "It teamed up with IBM to expand its security offerings with IBM Security Resilient software and IBM QRadar Advisor with Watson software.",
+        "location": [
+          2592,
+          2728
+        ]
+      },
+      {
+        "text": "Greenworks saves 40% in IT costs by implementing IBM Sterling Supply Chain Business Network platform with Business Transaction Intelligence to give business users deep insight into their orders.",
+        "location": [
+          2729,
+          2923
+        ]
+      },
+      {
+        "text": "IBM Cloud Paks give developers, data managers and administrators an open environment to quickly build new cloud-native applications, modernize existing applications, and extend the AI capabilities of IBM Watson into their business in a consistent manner across multiple clouds.",
+        "location": [
+          2924,
+          3201
+        ]
+      }
+    ]
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.815778,
+      "label": "positive"
+    }
+  },
+  "semantic_roles": [
+    {
+      "subject": {
+        "text": "IBM"
+      },
+      "sentence": "IBM’s portfolio of business-ready tools, applications and solutions, designed to reduce the costs and hurdles of AI adoption while optimizing outcomes and responsible use of AI.",
+      "object": {
+        "text": "portfolio of business-ready tools, applications and solutions"
+      },
+      "action": {
+        "verb": {
+          "text": "has",
+          "tense": "present"
+        },
+        "text": "s",
+        "normalized": "s"
+      }
+    },
+    {
+      "subject": {
+        "text": "IBM’s portfolio of business-ready tools, applications and solutions"
+      },
+      "sentence": "IBM’s portfolio of business-ready tools, applications and solutions, designed to reduce the costs and hurdles of AI adoption while optimizing outcomes and responsible use of AI.",
+      "object": {
+        "text": "the costs and hurdles of AI adoption"
+      },
+      "action": {
+        "verb": {
+          "text": "reduce",
+          "tense": "future"
+        },
+        "text": "designed to reduce",
+        "normalized": "design to reduce"
+      }
+    },
+    {
+      "subject": {
+        "text": "IDC"
+      },
+      "sentence": " Ranking in IDC’s AI Market for 2020 market share (source: IDC (link resides outside IBM), August 2020)",
+      "object": {
+        "text": "resides"
+      },
+      "action": {
+        "verb": {
+          "text": "link",
+          "tense": "present"
+        },
+        "text": "link",
+        "normalized": "link"
+      }
+    },
+    {
+      "subject": {
+        "text": "IDC (link"
+      },
+      "sentence": " Ranking in IDC’s AI Market for 2020 market share (source: IDC (link resides outside IBM), August 2020)",
+      "action": {
+        "verb": {
+          "text": "reside",
+          "tense": "present"
+        },
+        "text": "resides",
+        "normalized": "reside"
+      }
+    },
+    {
+      "subject": {
+        "text": "work"
+      },
+      "sentence": " Operationalize AI and transform how work gets done with our proven capabilities and experience with +100 million users.",
+      "object": {
+        "text": "done with our proven capabilities"
+      },
+      "action": {
+        "verb": {
+          "text": "get",
+          "tense": "present"
+        },
+        "text": "gets",
+        "normalized": "get"
+      }
+    },
+    {
+      "subject": {
+        "text": "Transparent processes"
+      },
+      "sentence": " Transparent processes provide insight into AI-led decisions.",
+      "object": {
+        "text": "insight"
+      },
+      "action": {
+        "verb": {
+          "text": "provide",
+          "tense": "present"
+        },
+        "text": "provide",
+        "normalized": "provide"
+      }
+    },
+    {
+      "subject": {
+        "text": "We"
+      },
+      "sentence": " We enable data privacy, compliance and security across highly regulated industries, and support an open, diverse ecosystem driving responsible use of AI.",
+      "object": {
+        "text": "data privacy, compliance and security across highly regulated industries, and support an open, diverse ecosystem driving responsible use of AI"
+      },
+      "action": {
+        "verb": {
+          "text": "enable",
+          "tense": "present"
+        },
+        "text": "enable",
+        "normalized": "enable"
+      }
+    },
+    {
+      "subject": {
+        "text": "Watson"
+      },
+      "sentence": " Watson understands the language of your business.",
+      "object": {
+        "text": "the language of your business"
+      },
+      "action": {
+        "verb": {
+          "text": "understand",
+          "tense": "present"
+        },
+        "text": "understands",
+        "normalized": "understand"
+      }
+    },
+    {
+      "subject": {
+        "text": "Natural language processing"
+      },
+      "sentence": " Natural language processing lets Watson analyze complex, unstructured data, computer code, and even industry-specific jargon.",
+      "object": {
+        "text": "Watson analyze complex, unstructured data, computer code, and even industry-specific jargon"
+      },
+      "action": {
+        "verb": {
+          "text": "let",
+          "tense": "present"
+        },
+        "text": "lets",
+        "normalized": "let"
+      }
+    },
+    {
+      "subject": {
+        "text": "you"
+      },
+      "sentence": " So you can make more informed decisions and deliver better experiences.",
+      "object": {
+        "text": "more informed decisions"
+      },
+      "action": {
+        "verb": {
+          "text": "make",
+          "tense": "future"
+        },
+        "text": "can make",
+        "normalized": "can make"
+      }
+    },
+    {
+      "subject": {
+        "text": "you"
+      },
+      "sentence": " So you can make more informed decisions and deliver better experiences.",
+      "object": {
+        "text": "better experiences"
+      },
+      "action": {
+        "verb": {
+          "text": "deliver",
+          "tense": "present"
+        },
+        "text": "deliver",
+        "normalized": "deliver"
+      }
+    },
+    {
+      "subject": {
+        "text": "Watson"
+      },
+      "sentence": " Watson streamlines how businesses operate and yields leaps in productivity.",
+      "object": {
+        "text": "how businesses operate and yields"
+      },
+      "action": {
+        "verb": {
+          "text": "streamline",
+          "tense": "present"
+        },
+        "text": "streamlines",
+        "normalized": "streamline"
+      }
+    },
+    {
+      "subject": {
+        "text": "skilled-labor shortages"
+      },
+      "sentence": " Augment core strengths, offset skilled-labor shortages, and give employees more time to focus on creating new value.",
+      "object": {
+        "text": "Augment core strengths"
+      },
+      "action": {
+        "verb": {
+          "text": "offset",
+          "tense": "present"
+        },
+        "text": "offset",
+        "normalized": "offset"
+      }
+    },
+    {
+      "subject": {
+        "text": "employees"
+      },
+      "sentence": " Augment core strengths, offset skilled-labor shortages, and give employees more time to focus on creating new value.",
+      "object": {
+        "text": "new value"
+      },
+      "action": {
+        "verb": {
+          "text": "create",
+          "tense": "future"
+        },
+        "text": "creating",
+        "normalized": "create"
+      }
+    },
+    {
+      "subject": {
+        "text": "Watson"
+      },
+      "sentence": " Watson works securely on any cloud.",
+      "action": {
+        "verb": {
+          "text": "work",
+          "tense": "present"
+        },
+        "text": "works",
+        "normalized": "work"
+      }
+    },
+    {
+      "subject": {
+        "text": "This"
+      },
+      "sentence": " This means a more unified view of your data, more consistency and flexibility, and better integration.",
+      "object": {
+        "text": "a more unified view of your data, more consistency and flexibility, and better integration"
+      },
+      "action": {
+        "verb": {
+          "text": "mean",
+          "tense": "present"
+        },
+        "text": "means",
+        "normalized": "mean"
+      }
+    },
+    {
+      "subject": {
+        "text": "GM Financial"
+      },
+      "sentence": " To improve the customer experience, GM Financial replaced their basic chatbot with Watson Assistant, automating responses to customer inquiries and enabling agents to focus on more complex work.",
+      "object": {
+        "text": "their basic chatbot"
+      },
+      "action": {
+        "verb": {
+          "text": "replace",
+          "tense": "past"
+        },
+        "text": "replaced",
+        "normalized": "replace"
+      }
+    },
+    {
+      "subject": {
+        "text": "Lufthansa"
+      },
+      "sentence": " In partnership with IBM Watson Advertising and by leveraging IBM Watson-powered Natural Language Understanding, Lufthansa was able to deliver unique travel inspiration through personalized conversations with customers.",
+      "object": {
+        "text": "IBM Watson-powered Natural Language Understanding"
+      },
+      "action": {
+        "verb": {
+          "text": "leverage",
+          "tense": "present"
+        },
+        "text": "leveraging",
+        "normalized": "leverage"
+      }
+    },
+    {
+      "subject": {
+        "text": "Lufthansa"
+      },
+      "sentence": " In partnership with IBM Watson Advertising and by leveraging IBM Watson-powered Natural Language Understanding, Lufthansa was able to deliver unique travel inspiration through personalized conversations with customers.",
+      "object": {
+        "text": "unique travel inspiration"
+      },
+      "action": {
+        "verb": {
+          "text": "deliver",
+          "tense": "past"
+        },
+        "text": "to deliver",
+        "normalized": "to deliver"
+      }
+    },
+    {
+      "subject": {
+        "text": "Lufthansa"
+      },
+      "sentence": " In partnership with IBM Watson Advertising and by leveraging IBM Watson-powered Natural Language Understanding, Lufthansa was able to deliver unique travel inspiration through personalized conversations with customers.",
+      "object": {
+        "text": "conversations"
+      },
+      "action": {
+        "verb": {
+          "text": "personalize",
+          "tense": "past"
+        },
+        "text": "personalized",
+        "normalized": "personalize"
+      }
+    },
+    {
+      "subject": {
+        "text": "GSK"
+      },
+      "sentence": " In just 10 months, GSK launched 16 virtual assistants to improve customer satisfaction and employee productivity with Watson Assistant.",
+      "object": {
+        "text": "16 virtual assistants"
+      },
+      "action": {
+        "verb": {
+          "text": "launch",
+          "tense": "past"
+        },
+        "text": "launched",
+        "normalized": "launch"
+      }
+    },
+    {
+      "subject": {
+        "text": "GSK"
+      },
+      "sentence": " In just 10 months, GSK launched 16 virtual assistants to improve customer satisfaction and employee productivity with Watson Assistant.",
+      "object": {
+        "text": "customer satisfaction and employee productivity"
+      },
+      "action": {
+        "verb": {
+          "text": "improve",
+          "tense": "future"
+        },
+        "text": "to improve",
+        "normalized": "to improve"
+      }
+    },
+    {
+      "subject": {
+        "text": "clients and field sellers"
+      },
+      "sentence": " Now, clients and field sellers can get answers to even their most complicated questions.",
+      "action": {
+        "verb": {
+          "text": "get",
+          "tense": "future"
+        },
+        "text": "can get",
+        "normalized": "can get"
+      }
+    },
+    {
+      "subject": {
+        "text": "BEHR"
+      },
+      "sentence": " BEHR leveraged IBM Watson Advertising Conversations to reach and engage with consumers in 1:1, personalized conversations, showcasing BEHR's top-of-the-category benefits, and helping increase brand favorability and purchase intent.",
+      "object": {
+        "text": "IBM Watson Advertising Conversations"
+      },
+      "action": {
+        "verb": {
+          "text": "leverage",
+          "tense": "past"
+        },
+        "text": "leveraged",
+        "normalized": "leverage"
+      }
+    },
+    {
+      "subject": {
+        "text": "AI"
+      },
+      "sentence": " AI is changing the way transaction diligence is performed at EY.",
+      "object": {
+        "text": "the way transaction diligence"
+      },
+      "action": {
+        "verb": {
+          "text": "change",
+          "tense": "present"
+        },
+        "text": "is changing",
+        "normalized": "be change"
+      }
+    },
+    {
+      "subject": {
+        "text": "transaction diligence"
+      },
+      "sentence": " AI is changing the way transaction diligence is performed at EY.",
+      "object": {
+        "text": "performed at EY"
+      },
+      "action": {
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "text": "is",
+        "normalized": "be"
+      }
+    },
+    {
+      "subject": {
+        "text": "EY"
+      },
+      "sentence": " With Watson Discovery EY can provide better transaction advice to clients, which they in turn can use to make better decisions and drive better outcomes.",
+      "object": {
+        "text": "better transaction advice"
+      },
+      "action": {
+        "verb": {
+          "text": "provide",
+          "tense": "future"
+        },
+        "text": "can provide",
+        "normalized": "can provide"
+      }
+    },
+    {
+      "subject": {
+        "text": "they"
+      },
+      "sentence": " With Watson Discovery EY can provide better transaction advice to clients, which they in turn can use to make better decisions and drive better outcomes.",
+      "object": {
+        "text": "better decisions and drive"
+      },
+      "action": {
+        "verb": {
+          "text": "make",
+          "tense": "future"
+        },
+        "text": "to make",
+        "normalized": "to make"
+      }
+    },
+    {
+      "subject": {
+        "text": "Leading security expert CMC TS"
+      },
+      "sentence": " Leading security expert CMC TS wanted to stay ahead of its market competitors.",
+      "object": {
+        "text": "to stay ahead of its market competitors"
+      },
+      "action": {
+        "verb": {
+          "text": "want",
+          "tense": "past"
+        },
+        "text": "wanted",
+        "normalized": "want"
+      }
+    },
+    {
+      "subject": {
+        "text": "Greenworks"
+      },
+      "sentence": " Greenworks saves 40% in IT costs by implementing IBM Sterling Supply Chain Business Network platform with Business Transaction Intelligence to give business users deep insight into their orders.",
+      "object": {
+        "text": "40%"
+      },
+      "action": {
+        "verb": {
+          "text": "save",
+          "tense": "present"
+        },
+        "text": "saves",
+        "normalized": "save"
+      }
+    },
+    {
+      "subject": {
+        "text": "IT"
+      },
+      "sentence": " Greenworks saves 40% in IT costs by implementing IBM Sterling Supply Chain Business Network platform with Business Transaction Intelligence to give business users deep insight into their orders.",
+      "object": {
+        "text": "by implementing IBM Sterling Supply Chain Business Network platform with Business Transaction Intelligence"
+      },
+      "action": {
+        "verb": {
+          "text": "cost",
+          "tense": "present"
+        },
+        "text": "costs",
+        "normalized": "cost"
+      }
+    },
+    {
+      "subject": {
+        "text": "Greenworks"
+      },
+      "sentence": " Greenworks saves 40% in IT costs by implementing IBM Sterling Supply Chain Business Network platform with Business Transaction Intelligence to give business users deep insight into their orders.",
+      "object": {
+        "text": "IBM Sterling Supply Chain Business Network platform with Business Transaction Intelligence to give business users deep insight into their orders"
+      },
+      "action": {
+        "verb": {
+          "text": "implement",
+          "tense": "present"
+        },
+        "text": "implementing",
+        "normalized": "implement"
+      }
+    },
+    {
+      "subject": {
+        "text": "data managers and administrators an open environment"
+      },
+      "sentence": " IBM Cloud Paks give developers, data managers and administrators an open environment to quickly build new cloud-native applications, modernize existing applications, and extend the AI capabilities of IBM Watson into their business in a consistent manner across multiple clouds.",
+      "object": {
+        "text": "new cloud-native applications"
+      },
+      "action": {
+        "verb": {
+          "text": "build",
+          "tense": "present"
+        },
+        "text": "build",
+        "normalized": "build"
+      }
+    },
+    {
+      "subject": {
+        "text": "IBM Cloud Paks give developers, data managers and administrators"
+      },
+      "sentence": " IBM Cloud Paks give developers, data managers and administrators an open environment to quickly build new cloud-native applications, modernize existing applications, and extend the AI capabilities of IBM Watson into their business in a consistent manner across multiple clouds.",
+      "object": {
+        "text": "existing applications"
+      },
+      "action": {
+        "verb": {
+          "text": "modernize",
+          "tense": "present"
+        },
+        "text": "modernize",
+        "normalized": "modernize"
+      }
+    },
+    {
+      "subject": {
+        "text": "IBM Cloud Paks give developers, data managers and administrators"
+      },
+      "sentence": " IBM Cloud Paks give developers, data managers and administrators an open environment to quickly build new cloud-native applications, modernize existing applications, and extend the AI capabilities of IBM Watson into their business in a consistent manner across multiple clouds.",
+      "object": {
+        "text": "the AI capabilities"
+      },
+      "action": {
+        "verb": {
+          "text": "extend",
+          "tense": "present"
+        },
+        "text": "extend",
+        "normalized": "extend"
+      }
+    }
+  ],
+  "retrieved_url": "https://www.ibm.com/watson",
+  "relations": [
+    {
+      "type": "partOfMany",
+      "sentence": "Ranking in IDC's AI Market for 2020 market share (source: IDC (link resides outside IBM), August 2020) Operationalize AI and transform how work gets done with our proven capabilities and experience with +100 million users.",
+      "score": 0.485118,
+      "arguments": [
+        {
+          "text": "Operationalize AI",
+          "location": [
+            281,
+            298
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Operationalize AI"
+            }
+          ]
+        },
+        {
+          "text": "our",
+          "location": [
+            337,
+            340
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "our"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "agentOf",
+      "sentence": "To improve the customer experience, GM Financial replaced their basic chatbot with Watson Assistant, automating responses to customer inquiries and enabling agents to focus on more complex work.",
+      "score": 0.977425,
+      "arguments": [
+        {
+          "text": "GM Financial",
+          "location": [
+            1459,
+            1471
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "GM Financial",
+              "disambiguation": {
+                "subtype": [
+                  "Commercial"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "replaced",
+          "location": [
+            1472,
+            1480
+          ],
+          "entities": [
+            {
+              "type": "EventPersonnel",
+              "text": "replaced"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "participantIn",
+      "sentence": "In partnership with IBM Watson Advertising and by leveraging IBM Watson-powered Natural Language Understanding, Lufthansa was able to deliver unique travel inspiration through personalized conversations with customers.",
+      "score": 0.96041,
+      "arguments": [
+        {
+          "text": "customers",
+          "location": [
+            1826,
+            1835
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "customers"
+            }
+          ]
+        },
+        {
+          "text": "conversations",
+          "location": [
+            1807,
+            1820
+          ],
+          "entities": [
+            {
+              "type": "EventMeeting",
+              "text": "conversations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "employedBy",
+      "sentence": "In just 10 months, GSK launched 16 virtual assistants to improve customer satisfaction and employee productivity with Watson Assistant.",
+      "score": 0.466145,
+      "arguments": [
+        {
+          "text": "assistants",
+          "location": [
+            1880,
+            1890
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "assistants"
+            }
+          ]
+        },
+        {
+          "text": "GSK",
+          "location": [
+            1856,
+            1859
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "GSK",
+              "disambiguation": {
+                "subtype": [
+                  "Commercial"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "participantIn",
+      "sentence": "BEHR leveraged IBM Watson Advertising Conversations to reach and engage with consumers in 1:1, personalized conversations, showcasing BEHR's top-of-the-category benefits, and helping increase brand favorability and purchase intent.",
+      "score": 0.795841,
+      "arguments": [
+        {
+          "text": "BEHR",
+          "location": [
+            2062,
+            2066
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "BEHR"
+            }
+          ]
+        },
+        {
+          "text": "conversations",
+          "location": [
+            2170,
+            2183
+          ],
+          "entities": [
+            {
+              "type": "EventMeeting",
+              "text": "conversations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "partOf",
+      "sentence": "Leading security expert CMC TS wanted to stay ahead of its market competitors.",
+      "score": 0.857013,
+      "arguments": [
+        {
+          "text": "competitors",
+          "location": [
+            2579,
+            2590
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "competitors",
+              "disambiguation": {
+                "subtype": [
+                  "Commercial"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "its",
+          "location": [
+            2568,
+            2571
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "its"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ownerOf",
+      "sentence": "Greenworks saves 40% in IT costs by implementing IBM Sterling Supply Chain Business Network platform with Business Transaction Intelligence to give business users deep insight into their orders.",
+      "score": 0.85513,
+      "arguments": [
+        {
+          "text": "IBM Sterling Supply Chain Business Network",
+          "location": [
+            2778,
+            2820
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "IBM Sterling Supply Chain Business Network",
+              "disambiguation": {
+                "subtype": [
+                  "Commercial"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "platform",
+          "location": [
+            2821,
+            2829
+          ],
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "platform"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "employedBy",
+      "sentence": "IBM Cloud Paks give developers, data managers and administrators an open environment to quickly build new cloud-native applications, modernize existing applications, and extend the AI capabilities of IBM Watson into their business in a consistent manner across multiple clouds.",
+      "score": 0.303643,
+      "arguments": [
+        {
+          "text": "administrators",
+          "location": [
+            2974,
+            2988
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "administrators"
+            }
+          ]
+        },
+        {
+          "text": "IBM Cloud Paks",
+          "location": [
+            2924,
+            2938
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "IBM Sterling Supply Chain Business Network",
+              "disambiguation": {
+                "subtype": [
+                  "Commercial"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "IBM Watson",
+    "publication_date": "",
+    "image": "https://1.www.s81c.com/common/images/ibm-leadspace-1200x627.jpg",
+    "feeds": [],
+    "authors": []
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "IBM’s portfolio",
+      "relevance": 0.796703,
+      "count": 1
+    },
+    {
+      "text": "IBM Watson Advertising",
+      "relevance": 0.621421,
+      "count": 1
+    },
+    {
+      "text": "lets Watson",
+      "relevance": 0.589942,
+      "count": 1
+    },
+    {
+      "text": "customer experience",
+      "relevance": 0.588796,
+      "count": 1
+    },
+    {
+      "text": "data privacy",
+      "relevance": 0.571241,
+      "count": 1
+    },
+    {
+      "text": "Watson",
+      "relevance": 0.570525,
+      "count": 5
+    },
+    {
+      "text": "IBM Watson",
+      "relevance": 0.56911,
+      "count": 1
+    },
+    {
+      "text": "IBM Watson Advertising Conversations",
+      "relevance": 0.566782,
+      "count": 1
+    },
+    {
+      "text": "Natural language",
+      "relevance": 0.563645,
+      "count": 1
+    },
+    {
+      "text": "business-ready tools",
+      "relevance": 0.552847,
+      "count": 1
+    },
+    {
+      "text": "market share",
+      "relevance": 0.549934,
+      "count": 1
+    },
+    {
+      "text": "Transparent processes",
+      "relevance": 0.544344,
+      "count": 1
+    },
+    {
+      "text": "way transaction diligence",
+      "relevance": 0.539125,
+      "count": 1
+    },
+    {
+      "text": "IBM",
+      "relevance": 0.537038,
+      "count": 2
+    },
+    {
+      "text": "customer satisfaction",
+      "relevance": 0.535282,
+      "count": 1
+    },
+    {
+      "text": "Red Hat OpenShift",
+      "relevance": 0.534317,
+      "count": 1
+    },
+    {
+      "text": "Watson Assistant",
+      "relevance": 0.533223,
+      "count": 2
+    },
+    {
+      "text": "security expert CMC TS",
+      "relevance": 0.533098,
+      "count": 1
+    },
+    {
+      "text": "IBM Security",
+      "relevance": 0.532857,
+      "count": 1
+    },
+    {
+      "text": "language of your business",
+      "relevance": 0.532013,
+      "count": 1
+    },
+    {
+      "text": "new cloud-native applications",
+      "relevance": 0.531518,
+      "count": 1
+    },
+    {
+      "text": "GM Financial",
+      "relevance": 0.530094,
+      "count": 1
+    },
+    {
+      "text": "IBM Cloud Paks",
+      "relevance": 0.52909,
+      "count": 1
+    },
+    {
+      "text": "basic chatbot",
+      "relevance": 0.527799,
+      "count": 1
+    },
+    {
+      "text": "Natural Language Understanding",
+      "relevance": 0.526806,
+      "count": 1
+    },
+    {
+      "text": "IBM QRadar Advisor",
+      "relevance": 0.526,
+      "count": 1
+    },
+    {
+      "text": "unstructured data",
+      "relevance": 0.522642,
+      "count": 1
+    },
+    {
+      "text": "virtual assistants",
+      "relevance": 0.522033,
+      "count": 1
+    },
+    {
+      "text": "customer inquiries",
+      "relevance": 0.52178,
+      "count": 1
+    },
+    {
+      "text": "AI capabilities of IBM Watson",
+      "relevance": 0.521672,
+      "count": 1
+    },
+    {
+      "text": "Watson Discovery EY",
+      "relevance": 0.520621,
+      "count": 1
+    },
+    {
+      "text": "Resilient software",
+      "relevance": 0.519874,
+      "count": 1
+    },
+    {
+      "text": "core strengths",
+      "relevance": 0.519641,
+      "count": 1
+    },
+    {
+      "text": "business users",
+      "relevance": 0.519246,
+      "count": 1
+    },
+    {
+      "text": "months",
+      "relevance": 0.51908,
+      "count": 1
+    },
+    {
+      "text": "applications",
+      "relevance": 0.518224,
+      "count": 2
+    },
+    {
+      "text": "unique travel inspiration",
+      "relevance": 0.517949,
+      "count": 1
+    },
+    {
+      "text": "security",
+      "relevance": 0.517454,
+      "count": 1
+    },
+    {
+      "text": "security offerings",
+      "relevance": 0.51685,
+      "count": 1
+    },
+    {
+      "text": "transaction advice",
+      "relevance": 0.515395,
+      "count": 1
+    },
+    {
+      "text": "Market",
+      "relevance": 0.514508,
+      "count": 1
+    },
+    {
+      "text": "BEHR",
+      "relevance": 0.514354,
+      "count": 2
+    },
+    {
+      "text": "open environment",
+      "relevance": 0.514096,
+      "count": 1
+    },
+    {
+      "text": "work gets",
+      "relevance": 0.513179,
+      "count": 1
+    },
+    {
+      "text": "clients",
+      "relevance": 0.511932,
+      "count": 2
+    },
+    {
+      "text": "IDC",
+      "relevance": 0.511723,
+      "count": 2
+    },
+    {
+      "text": "GSK",
+      "relevance": 0.51163,
+      "count": 1
+    },
+    {
+      "text": "unified view of your data",
+      "relevance": 0.511092,
+      "count": 1
+    },
+    {
+      "text": "costs",
+      "relevance": 0.510881,
+      "count": 1
+    },
+    {
+      "text": "skilled-labor shortages",
+      "relevance": 0.51076,
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Watson",
+      "relevance": 0.955042,
+      "count": 7,
+      "confidence": 1
+    },
+    {
+      "type": "Organization",
+      "text": "IBM",
+      "relevance": 0.646342,
+      "count": 7,
+      "confidence": 1.0
+    },
+    {
+      "type": "Organization",
+      "text": "AI Market",
+      "relevance": 0.553744,
+      "count": 1,
+      "confidence": 0.413554
+    },
+    {
+      "type": "Organization",
+      "text": "IDC",
+      "relevance": 0.549079,
+      "disambiguation": {
+        "name": "Corporation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Corporation"
+      },
+      "count": 2,
+      "confidence": 0.996326
+    },
+    {
+      "type": "Organization",
+      "text": "GM Financial",
+      "relevance": 0.346836,
+      "disambiguation": {
+        "name": "GM_Financial",
+        "dbpedia_resource": "http://dbpedia.org/resource/GM_Financial"
+      },
+      "count": 1,
+      "confidence": 0.584494
+    },
+    {
+      "type": "JobTitle",
+      "text": "Watson Assistant",
+      "relevance": 0.338161,
+      "count": 1,
+      "confidence": 0.535069
+    },
+    {
+      "type": "Organization",
+      "text": "IBM Watson Advertising",
+      "relevance": 0.31397,
+      "count": 1,
+      "confidence": 0.486544
+    },
+    {
+      "type": "JobTitle",
+      "text": "virtual assistants",
+      "relevance": 0.271372,
+      "count": 1,
+      "confidence": 0.576799
+    },
+    {
+      "type": "Organization",
+      "text": "BEHR",
+      "relevance": 0.258112,
+      "count": 2,
+      "confidence": 0.798907
+    },
+    {
+      "type": "Person",
+      "text": "Watson Assistant",
+      "relevance": 0.255994,
+      "count": 1,
+      "confidence": 0.512552
+    },
+    {
+      "type": "JobTitle",
+      "text": "field sellers",
+      "relevance": 0.249661,
+      "count": 1,
+      "confidence": 0.27948
+    },
+    {
+      "type": "Organization",
+      "text": "GCP",
+      "relevance": 0.233546,
+      "count": 1,
+      "confidence": 0.793984
+    },
+    {
+      "type": "Organization",
+      "text": "AWS",
+      "relevance": 0.211662,
+      "count": 1,
+      "confidence": 0.789322
+    },
+    {
+      "type": "Organization",
+      "text": "Watson Discovery EY",
+      "relevance": 0.176298,
+      "count": 1,
+      "confidence": 0.582831
+    },
+    {
+      "type": "Organization",
+      "text": "Lufthansa",
+      "relevance": 0.161535,
+      "disambiguation": {
+        "subtype": [
+          "Company",
+          "Airline",
+          "TransportOperator"
+        ],
+        "name": "Lufthansa",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lufthansa"
+      },
+      "count": 1,
+      "confidence": 0.923629
+    },
+    {
+      "type": "Organization",
+      "text": "GSK",
+      "relevance": 0.15754,
+      "count": 1,
+      "confidence": 0.939321
+    },
+    {
+      "type": "Organization",
+      "text": "CMC TS",
+      "relevance": 0.142603,
+      "count": 1,
+      "confidence": 0.451811
+    },
+    {
+      "type": "Organization",
+      "text": "EY",
+      "relevance": 0.104979,
+      "disambiguation": {
+        "subtype": [
+          "Company"
+        ],
+        "name": "Ernst_%26_Young",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ernst_%26_Young"
+      },
+      "count": 1,
+      "confidence": 0.886843
+    },
+    {
+      "type": "Organization",
+      "text": "Greenworks",
+      "relevance": 0.102268,
+      "disambiguation": {
+        "name": "Green-Works",
+        "dbpedia_resource": "http://dbpedia.org/resource/Green-Works"
+      },
+      "count": 1,
+      "confidence": 0.910258
+    },
+    {
+      "type": "Organization",
+      "text": "IBM Sterling Supply Chain Business Network",
+      "relevance": 0.088483,
+      "count": 1,
+      "confidence": 0.497097
+    },
+    {
+      "type": "JobTitle",
+      "text": "Business Transaction Intelligence",
+      "relevance": 0.077247,
+      "count": 1,
+      "confidence": 0.594724
+    },
+    {
+      "type": "JobTitle",
+      "text": "data managers",
+      "relevance": 0.053183,
+      "count": 1,
+      "confidence": 0.666588
+    },
+    {
+      "type": "JobTitle",
+      "text": "administrators",
+      "relevance": 0.019782,
+      "count": 1,
+      "confidence": 0.775115
+    },
+    {
+      "type": "Location",
+      "text": "IT",
+      "relevance": 0.008796,
+      "count": 1,
+      "confidence": 0.67223
+    }
+  ],
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.086105,
+        "joy": 0.524746,
+        "fear": 0.054858,
+        "disgust": 0.02964,
+        "anger": 0.076315
+      }
+    }
+  },
+  "concepts": [
+    {
+      "text": "Natural language processing",
+      "relevance": 0.949545,
+      "dbpedia_resource": "http://dbpedia.org/resource/Natural_language_processing"
+    },
+    {
+      "text": "Natural language understanding",
+      "relevance": 0.60341,
+      "dbpedia_resource": "http://dbpedia.org/resource/Natural_language_understanding"
+    },
+    {
+      "text": "Trigraph",
+      "relevance": 0.563595,
+      "dbpedia_resource": "http://dbpedia.org/resource/Trigraph_(orthography)"
+    },
+    {
+      "text": "Thomas J. Watson",
+      "relevance": 0.532523,
+      "dbpedia_resource": "http://dbpedia.org/resource/Thomas_J._Watson"
+    },
+    {
+      "text": "Artificial intelligence",
+      "relevance": 0.531724,
+      "dbpedia_resource": "http://dbpedia.org/resource/Artificial_intelligence"
+    },
+    {
+      "text": "Lotus Software",
+      "relevance": 0.506975,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lotus_Software"
+    },
+    {
+      "text": "Gh",
+      "relevance": 0.475784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gh_(digraph)"
+    },
+    {
+      "text": "Computer",
+      "relevance": 0.463451,
+      "dbpedia_resource": "http://dbpedia.org/resource/Computer"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.949623,
+      "label": "/business and industrial/business software"
+    },
+    {
+      "score": 0.89087,
+      "label": "/technology and computing/software"
+    },
+    {
+      "score": 0.882689,
+      "label": "/business and industrial/business operations/management/business process"
+    }
+  ]
+}
