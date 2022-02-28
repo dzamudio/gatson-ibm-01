@@ -19,6 +19,18 @@ function sanitizeText($dbConn, $string)
     return $sanitized;
 }
 
+// check if this function exists in PHP version
+if( !function_exists('str_starts_with')) {
+    function str_starts_with($haystack, $needle){
+        $checkVal = strpos($haystack, $needle, 0);
+        if($checkVal === 0) { // str does start with
+            return true;
+        }else{
+            return false;
+        }
+    }
+}
+
 
 $simpleArray = array(
     'food'=>array(
@@ -392,11 +404,11 @@ function lazyIteration(){
             print("\n\n-----------------------------VALUES PATHS Rev(1)-----------------------------\n\n");
 
             foreach ($arrayPathsToValues as $val) {
-                $timings = array(50000, 300000, 90000);
+                $timings = array(10000, 100000, 10000);
 
                 $randTime = mt_rand(0, 2);
 
-                if (!str_contains($val, "syntax.tokens") && !str_contains($val, "syntax.sentences")) {
+                if (!strpos($val, "syntax.tokens") && !strpos($val, "syntax.sentences")) {
                     // do nothing, but this is an example of excluding
                 }
                 include("liveIncludeTest.php");
@@ -482,3 +494,4 @@ error_log("END EXECUTION MEMORY");
 error_log(" " . (memory_get_usage()/1024) . "kb");
 error_log(" " . (memory_get_usage()/1048576) . "mb");
 
+die();
