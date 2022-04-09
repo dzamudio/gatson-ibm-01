@@ -9,9 +9,9 @@ include_once("helpers.php");
 class NLP
 {
 
-    private $apiUrl = null;
-    private $apiKey = null;
-    private $apiVer = null;
+    private $apiUrl = "https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/4343cace-f35a-465f-b9c0-5cf106825657";
+    private $apiKey = "eQK34W4VWmLYYnWn_BXpUV2jE8E0BMKpRtA6kGPZpfYU";
+    private $apiVer = "/v1/analyze?version=2020-12-09";
     public $debug;
     public $apiCallSignature;
 
