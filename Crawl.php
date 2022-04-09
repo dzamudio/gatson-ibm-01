@@ -1,14 +1,11 @@
 <?php
-namespace Core;
-use DOMDocument;
-use DOMXpath;
-use stdClass;
+
 
 class Crawl
 {
     private $output;
     private $domDocument;
-    private bool $domDocumentExistsBool = false;
+    private $domDocumentExistsBool = false;
 
     function getPage($url): bool
     {

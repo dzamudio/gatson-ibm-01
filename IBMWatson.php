@@ -1,19 +1,26 @@
 <?php
-namespace API\Watson;
 
-use http\Params;
 
+include_once("php_config.php");
 include("DatabaseHandler.php");
-include_once("helpers.php");
+//include_once("helpers.php");
 
 class NLP
 {
+    private $apiUrl;
+    private $apiKey;
+    private $apiVer;
 
-    private $apiUrl = "https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/4343cace-f35a-465f-b9c0-5cf106825657";
-    private $apiKey = "eQK34W4VWmLYYnWn_BXpUV2jE8E0BMKpRtA6kGPZpfYU";
-    private $apiVer = "/v1/analyze?version=2020-12-09";
     public $debug;
     public $apiCallSignature;
+
+    public function __construct()
+    {
+        global $apiConfig;
+        $this->apiUrl = $apiConfig->apiUrl;
+        $this->apiKey = $apiConfig->apiKey;
+        $this->apiVer = $apiConfig->apiVer;
+    }
 
     /**
      * @param string $url The url whose contents will be crawled and analyzed.
@@ -21,6 +28,9 @@ class NLP
      */
     public function analyzeURL($url)
     {
+
+        global $apiConfig;
+
         /*
          * Please see https://cloud.ibm.com/apidocs/natural-language-understanding#text-analytics-features
          * for more options in what can be added to the request api
@@ -86,7 +96,7 @@ class NLP
             $this->debug = file_get_contents($existingJSONFileName);
         }
 
-        $db = new \Core\DatabaseHandler;
+        $db = new DatabaseHandler;
 
         /*
          * Recursive function needed ...
@@ -96,7 +106,11 @@ class NLP
         print("\n\nAPI CALL ALREADY EXISTS - {$existingJSONFileName}\n\n");
 
         $responseObj = json_decode($this->debug);
-        recursive_columns_finder(json_decode($this->debug, true));
+        //recursive_columns_finder(json_decode($this->debug, true));
+        //@todo need to continue the original intention of this.
+        echo "<pre>";
+        print_r($responseObj);
+        echo "</pre>";
         echo "done with recursion";
         die();
 

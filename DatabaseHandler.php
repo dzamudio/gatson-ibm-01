@@ -1,8 +1,4 @@
 <?php
-namespace Core;
-
-use http\Params;
-use mysqli;
 
 class DatabaseHandler
 {
